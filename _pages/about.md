@@ -12,7 +12,7 @@ I will join the ECE Department of the Hong Kong University of Science and Techno
 
 Student recruitment
 ======
-I am now eagerly looking for motivated students to join my lab in HKUST. Please [email](zhiyao.xie@duke.edu) me if you are interested. 
+I am now eagerly looking for motivated students to join my lab as graduate students in HKUST. Do not hesitate to [email](zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested. 
 
 HKUST ranked No.34 in QS World University Rankings 2022. The monthly salary of Ph.D. students is HKD 15,000-20,000. 
 
