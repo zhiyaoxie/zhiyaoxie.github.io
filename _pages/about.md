@@ -12,7 +12,7 @@ I will join the ECE Department of Hong Kong University of Science and Technology
 
 Ph.D. student recruitment
 ======
-I am now eagerly looking for motivated students to join my lab as Ph.D. students in HKUST. Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested. 
+- I am now eagerly looking for motivated students to join my lab as Ph.D. students in HKUST -. Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested. 
 
 It is preferred if the application has strong background on any of these fields: VLSI design, computer engineering, machine learning, algorithm design, applied math, programming, etc. Also, I do realize this is not common for undergraduate students. As long as you are diligent and intelligent, you are welcomed to contact me.  
 
