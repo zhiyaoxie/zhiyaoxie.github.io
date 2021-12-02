@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I will join the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor in early 2022. I received my Ph.D. degree from ECE Department of Duke University, advised by [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai (Helen) Li](https://ece.duke.edu/faculty/hai-helen-li). My research interests include electronic design automation, VLSI design, machine learning, and computer architecture. I am especially professional in machine learning in design automation. I am the receip
+I will join the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor in early 2022. I received my Ph.D. degree from ECE Department of Duke University, advised by [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai (Helen) Li](https://ece.duke.edu/faculty/hai-helen-li). My research interests include electronic design automation, VLSI design, machine learning, and computer architecture. I am especially professional in machine learning in design automation. I am the recipient of MICRO 2021 Best Paper Award.
 
 Ph.D. student recruitment
 ======
-I am now eagerly looking for motivated students to join my lab as Ph.D. students in HKUST. Do not hesitate to [email](zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested. 
+I am now eagerly looking for motivated students to join my lab as Ph.D. students in HKUST. Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested. 
 
-It is preferred if the application has strong background on any of these fields: VLSI design, computer engineering, machine learning, algorithm design, applied math, programming, etc. Also, I do realize this is not common for undergraduate studetns. As long as you are diligent and intelligent, you are welcomed to contact me.  
+It is preferred if the application has strong background on any of these fields: VLSI design, computer engineering, machine learning, algorithm design, applied math, programming, etc. Also, I do realize this is not common for undergraduate students. As long as you are diligent and intelligent, you are welcomed to contact me.  
 
 Basic Information about the Ph.D. program: The program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. HKUST ranked No.34 in QS World University Rankings 2022. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
