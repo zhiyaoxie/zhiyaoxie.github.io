@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.Eng in ECE, City University of Hong Kong, 2017
 * Ph.D in Computer Engineering, Duke University, 2022 
 
 Work experience
