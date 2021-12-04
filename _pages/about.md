@@ -16,11 +16,6 @@ I am now eagerly looking for motivated students to join my lab as Ph.D. students
 
 It is preferred if the application has strong background on any of these fields: VLSI design, computer engineering, machine learning, algorithm design, applied math, programming, etc. Also, I do realize this is not common for undergraduate students. As long as you are diligent and intelligent, you are welcomed to contact me.  
 
- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-
-<text color="red">Test</text>
-
-
 Basic Information about the Ph.D. program: The program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. HKUST ranked No.34 in QS World University Rankings 2022. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
 A data-driven personal website
