@@ -58,13 +58,8 @@ S
 + green
 ! orange
 # gray
-```
-
 -! Warning !-
-
 +( Venisons dear isn't it? )+
-
-
-
+```
 
 
