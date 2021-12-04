@@ -32,6 +32,7 @@ To support this, all changes to the underlying code appear as a closed issue wit
 
 
 + C +
+"+ C +"
 - O -
 ! L !
 @@ O @@
@@ -39,6 +40,8 @@ To support this, all changes to the underlying code appear as a closed issue wit
 S
 
 ![Red text](http://placehold.it/size/background-hex/foreground-hex?text=a123)
+
+![#FF0000](https://placehold.it/15/FF0000/000000?text=+)
 
 
 ```diff
@@ -48,5 +51,20 @@ S
 @@ Pink @@
 # Gray
 ...
+```
+
+```diff
+- red
++ green
+! orange
+# gray
+```
+
+-! Warning !-
+
++( Venisons dear isn't it? )+
+
+
+
 
 
