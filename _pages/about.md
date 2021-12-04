@@ -14,10 +14,10 @@ Ph.D. student recruitment
 ======
 **I am now eagerly looking for motivated students to join my lab as Ph.D. students in HKUST on Fall 2022.** Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested.
 
-It is preferred if the application has strong background on any of these fields: VLSI design, computer engineering, machine learning, algorithm design, applied math, programming, etc. Also, I do realize this is not common for undergraduate students. As long as you are diligent and intelligent, you are welcomed to contact me.  
+It is preferred if the applicant has good background on any of these fields: VLSI design, computer engineering, machine learning, algorithm design, applied math, etc. Strong programming ability is a big plus. Actually, as long as you are diligent and intelligent, you are welcomed to contact me.  
 
-Basic Information about the Ph.D. program: The program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. HKUST ranked No.34 in QS World University Rankings 2022. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
+**Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
-Research Topics: I have multiple research topics on cutting-edge machine learning for EDA techniques. You can expect detailed instructions when starting your research. 
+**Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. You can expect detailed instructions when starting your research. 
 
 
