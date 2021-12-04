@@ -19,3 +19,15 @@ It is preferred if the application has strong background on any of these fields:
 Basic Information about the Ph.D. program: The program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. HKUST ranked No.34 in QS World University Rankings 2022. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
 
+
+```diff
+- red
++ green
+! orange
+# gray
+-! Warning !-
++( Venisons dear isn't it? )+
+```
+
+
+
