@@ -15,7 +15,7 @@ Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, C
 
 **Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, Fast IR Drop Estimation with Machine Learning (Invited). *In International Conference on Computer Aided Design (ICCAD)*, 2020.
 
-Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, Routing-Free Crosstalk Prediction. In International Conference on Computer Aided Design (ICCAD), 2020.
+Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, Routing-Free Crosstalk Prediction. *In International Conference on Computer Aided Design (ICCAD)*, 2020.
 
 **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, FIST: A Feature-Importance Sampling and Tree- Based Method for Automatic Design Flow Parameter Tuning. In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
 
