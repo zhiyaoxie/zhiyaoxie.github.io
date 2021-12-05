@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "[APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)". In International Symposium on Microarchitecture (MICRO), 2021. **(Best Paper Award)**
+**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "[APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)". In International Symposium on Microarchitecture (MICRO), 2021. [[pdf](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] **(Best Paper Award)**
 
-Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "[Automatic Routability Predictor Development Using Neural Architecture Search](https://arxiv.org/abs/2012.01737)". In International Conference on Computer Aided Design (ICCAD), 2021.
+Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "[Automatic Routability Predictor Development Using Neural Architecture Search](https://arxiv.org/abs/2012.01737)". In International Conference on Computer Aided Design (ICCAD), 2021. [[pdf](http://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf)]
 
-**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, Yiran Chen, "[Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation](https://ieeexplore.ieee.org/abstract/document/9371657)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
+**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, Yiran Chen, "[Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation](https://ieeexplore.ieee.org/abstract/document/9371657)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2021. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf)]
 
 **Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, "[Fast IR Drop Estimation with Machine Learning (Invited)](https://ieeexplore.ieee.org/document/9256803)". In International Conference on Computer Aided Design (ICCAD), 2020.
 
