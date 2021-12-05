@@ -21,10 +21,3 @@ Ph.D. student recruitment
 **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research. 
 
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
-
-
