@@ -5,9 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-"Truly Intelligent Circuit Design and Implementation." Seminar at Hong Kong University of Science and Technology. 2021. [[slides](http://zhiyaoxie.github.io/files/HKUST.pdf)]
+"Truly Intelligent Circuit Design and Implementation." Seminar at Hong Kong University of Science and Technology. 2021. [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
 
-"Truly Intelligent Circuit Design and Implementation." Seminar at City University of Hong Kong. 2021. [[pptx](http://zhiyaoxie.github.io/files/CityUtalk.pptx)]
+"Truly Intelligent Circuit Design and Implementation." Seminar at City University of Hong Kong. 2021. [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
 
 "Intelligent Circuit Design and Implementation with Machine Learning in EDA". ACM Student Research Competition at ICCAD 2021. [pptx]()
 
