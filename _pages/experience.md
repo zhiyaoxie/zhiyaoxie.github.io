@@ -15,14 +15,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Intern, Arm 
+  * June 2020 – Nov 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineer Intern, Synopsys
+  * May 2019 – Aug 2019 
   
+* Research Intern, Nvidia
+  * Sep 2018 – Dec 2018
+
+* Software Engineer Intern, Cadence
+  * June 2018 – Aug 2018
+
+
 
