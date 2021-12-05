@@ -1,12 +1,32 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Oral presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "[APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)". In International Symposium on Microarchitecture (MICRO), 2021. [[pdf](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] [[News_xinzhiyuan](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[News_jiqizhixin](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] **(Best Paper Award)**
+"Truly Intelligent Circuit Design and Implementation." Seminar at Hong Kong University of Science and Technology.
 
-Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "[Automatic Routability Predictor Development Using Neural Architecture Search](https://arxiv.org/abs/2012.01737)". In International Conference on Computer Aided Design (ICCAD), 2021. [[pdf](http://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf)]
+"Truly Intelligent Circuit Design and Implementation." Seminar at City University of Hong Kong.
+
+"APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors." In International Symposium on Microarchitecture (MICRO), 2021.
+
+A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction (Co-presenter). In SRC CADT Annual Review Presentation, 2021.
+
+Net2: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation. In Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
+
+PowerNet:Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network. In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
+
+FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning. In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
+
+FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning. In SRC TECHCON, 2020.
+
+PowerNet:Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network. In Workshop on Machine Learning for CAD (MLCAD), 2019.
+
+FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning. In Workshop on Machine Learning for CAD (MLCAD), 2019.
+
+Deep Learning and GPU Acceleration for VLSI Physical Design (Co-presenter). In Nvidia GPU Technology Conference (GTC), 2018.
+
+RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network. In Interna- tional Conference on Computer Aided Design (ICCAD), 2018.
 
 
