@@ -11,17 +11,17 @@ Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, C
 
 **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, Yiran Chen, "[Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation](https://ieeexplore.ieee.org/abstract/document/9371657)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2021. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf)]
 
-**Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, "[Fast IR Drop Estimation with Machine Learning (Invited)](https://ieeexplore.ieee.org/document/9256803)". In International Conference on Computer Aided Design (ICCAD), 2020.
+**Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, "[Fast IR Drop Estimation with Machine Learning (Invited)](https://ieeexplore.ieee.org/document/9256803)". In International Conference on Computer Aided Design (ICCAD), 2020. [[pdf](http://zhiyaoxie.github.io/files/ICCAD20_IR.pdf)]
 
-Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, "[Routing-Free Crosstalk Prediction](https://ieeexplore.ieee.org/document/9256755)". In International Conference on Computer Aided Design (ICCAD), 2020.
+Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, "[Routing-Free Crosstalk Prediction](https://ieeexplore.ieee.org/document/9256755)". In International Conference on Computer Aided Design (ICCAD), 2020. 
 
-**Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, "[FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning](https://ieeexplore.ieee.org/document/9045201)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
+**Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, "[FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning](https://ieeexplore.ieee.org/document/9045201)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2020. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf)]
 
-**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, Yiran Chen, "[PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network](https://ieeexplore.ieee.org/document/9045574)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
+**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, Yiran Chen, "[PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network](https://ieeexplore.ieee.org/document/9045574)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2020. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf)]
 
 Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model](https://ieeexplore.ieee.org/document/8715126)". In Design, Automation and Test in Europe Conference (DATE), 2019.
 
-**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018.
+**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018. [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]
 
 In progress
 ======
