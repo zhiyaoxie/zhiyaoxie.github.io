@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-"Truly Intelligent Circuit Design and Implementation." Seminar at Hong Kong University of Science and Technology.
+"Truly Intelligent Circuit Design and Implementation." Seminar at Hong Kong University of Science and Technology. 2021.
 
-"Truly Intelligent Circuit Design and Implementation." Seminar at City University of Hong Kong.
+"Truly Intelligent Circuit Design and Implementation." Seminar at City University of Hong Kong. 2021.
+
+"Intelligent Circuit Design and Implementation with Machine Learning in EDA". ACM Student Research Competition at ICCAD 2021.
 
 "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors." In International Symposium on Microarchitecture (MICRO), 2021.
 
