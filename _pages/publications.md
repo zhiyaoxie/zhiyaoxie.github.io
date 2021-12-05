@@ -28,9 +28,9 @@ In progress
 
 **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Pre- Placement Net Length and Timing Estimation by Customized Graph Neural Network. (Under Review) Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [[pdf](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
 
-**Zhiyao Xie**, Rongjian Liang, Yiran Chen, "Deep Learning for Routability Prediction." In Machine Learning for EDA. (Book in Progress). Springer.
+**Zhiyao Xie**, Rongjian Liang, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction." In Machine Learning for EDA. (Book in Progress). Springer.
 
-Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu,  "Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation", In Machine Learning for EDA. (Book in Progress). Springer.
+Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation", In Machine Learning for EDA. (Book in Progress). Springer.
 
 Anonymous, "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction".
 
