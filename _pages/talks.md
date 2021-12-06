@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 **Truly Intelligent Circuit Design and Implementation.** [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
-* Seminar at Hong Kong University of Science and Technology. 2021.
-* Seminar at City University of Hong Kong. 2021
-* Invited talk at Alibaba, 2021
+    * Seminar at Hong Kong University of Science and Technology. 2021.
+    * Seminar at City University of Hong Kong. 2021
+    * Invited talk at Alibaba, 2021
 
 **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
 * In International Symposium on Microarchitecture (MICRO), 2021.
