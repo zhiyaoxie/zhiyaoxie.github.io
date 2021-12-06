@@ -10,7 +10,7 @@ redirect_from:
 
 I will join the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor in early 2022. I received my Ph.D. degree from ECE Department of Duke University, advised by [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai (Helen) Li](https://ece.duke.edu/faculty/hai-helen-li). My research interests include electronic design automation, VLSI design, machine learning, and computer architecture. I am especially professional in machine learning in design automation. I am the recipient of MICRO 2021 Best Paper Award.
 
-Ph.D. student recruitment
+Ph.D. Student Recruitment
 ======
 **I am now eagerly looking for motivated students to join my lab as Ph.D. students in HKUST on Fall 2022.** Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested.
 
