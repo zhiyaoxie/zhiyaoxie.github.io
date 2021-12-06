@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 **Truly Intelligent Circuit Design and Implementation.** [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
-* Seminar at Hong Kong University of Science and Technology. 2021.
-* Seminar at City University of Hong Kong. 2021
+* Seminar at Hong Kong University of Science and Technology, 2021.
+* Seminar at City University of Hong Kong, 2021.
 * Invited talk at Alibaba, 2021
 
 **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
@@ -17,7 +17,7 @@ author_profile: true
 * Invited talk at Biren Technology, 2021.
 
 **Intelligent Circuit Design and Implementation with Machine Learning in EDA.** [[slides](http://zhiyaoxie.github.io/files/21_SRC_ICCAD.pdf)]
-* ACM Student Research Competition at ICCAD 2021.
+* ACM Student Research Competition at ICCAD, 2021.
 
 **A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction.** (Co-presenter) [[slides](http://zhiyaoxie.github.io/files/21_SRC.pdf)]
 * In SRC CADT Annual Review Presentation, 2021.
