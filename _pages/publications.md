@@ -34,9 +34,6 @@ Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "C
 
 **Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Matt Elwood, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors". (Under Review) In IEEE Micro Top Picks.
 
-Anonymous, "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction".
-
-Anonymous, "Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data".
-
+Other anonymous conference submissions.
 
 
