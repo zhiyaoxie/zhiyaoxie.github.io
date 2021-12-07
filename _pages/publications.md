@@ -23,17 +23,14 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018. [[paper](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]
 
-In Progress
+Works In Progress
 ======
 
-**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network. (Under Review) Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
+**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network. (In Progress) Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
 
 **Zhiyao Xie**, Rongjian Liang, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction." In Machine Learning for EDA. (Book in Progress). Springer.
 
 Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation", In Machine Learning for EDA. (Book in Progress). Springer.
 
 **Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Matt Elwood, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors". (Under Review) In IEEE Micro Top Picks.
-
-Other anonymous conference submissions.
-
 
