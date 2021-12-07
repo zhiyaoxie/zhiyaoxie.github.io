@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, Duke University, 2022 
-* B.Eng in ECE, City University of Hong Kong, 2017
+* Ph.D. in Computer Engineering, Duke University, 2022 
+* B.Eng. in ECE, City University of Hong Kong, 2017
 
 Work experience
 ======

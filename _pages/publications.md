@@ -23,7 +23,7 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018. [[paper](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]
 
-Works In Progress
+In Progress
 ======
 
 **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network. (In Progress) Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
