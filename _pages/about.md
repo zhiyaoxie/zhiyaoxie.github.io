@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor in early 2022. I received my Ph.D. degree from ECE Department of Duke University, advised by [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai (Helen) Li](https://ece.duke.edu/faculty/hai-helen-li). My research interest lies in the intersection of electronic design automation, VLSI design, and machine learning, especially machine learning for chip design. I am the recipient of MICRO 2021 Best Paper Award.
+I will join the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor in early 2022. I received my Ph.D. degree from ECE Department of Duke University, advised by [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai (Helen) Li](https://ece.duke.edu/faculty/hai-helen-li). My research interest lies in the intersection of electronic design automation, hardware design, and machine learning. I am the recipient of MICRO 2021 Best Paper Award.
 
 Ph.D. Student Recruitment
 ======
