@@ -18,8 +18,8 @@ main:
   - title: "Experience"
     url: /experience/
     
-  - title: "Chinese"
-    url: /chinese/
+    #  - title: "Chinese"
+    #url: /chinese/
 
 #  - title: "Guide"
 #    url: /markdown/
