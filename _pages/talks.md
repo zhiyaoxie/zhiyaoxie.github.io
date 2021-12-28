@@ -9,11 +9,11 @@ author_profile: true
 * Seminar at Hong Kong University of Science and Technology, 2021.
 * Seminar at City University of Hong Kong, 2021.
 * Invited talk at Alibaba, 2021
+* Invited talk at AMD, 2021.
 
 **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
 * In International Symposium on Microarchitecture (MICRO), 2021.
 * Invited talk at Oak Ridge National Lab (ORNL), 2021.
-* Invited talk at AMD, 2021.
 * Invited talk at Biren Technology, 2021.
 
 **Intelligent Circuit Design and Implementation with Machine Learning in EDA.** [[slides](http://zhiyaoxie.github.io/files/21_SRC_ICCAD.pdf)]
@@ -49,10 +49,10 @@ Poster
 ======
 **Intelligent Circuit Design and Implementation with Machine Learning in Design Automation.** [[poster](http://zhiyaoxie.github.io/files/poster_DACforum.pdf)]
 * In Design Automation Conference (DAC) Ph.D. forum, 2021.
+* In SIGDA Student Research Forum at ASP-DAC, 2022.
 
 **Machine Learning for High-Fidelity Design Prediction and Automatic Tuning.** [[poster](http://zhiyaoxie.github.io/files/poster_SRC19.pdf)]
 * In SRC CADT Annual Review Poster Session, 2019.
-
 
 
 
