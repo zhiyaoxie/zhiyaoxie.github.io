@@ -49,7 +49,7 @@ Poster
 ======
 **Intelligent Circuit Design and Implementation with Machine Learning in Design Automation.** [[poster](http://zhiyaoxie.github.io/files/poster_DACforum.pdf)]
 * In Design Automation Conference (DAC) Ph.D. forum, 2021.
-* In SIGDA Student Research Forum at ASP-DAC, 2022.
+* In SIGDA Student Research Forum at ASP-DAC, 2022. **(Best Research Poster Award)**
 
 **Machine Learning for High-Fidelity Design Prediction and Automatic Tuning.** [[poster](http://zhiyaoxie.github.io/files/poster_SRC19.pdf)]
 * In SRC CADT Annual Review Poster Session, 2019.
