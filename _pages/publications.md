@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. Towards collaborative intelligence: Routability estimation based on decentralized private data. In Design Automation Conference (DAC), 2022.
+Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data. In Design Automation Conference (DAC), 2022.
 
 **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, "[Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network.](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/9707500)". Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
 
