@@ -44,6 +44,9 @@ author_profile: true
 * In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
 * In Workshop on Machine Learning for CAD (MLCAD), 2019.
 
+**A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction.** (Co-presenter) [[slides](http://zhiyaoxie.github.io/files/19_TxACE.pdf)]
+* In Texas Analog Center of Excellence (TxACE) Symposium, 2019.
+
 **Deep Learning and GPU Acceleration for VLSI Physical Design.** (Co-presenter) [[slides](http://zhiyaoxie.github.io/files/19_GTC.pdf)]
 * In Nvidia GPU Technology Conference (GTC), 2018.
 
