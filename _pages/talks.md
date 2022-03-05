@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Intelligent Circuit Design and Implementation with Machine Learning.** [[slides](http://zhiyaoxie.github.io/files/22_Defense_Duke.pdf)]
+* PhD Defense at Duke University, 2022.
+
 **Truly Intelligent Circuit Design and Implementation.** [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
 * Seminar at Hong Kong University of Science and Technology, 2021.
 * Seminar at City University of Hong Kong, 2021.
@@ -15,6 +18,7 @@ author_profile: true
 * In International Symposium on Microarchitecture (MICRO), 2021.
 * Invited talk at Oak Ridge National Lab (ORNL), 2021.
 * Invited talk at Biren Technology, 2021.
+* Invited talk at ACM/IEEE Design Automation WebiNar (DAWN), 2022
 
 **Intelligent Circuit Design and Implementation with Machine Learning in EDA.** [[slides](http://zhiyaoxie.github.io/files/21_SRC_ICCAD.pdf)]
 * ACM Student Research Competition at ICCAD, 2021.
@@ -44,12 +48,12 @@ author_profile: true
 * In International Conference on Computer Aided Design (ICCAD), 2018.
 
 
-
 Poster
 ======
 **Intelligent Circuit Design and Implementation with Machine Learning in Design Automation.** [[poster](http://zhiyaoxie.github.io/files/poster_DACforum.pdf)]
 * In Design Automation Conference (DAC) Ph.D. forum, 2021.
-* In SIGDA Student Research Forum at ASP-DAC, 2022. **(Best Research Poster Award)**
+* In ACM SIGDA Student Research Forum at ASP-DAC, 2022. **(Best Research Poster Award)**
+* In Design, Automation and Test in Europe Conference (DATE) Ph.D. forum, 2022.
 
 **Machine Learning for High-Fidelity Design Prediction and Automatic Tuning.** [[poster](http://zhiyaoxie.github.io/files/poster_SRC19.pdf)]
 * In SRC CADT Annual Review Poster Session, 2019.

@@ -27,11 +27,14 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018. [[paper](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]
 
-In Progress
+**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction." In Machine Learning for EDA. (Book Chapter in Progress). Springer.
+
+Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation", In Machine Learning for EDA. (Book Chapter in Progress). Springer.
+
+
+Media Coverage
 ======
+"AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University. [[News](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]
 
-**Zhiyao Xie**, Rongjian Liang, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction." In Machine Learning for EDA. (Book in Progress). Springer.
-
-Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation", In Machine Learning for EDA. (Book in Progress). Springer.
 
 
