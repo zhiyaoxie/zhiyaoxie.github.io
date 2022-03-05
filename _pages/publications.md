@@ -36,11 +36,11 @@ Media
 ======
 "AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[News](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]
 
-"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Technology Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]
+"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]
 
-"A New Power Modeling Method APOLLO", AI Era, 2021. [[News] (http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]
+"A New Power Modeling Method APOLLO (Chinese)", AI Era, 2021. [[News](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]
 
 "CPU Power Introspection at Lower Cost (Chinese)", SyncedTech, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]
 
-"Review of Top EDA Conference: DAC'21 (Chinese)", AI Technology Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]
+"Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]
 
