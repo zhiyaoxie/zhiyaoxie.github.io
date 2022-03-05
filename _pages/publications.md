@@ -35,11 +35,14 @@ Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "C
 Media 
 ======
 "AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[News](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]
-<sup> </sup>
+\vspace{-5truemm}
+
 "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]
+\vspace{-5mm}
+
 "A New Power Modeling Method APOLLO (Chinese)", AI Era, 2021. [[News](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]
+
 "CPU Power Introspection at Lower Cost (Chinese)", SyncedTech, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]
 
 "Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]
 
-teset
