@@ -31,12 +31,11 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In Machine Learning for EDA. (Book Chapter in Progress). Springer.
 
-
 Media 
 ======
 "AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[News](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]   
 "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]   
 "A New Power Modeling Method APOLLO (Chinese)", AI Era, 2021. [[News](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
-"CPU Power Introspection at Lower Cost (Chinese)", SyncedTech, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
+"CPU Power Introspection at Lower Cost (Chinese)", Synced, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
 "Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]   
 
