@@ -9,7 +9,7 @@ Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, 
 
 **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, "[Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network.](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/9707500)". Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
 
-**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "[APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)". In International Symposium on Microarchitecture (MICRO), 2021. [[paper](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] [[News_xinzhiyuan](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[News_jiqizhixin](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[News_AIreview](https://www.163.com/dy/article/GP8PI89T0511DPVD.html)] [[News_kexue](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[News_Duke](https://pratt.duke.edu/about/news/apollo-microprocessor)] **(Best Paper Award)**
+**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "[APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)". In International Symposium on Microarchitecture (MICRO), 2021. [[paper](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] [[News_xinzhiyuan](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[News_jiqizhixin](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[News_AIreview](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[News_kexue](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[News_Duke](https://pratt.duke.edu/about/news/apollo-microprocessor)] **(Best Paper Award)**
 
 Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "[Automatic Routability Predictor Development Using Neural Architecture Search](https://arxiv.org/abs/2012.01737)". In International Conference on Computer Aided Design (ICCAD), 2021. [[paper](http://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf)]
 
@@ -27,14 +27,16 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018. [[paper](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]
 
-**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction." In Machine Learning for EDA. (Book Chapter in Progress). Springer.
+**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In Machine Learning for EDA. (Book Chapter in Progress). Springer.
 
-Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation", In Machine Learning for EDA. (Book Chapter in Progress). Springer.
+Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In Machine Learning for EDA. (Book Chapter in Progress). Springer.
 
 
-Media Coverage
+Media 
 ======
 "AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University. [[News](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]
 
+"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Technology Review. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]
 
+"CPU Power Introspection at Lower Cost (Chinese)", SyncedTech, [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]
 
