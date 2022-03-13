@@ -12,9 +12,9 @@ I will join the ECE Department of Hong Kong University of Science and Technology
 
 Ph.D. Student Recruitment
 ======
-**I am looking for motivated students to join my lab as Ph.D. students in HKUST.** Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested.
+**I am looking for motivated students to join my lab as Ph.D. students in HKUST in 2023.** Do not hesitate to [email](mailto:zhiyao.xie@duke.edu) me (zhiyao.xie@duke.edu) if you are interested.
 
-* **Preferred Qualifications**: It is preferred if the applicant has a good background in any of these fields: VLSI design, computer engineering, machine learning, algorithm design, microelectronics, etc. Strong programming ability is a big plus. Actually, as long as you are diligent and intelligent, you are welcome to contact me.  
+* **Preferred Qualifications**: It is preferred if the applicant has a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, microelectronics, etc. Strong programming ability or machine learning background is a big plus. Actually, as long as you are diligent and intelligent, you are welcome to contact me.  
 
 * **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
