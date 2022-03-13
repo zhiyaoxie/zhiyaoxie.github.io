@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Intelligent Circuit Design and Implementation with Machine Learning.** [[slides](http://zhiyaoxie.github.io/files/22_Defense_Duke.pdf)]
-* PhD Defense at Duke University, 2022.
+* PhD Dissertation Defense at Duke University, 2022.
 
 **Truly Intelligent Circuit Design and Implementation.** [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
 * Seminar at Hong Kong University of Science and Technology, 2021.
