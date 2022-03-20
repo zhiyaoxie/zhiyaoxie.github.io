@@ -36,5 +36,13 @@ map features, this is the first design-independent estimator for both vector-bas
   * Developed deep neural network models for very early routability prediction even before the placement
 optimization. This is an early effort on routability estimation in the EDA industry.
 
+Teaching experience
+======
+* TA of ECE 586, Duke University, 2021
+    * ECE 586: Vector Space Methods with Applications. Graduate Course. 
+
+* TA of ECE 350, Duke University, 2021
+    * ECE 350: Digital Systems. Undergraduate Course.
+
 
 
