@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Yiran Chen. "The Dark Side: Security Concerns in Machine Learning for EDA". In Arxiv, 2022. [[paper](http://zhiyaoxie.github.io/files/Arxiv22_security.pdf)]
+**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Yiran Chen. "The Dark Side: Security Concerns in Machine Learning for EDA". In arXiv, 2022. [[paper](http://zhiyaoxie.github.io/files/Arxiv22_security.pdf)]
 
 Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data". In Design Automation Conference (DAC), 2022. [[paper](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)]
 
