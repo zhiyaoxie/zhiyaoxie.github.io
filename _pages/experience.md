@@ -38,11 +38,11 @@ optimization. This is an early effort on routability estimation in the EDA indus
 
 Teaching experience
 ======
-* TA of ECE 586, Duke University, 2021
-    * ECE 586: Vector Space Methods with Applications. Graduate Course. 
+* **TA of ECE 586**, Duke University, 2021
+    * ECE 586: Vector Space Methods with Applications. (Graduate Course) 
 
-* TA of ECE 350, Duke University, 2021
-    * ECE 350: Digital Systems. Undergraduate Course.
+* **TA of ECE 350**, Duke University, 2021
+    * ECE 350: Digital Systems. (Undergraduate Course)
 
 
 
