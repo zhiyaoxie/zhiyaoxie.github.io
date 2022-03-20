@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Yiran Chen. The Dark Side: Security Concerns in Machine Learning for EDA. In Arxiv, 2022. [[paper](http://zhiyaoxie.github.io/files/Arxiv22_security.pdf)]
+**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Yiran Chen. "The Dark Side: Security Concerns in Machine Learning for EDA". In Arxiv, 2022. [[paper](http://zhiyaoxie.github.io/files/Arxiv22_security.pdf)]
 
 Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data". In Design Automation Conference (DAC), 2022. [[paper](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)]
 
@@ -31,7 +31,7 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "[RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network](https://ieeexplore.ieee.org/document/8587655)". In International Conference on Computer Aided Design (ICCAD), 2018. [[paper](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]
 
-**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In Machine Learning for EDA. (Book Chapter in Progress). Springer.
+**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In Machine Learning for EDA. (Book Chapter in Progress). Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
 
 Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In Machine Learning for EDA. (Book Chapter in Progress). Springer.
 
