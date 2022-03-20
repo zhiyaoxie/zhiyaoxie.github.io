@@ -13,7 +13,7 @@ Education
 * Ph.D. in Computer Engineering, Duke University, 2022 
 * B.Eng. in ECE, City University of Hong Kong, 2017
 
-Work experience
+Work Experience
 ======
 * **Part-time EDA Administrator, Duke University**, 2020-2022
   * Purchasing and providing help on all EDA tools for teaching and research purposes at Duke University.
@@ -36,7 +36,7 @@ map features, this is the first design-independent estimator for both vector-bas
   * Developed deep neural network models for very early routability prediction even before the placement
 optimization. This is an early effort on routability estimation in the EDA industry.
 
-Teaching experience
+Teaching Experience
 ======
 * **TA of ECE 586**, Duke University, 2021
     * ECE 586: Vector Space Methods with Applications. (Graduate Course) 
