@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
-* Invited talk at ACM/IEEE Design Automation WebiNar (DAWN), 2022.
+* Invited talk at "The best of EDA research" ACM/IEEE Design Automation WebiNar (DAWN), 2022.
 * Invited talk at Oak Ridge National Lab (ORNL), 2021.
 * Invited talk at Biren Technology, 2021.
 * In International Symposium on Microarchitecture (MICRO), 2021.
