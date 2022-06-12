@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
+* ACCESS Technology Symposium on Frontiers of AI Accelerators (ACCESS), 2022. 
+
 **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
 * Invited talk at "The best of EDA research" ACM/IEEE Design Automation WebiNar (DAWN), 2022.
 * Invited talk at Oak Ridge National Lab (ORNL), 2021.
