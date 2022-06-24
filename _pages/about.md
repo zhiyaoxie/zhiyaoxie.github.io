@@ -20,6 +20,9 @@ Ph.D. Student Recruitment
 
 * **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research. 
 
+Post-Doc Recruitment
+======
 **We are also looking for Post-Docs in computer architecture/circuit design/VLSI/EDA directions, especially AI-chip development.** Funding secured if you got Ph.D. from Universities in QS Top 100 or in Hong Kong. Do not hesitate to contact me for more information!
+
 
 
