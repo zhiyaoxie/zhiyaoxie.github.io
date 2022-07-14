@@ -14,13 +14,13 @@ Ph.D. Student Recruitment
 ======
 **I am looking for motivated students to join my lab as Ph.D. students in HKUST in 2023.** Do not hesitate to [email](mailto:eezhiyao@ust.hk) me (eezhiyao@ust.hk) if you are interested.
 
-* **Preferred Qualifications**: It is preferred if the applicant has a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, microelectronics, etc. Strong programming ability or machine learning background is a huge plus. 
+* **Qualifications**: It is preferred if the applicant has a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, microelectronics, etc. Strong programming ability or machine learning background is a huge plus. 
 
 * **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The basic monthly salary of Ph.D. students is about HKD 18K. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
 * **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research. 
 
-* **HKFPS**: Learn more about Hong Kong PhD Fellowship Scheme if you have a strong resume (university, grade, publication). 
+* **HKFPS**: Learn about HK PhD Fellowship Scheme if you have a strong resume.
 
 **If you are a HKUST undergraduate EE/CS/math student and want to learn more about research assistant or Ph.D. positions, feel free to contact me.** A good grade is a big plus. 
 
