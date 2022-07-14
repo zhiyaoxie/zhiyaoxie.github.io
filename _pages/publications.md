@@ -9,11 +9,11 @@ author_profile: true
 
 **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Yiran Chen. "The Dark Side: Security Concerns in Machine Learning for EDA". In arXiv, 2022. [[paper](http://zhiyaoxie.github.io/files/Arxiv22_security.pdf)]
 
-Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data". In Design Automation Conference (DAC), 2022. [[paper](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)]
+Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "[Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data](https://arxiv.org/abs/2203.16009)". In Design Automation Conference (DAC), 2022. [[paper](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)]
 
 **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, "[Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network](https://ieeexplore-ieee-org.proxy.lib.duke.edu/document/9707500)". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
 
-**Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning". PhD Dissertation, 2022. [[paper](http://zhiyaoxie.github.io/files/Dissertation22.pdf)]
+**Zhiyao Xie**, "[Intelligent Circuit Design and Implementation with Machine Learning](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true)". PhD Dissertation, 2022. [[paper](http://zhiyaoxie.github.io/files/Dissertation22.pdf)]
 
 **Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "[APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)". In International Symposium on Microarchitecture (MICRO), 2021. [[paper](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] [[News_xinzhiyuan](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[News_jiqizhixin](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[News_AIreview](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[News_kexue](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[News_Duke](https://pratt.duke.edu/about/news/apollo-microprocessor)] **(Best Paper Award)**
 
