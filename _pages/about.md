@@ -16,7 +16,7 @@ Ph.D. Student Recruitment
 
 * **Preferred Qualifications**: It is preferred if the applicant has a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, microelectronics, etc. Strong programming ability or machine learning background is a huge plus. 
 
-* **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The monthly salary of Ph.D. students is HKD 15,000-20,000. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
+* **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The basic monthly salary of Ph.D. students is about HKD 18K. Learn more about the program at this [link](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece).
 
 * **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research. 
 
