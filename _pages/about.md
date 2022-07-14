@@ -20,9 +20,9 @@ Ph.D. Student Recruitment
 
 * **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research. 
 
-* **HKFPS**: Learn more about Hong Kong PhD Fellowship Scheme if you have very a good grade from top universities. 
+* **HKFPS**: Learn more about Hong Kong PhD Fellowship Scheme if you have a strong resume (university, grade, publication). 
 
-**If you are a HKUST undergraduate student and want to learn more about research assistant or Ph.D. positions, feel free to contact me.** A good grade is a big plus. 
+**If you are a HKUST undergraduate EE/CS/math student and want to learn more about research assistant or Ph.D. positions, feel free to contact me.** A good grade is a big plus. 
 
 Post-Doc Recruitment
 ======
