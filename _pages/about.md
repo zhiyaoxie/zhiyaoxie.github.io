@@ -12,7 +12,7 @@ I joined the ECE Department of Hong Kong University of Science and Technology (H
 
 Ph.D. Student Recruitment
 ======
-**I am looking for motivated students to join my lab as Ph.D. students in HKUST in 2023.** Do not hesitate to [email](mailto:eezhiyao@ust.hk) me (eezhiyao@ust.hk) if you are interested.
+**I am looking for motivated students to join my lab as Ph.D. students in HKUST in 2023.** Do not hesitate to [email](mailto:eezhiyao@ust.hk) me (eezhiyao@ust.hk) if you are interested. (Excuse me for not being able to reply every email...)
 
 * **Qualifications**: It is preferred if the applicant has a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, microelectronics, etc. Strong programming ability or machine learning background is a huge plus. 
 
