@@ -26,7 +26,7 @@ Ph.D. Student Recruitment
 Why choosing our lab?
 ======
 
-* Our research topics are highly cross-disciplinary. You are expected to master deep knowledge on algrotihm/programming, machine learning, EDA, VLSI design, etc after you graduate. I believe all these directions are in high demand in job market nowadays.  
+* Our research topics are highly cross-disciplinary. You are expected to master deep knowledge on algorithm/programming, machine learning, EDA, VLSI design, etc after you graduate. I believe all these directions are in high demand in job market nowadays.  
 
 * Our lab has a small number of students with enough research resources. Therefore, you can get hands-on supervision from advisor during your Ph.D. study. This could be very helpful when starting your research.  
 
