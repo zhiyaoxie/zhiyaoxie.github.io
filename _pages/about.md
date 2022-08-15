@@ -28,12 +28,11 @@ Why choosing our lab?
 
 * Our research topics are highly cross-disciplinary. You are expected to master deep knowledge on algrotihm/programming, machine learning, EDA, VLSI design, etc after you graduate. I believe all these directions are in high demand in job market nowadays.  
 
-* Our lab currently has a small number of students with enough research resources. Therefore, you can get hands-on supervision from advisor during your Ph.D. study. This could be very helpful when starting your research.  
+* Our lab has a small number of students with enough research resources. Therefore, you can get hands-on supervision from advisor during your Ph.D. study. This could be very helpful when starting your research.  
 
 Post-Doc Recruitment
 ======
-We are also looking for Post-Docs in computer architecture/circuit design/VLSI/EDA directions, especially AI-chip development. Funding secured if you got Ph.D. from Universities in QS Top 100 or in Hong Kong. Do not hesitate to contact me for more information!
-
+* We are also looking for Post-Docs in computer architecture/circuit design/VLSI/EDA directions, especially AI-chip development. We need you got Ph.D. from Universities in QS Top 100 or in Hong Kong. Do not hesitate to contact me for more information!
 
 
 
