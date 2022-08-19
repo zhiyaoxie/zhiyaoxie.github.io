@@ -9,7 +9,7 @@ author_profile: true
 
 Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". In International Conference on Computer Aided Design (ICCAD), 2022.
 
-**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "[The Dark Side: Security and Reliability Concerns in Machine Learning for EDA] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858101)". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD22_Dark.pdf)]
+**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "[The Dark Side: Security and Reliability Concerns in Machine Learning for EDA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858101)". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD22_Dark.pdf)]
 
 Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "[Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data](https://arxiv.org/abs/2203.16009)". In Design Automation Conference (DAC), 2022. [[paper](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)]
 

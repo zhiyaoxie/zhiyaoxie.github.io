@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+**Efficient Digital Design and Implementation with Machine Learning in EDA**
+* ACCESS-CEDA Seminar Series, 2022
+
 **Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
 * ACCESS Technology Symposium on Frontiers of AI Accelerators (ACCESS), 2022. 
 
