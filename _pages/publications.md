@@ -9,9 +9,9 @@ Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu,
 
 Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. 
 
-**Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". In International Conference on Computer Aided Design (ICCAD), 2022. 
+**Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". In International Conference on Computer Aided Design (ICCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf)]
 
-Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". In International Conference on Computer Aided Design (ICCAD), 2022.
+Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". In International Conference on Computer Aided Design (ICCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf)]
 
 **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "[The Dark Side: Security and Reliability Concerns in Machine Learning for EDA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858101)". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD22_Dark.pdf)]
 
