@@ -9,7 +9,7 @@ author_profile: true
 * ACCESS-CEDA Seminar Series, 2022
 
 **Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
-* ACCESS Technology Symposium on Frontiers of AI Accelerators (ACCESS), 2022. 
+* ACCESS Technology Symposium on Frontiers of AI Accelerators, 2022. 
 
 **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
 * Invited talk at "The best of EDA research" ACM/IEEE Design Automation WebiNar (DAWN), 2022.
