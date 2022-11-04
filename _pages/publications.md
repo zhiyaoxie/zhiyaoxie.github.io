@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. 
+Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] **(Best Paper Nomination)**
 
-Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. 
+Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf)] **(Best Paper Nomination)**
 
 **Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". In International Conference on Computer Aided Design (ICCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf)]
 
