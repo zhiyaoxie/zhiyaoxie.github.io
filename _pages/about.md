@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I joined the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor since 2022. I received my Ph.D. degree from ECE Department of Duke University in 2022, supervised by Prof. Yiran Chen and Prof. Hai (Helen) Li. My research interests include cross-disciplinary topics in electronic design automation, VLSI design, computer architecture, and machine learning. I am especially experienced in machine learning for hardware design. I have received MICRO 2021 Best Paper Award, ACM SIGDA 2022 Best Research Poster Award, two ASP-DAC 2023 Best Paper Nominations, etc. Now I also serve as the Publicity Chair of IEEE CEDA Hong Kong. 
+Zhiyao Xie joined the ECE Department of Hong Kong University of Science and Technology (HKUST) as an Assistant Professor since 2022. He received my Ph.D. degree from ECE Department of Duke University in 2022, supervised by Prof. Yiran Chen and Prof. Hai (Helen) Li. He also worked as a research intern in leading semiconductor and electronic design automation (EDA) companies including Nvidia, Arm, Cadence, and Synopsys. His research interests include cross-disciplinary topics in electronic design automation, VLSI design, computer architecture, and machine learning. He is especially experienced in machine learning for hardware design. He has received MICRO 2021 Best Paper Award, ACM SIGDA Best Research Poster Award in 2022, two ASP-DAC 2023 Best Paper Nominations, etc. Now he also serves as the Publicity Chair of IEEE CEDA Hong Kong. 
 
 Ph.D. Student Recruitment
 ======
