@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Projects"
+title: "Accomplished Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-Selected Projects
-======
 
 *  **Early-Stage Fast Routability Prediction**  
 I proposed the first systematic study on CNN-based routability prediction. It attracts wide attention in ML for EDA and becomes a common baseline. Some feature-extraction and model-design principles first proposed by us are still widely adopted. Published in ICCAD'18, DATE'19, and also presented in Nvidia GTC'18 and TAU'19. I collaborate with Cadence to validate routability estimation during my internship. Our follow-up works are published in ICCAD’21, DAC’22, addressing the ML model design and data availability challenges in routability prediction. I also write a book chapter on this topic. 
