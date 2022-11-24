@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. “FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs”. International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. 
+
 Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] **(Best Paper Nomination)**
 
 Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf)] **(Best Paper Nomination)**
