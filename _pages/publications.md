@@ -51,5 +51,5 @@ Media
 "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]   
 "A New Power Modeling Method APOLLO (Chinese)", AI Era, 2021. [[News](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
 "CPU Power Introspection at Lower Cost (Chinese)", Synced, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
-"Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]   
+Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]   
 
