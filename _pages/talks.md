@@ -8,7 +8,7 @@ author_profile: true
 * **Efficient Digital Design and Implementation with Machine Learning in EDA**
     * ACCESS-CEDA Seminar Series, 2022
 
-* **DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters** 
+* **DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters** [slides](http://zhiyaoxie.github.io/files/22_DEEP.pdf){: .btn--paper} [poster](http://zhiyaoxie.github.io/files/22_DEEP_poster.pdf){: .btn--paper}
     * In International Conference on Computer Aided Design (ICCAD), 2022. (Pre-Recorded)
 
 * **Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
