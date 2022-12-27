@@ -7,21 +7,21 @@ author_profile: true
 
 **Zhiyao Xie**, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". International Symposium on Quality Electronic Design (ISQED), 2023. 
 
-Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. [[paper](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf)]
+Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. [[pdf](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf)]
 
-Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] **(Best Paper Nomination)**
+Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] **(Best Paper Nomination)**
 
-Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf)] **(Best Paper Nomination)**
+Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf)] **(Best Paper Nomination)**
 
-**Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". In International Conference on Computer Aided Design (ICCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf)]
+**Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". In International Conference on Computer Aided Design (ICCAD), 2022. [[pdf](http://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf)] [[ACM link](https://dl.acm.org/doi/10.1145/3508352.3549427)]
 
-Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". In International Conference on Computer Aided Design (ICCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf)]
+Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". In International Conference on Computer Aided Design (ICCAD), 2022. [[pdf](http://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf)] [[ACM link](https://dl.acm.org/doi/10.1145/3508352.3549389)]
 
-**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "[The Dark Side: Security and Reliability Concerns in Machine Learning for EDA](https://ieeexplore.ieee.org/document/9858101)". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD22_Dark.pdf)]
+**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "The Dark Side: Security and Reliability Concerns in Machine Learning for EDA". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD22_Dark.pdf)] [[IEEE link](https://ieeexplore.ieee.org/document/9858101)]
 
-Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "[Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data](https://dl.acm.org/doi/abs/10.1145/3489517.3530578)". In Design Automation Conference (DAC), 2022. [[paper](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)]
+Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen. "Towards Collaborative Intelligence: Routability Estimation based on Decentralized Private Data". In Design Automation Conference (DAC), 2022. [[pdf](http://zhiyaoxie.github.io/files/DAC22_FL.pdf)] [[ACM link](https://dl.acm.org/doi/abs/10.1145/3489517.3530578)]
 
-**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, "[Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network](https://ieeexplore.ieee.org/document/9707500)". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[paper](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)]
+**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, "Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network". In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022. [[pdf](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf)] [[IEEE link](https://ieeexplore.ieee.org/document/9707500)]
 
 **Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning". *PhD Dissertation of Duke University*, 2022. [[proquest][https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true]] [[pdf](http://zhiyaoxie.github.io/files/Dissertation22.pdf)]
 
