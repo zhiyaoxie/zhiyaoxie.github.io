@@ -41,7 +41,7 @@ Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang
 
 Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". *Design, Automation and Test in Europe Conference (DATE)*, 2019. [[IEEE link](https://ieeexplore.ieee.org/document/8715126)] [[pdf](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf)] 
 
-[ICCAD'18](#Button){: .btn}**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [[IEEE link](https://ieeexplore.ieee.org/document/8587655)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)] 
+[ICCAD'18](#Button){: .btn}**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [[IEEE link](https://ieeexplore.ieee.org/document/8587655)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]  [pap](a link){: .btn--paper}
 
 **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
 
