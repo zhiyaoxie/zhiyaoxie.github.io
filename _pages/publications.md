@@ -47,6 +47,8 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf)]
 
+$$\color{blue}{Blue}$$
+
 Media
 ======
 "AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[Duke link](https://pratt.duke.edu/about/news/apollo-microprocessor)] [[pdf](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]    
