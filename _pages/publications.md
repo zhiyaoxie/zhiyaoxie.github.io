@@ -45,9 +45,8 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
 
-Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf)]
+Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf)] $$\color{blue}\text{Blue}$$
 
-$$\color{blue}{Blue}$$
 
 Media
 ======
