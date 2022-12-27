@@ -5,35 +5,35 @@ permalink: /talks/
 author_profile: true
 ---
 
-**Efficient Digital Design and Implementation with Machine Learning in EDA**
-* ACCESS-CEDA Seminar Series, 2022
+* **Efficient Digital Design and Implementation with Machine Learning in EDA**
+    * ACCESS-CEDA Seminar Series, 2022
 
-**Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
-* ACCESS Technology Symposium on Frontiers of AI Accelerators, 2022. 
+* **Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
+    * ACCESS Technology Symposium on Frontiers of AI Accelerators, 2022. 
 
-**APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [[slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf)]
-* Invited talk at "The best of EDA research" ACM/IEEE Design Automation WebiNar (DAWN), 2022.
-* Invited talk at Oak Ridge National Lab (ORNL), 2021.
-* Invited talk at Biren Technology, 2021.
-* In International Symposium on Microarchitecture (MICRO), 2021.
+* **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [slides](http://zhiyaoxie.github.io/files/21_APOLLO.pdf){: .btn--paper}
+    * Invited talk at "The best of EDA research" ACM/IEEE Design Automation WebiNar (DAWN), 2022.
+    * Invited talk at Oak Ridge National Lab (ORNL), 2021.
+    * Invited talk at Biren Technology, 2021.
+    * In International Symposium on Microarchitecture (MICRO), 2021.
 
-**Intelligent Circuit Design and Implementation with Machine Learning.** [[slides](http://zhiyaoxie.github.io/files/22_Defense_Duke.pdf)]
-* PhD Dissertation Defense at Duke University, 2022.
+**Intelligent Circuit Design and Implementation with Machine Learning.** [slides](http://zhiyaoxie.github.io/files/22_Defense_Duke.pdf){: .btn--paper}
+    * PhD Dissertation Defense at Duke University, 2022.
 
-**Truly Intelligent Circuit Design and Implementation.** [[slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf)]
-* Invited talk at AMD, 2021.
-* Seminar at Hong Kong University of Science and Technology, 2021.
-* Invited talk at Alibaba, 2021.
-* Seminar at City University of Hong Kong, 2021.
+**Truly Intelligent Circuit Design and Implementation.** [slides](http://zhiyaoxie.github.io/files/21_HKUST.pdf){: .btn--paper}
+    * Invited talk at AMD, 2021.
+    * Seminar at Hong Kong University of Science and Technology, 2021.
+    * Invited talk at Alibaba, 2021.
+    * Seminar at City University of Hong Kong, 2021.
 
-**Intelligent Circuit Design and Implementation with Machine Learning in EDA.** [[slides](http://zhiyaoxie.github.io/files/21_SRC_ICCAD.pdf)]
-* ACM Student Research Competition at ICCAD, 2021.
+**Intelligent Circuit Design and Implementation with Machine Learning in EDA.** [slides](http://zhiyaoxie.github.io/files/21_SRC_ICCAD.pdf){: .btn--paper}
+    * ACM Student Research Competition at ICCAD, 2021.
 
-**A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction.** (Co-presenter) [[slides](http://zhiyaoxie.github.io/files/21_SRC.pdf)]
-* In SRC CADT Annual Review Presentation, 2021.
+**A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction.** (Co-presenter) [slides](http://zhiyaoxie.github.io/files/21_SRC.pdf){: .btn--paper}
+    * In SRC CADT Annual Review Presentation, 2021.
 
-**Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation.** [[slides](http://zhiyaoxie.github.io/files/21_Net2.pdf)]
-* In Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
+**Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation.** [slides](http://zhiyaoxie.github.io/files/21_Net2.pdf){: .btn--paper}
+    * In Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
 
 **Automatic Routability Predictor Development Using Neural Architecture Search.** [[slides](http://zhiyaoxie.github.io/files/21_IUCRC.pdf)]
 * In NSF IUCRC ASIC Center Annual Meeting, 2021.
