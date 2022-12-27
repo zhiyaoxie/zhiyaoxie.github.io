@@ -11,7 +11,7 @@ author_profile: true
     * University: QS rank < 500 for Bachelor degree or QS top < 300 for Master degree 
     * Grade: grade > 85/100 or rank top 25% (not necessary for top universities)  
     * Serious research experience (with publications/drafts in submission)  
-    * Good programming skill (Python is OK, C/C++ experience is better)  
+    * Good programming skill (Python is OK, C/C++ experience is even better)  
     * Expertise in one direction (ML, IC, computer arch, math, etc.)  
 
 * **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The basic monthly salary of Ph.D. students is about HKD 18K. Learn more about the program [here](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece){: .btn--paper}.
@@ -19,6 +19,10 @@ author_profile: true
 * **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research.
 
 * **HKFPS**: Learn about HK PhD Fellowship Scheme if you have a strong resume.
+
+* **For applicants**:
+    * Please include [PhD Application] in email title and attach your CV  
+    * Please include your grade (ideally with rank) in your CV   
 
 * If you are a HKUST undergraduate EE/CS/math student and want to learn more about research assistant or Ph.D. positions, feel free to contact me. A good grade is a big plus.
 

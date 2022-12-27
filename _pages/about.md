@@ -18,9 +18,7 @@ Ph.D. Student Recruitment
     * Please check the Recruitment [tab](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested. 
-    * Please excuse me for not being able to reply every email... 
-    * Please include [PhD Application] in email title  
-
+    * Please do excuse me for not being able to reply every email... 
 
 Why Joining Us?
 ======
