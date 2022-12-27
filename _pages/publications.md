@@ -25,7 +25,7 @@ Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, 
 
 **Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning". *PhD Dissertation of Duke University*, 2022. [[Proquest link](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true)] [[pdf](http://zhiyaoxie.github.io/files/Dissertation22.pdf)]
 
-**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors". In International Symposium on Microarchitecture (MICRO), 2021. [[ACM link](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)] [[pdf](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] [[News_xinzhiyuan](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[News_jiqizhixin](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[News_AIreview](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[News_kexue](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[News_Duke](https://pratt.duke.edu/about/news/apollo-microprocessor)] <span style="color:red">**(Best Paper Award)**</span>
+**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors". In International Symposium on Microarchitecture (MICRO), 2021. [[ACM link](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)] [[pdf](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] <span style="color:red">**(Best Paper Award)**</span>
 
 Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "Automatic Routability Predictor Development Using Neural Architecture Search". In International Conference on Computer Aided Design (ICCAD), 2021. [[ACM](https://dl.acm.org/doi/10.1109/ICCAD51958.2021.9643483)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf)] 
 
@@ -49,9 +49,10 @@ Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "C
 
 Media
 ======
-"AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[Duke link](https://pratt.duke.edu/about/news/apollo-microprocessor)] [[pdf](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]    
-"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]   
-"A New Power Modeling Method APOLLO (Chinese)", AI Era, 2021. [[News](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
-"CPU Power Introspection at Lower Cost (Chinese)", Synced, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
+"AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[News link](https://pratt.duke.edu/about/news/apollo-microprocessor)] [[pdf](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]    
+"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News link](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[pdf](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]    
+"A New Power Modeling Method APOLLO (Chinese)", AI Era (XinZhiYuan), 2021. [[News link](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[pdf](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
+"CPU Power Introspection at Lower Cost (Chinese)", Synced (JiQiZhiXin), 2021. [[News link](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[pdf](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
+"APOLLO: A Fast IC Measurement Solution (Chinese)", ScienceNet China, [[News link](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[pdf](http://zhiyaoxie.github.io/files/media_ScienceNet.pdf)]    
 Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]   
 
