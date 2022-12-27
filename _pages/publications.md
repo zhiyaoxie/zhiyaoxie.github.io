@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. “FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs”. International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. 
+**Zhiyao Xie**, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". International Symposium on Quality Electronic Design (ISQED), 2023. 
+
+Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. [[paper](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf)]
 
 Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[paper](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] **(Best Paper Nomination)**
 
@@ -43,7 +45,7 @@ Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun 
 
 **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In Machine Learning for EDA. (Book Chapter in Progress). Springer. [[chapter](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
 
-Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In Machine Learning for EDA. (Book Chapter in Progress). Springer.
+Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In Machine Learning for EDA. (Book Chapter in Progress). Springer. [[chapter](http://zhiyaoxie.github.io/files/chapter_net.pdf)]
 
 Media 
 ======
