@@ -12,12 +12,12 @@ Zhiyao Xie joined the ECE Department of Hong Kong University of Science and Tech
 
 Ph.D. Student Recruitment
 ======
-* <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST.**</span> 
-    * We welcome students with both EE and CS background.  
-    * Currently we target Fall 2023 semester (deadline is May 2023).  
+* <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
     * Please check the Recruitment [tab](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
+    * Currently we target Fall 2023 semester (deadline is May 2023).  
+    * We welcome students with both EE and CS background.  
 
-* Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested. 
+* Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
     * Please do excuse me for not being able to reply every email... 
 
 Why Joining Us?
