@@ -37,15 +37,15 @@ Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang
 
 **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, "[FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning](https://ieeexplore.ieee.org/document/9045201)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2020. [[paper](http://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf)]
 
-**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, Yiran Chen, "[PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network](https://ieeexplore.ieee.org/document/9045574)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2020. [[paper](http://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf)]
+**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, Yiran Chen, "PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network". In *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [[paper](http://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/9045574)]
 
-Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". In Design, Automation and Test in Europe Conference (DATE), 2019. [[paper](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf)] [[IEEE]((https://ieeexplore.ieee.org/document/8715126))]
+Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". In *Design, Automation and Test in Europe Conference (DATE)*, 2019. [[paper](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8715126)]
 
-**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". In International Conference on Computer Aided Design (ICCAD), 2018. [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8587655)]
+**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". In *International Conference on Computer Aided Design (ICCAD)*, 2018. [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)] [[IEEE](https://ieeexplore.ieee.org/document/8587655)]
 
-**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In Machine Learning for EDA. (Book Chapter in Progress). Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
+**Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
 
-Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In Machine Learning for EDA. (Book Chapter in Progress). Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf)]
+Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf)]
 
 Media 
 ======
