@@ -41,7 +41,7 @@ Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang
 
 Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". *Design, Automation and Test in Europe Conference (DATE)*, 2019. [[IEEE link](https://ieeexplore.ieee.org/document/8715126)] [[pdf](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf)] 
 
-[ICCAD'18](#Button){: .btn}**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [[IEEE link](https://ieeexplore.ieee.org/document/8587655)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]  [pap](a link){: .btn--paper}
+[ICCAD'18](#Button){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [[IEEE link](https://ieeexplore.ieee.org/document/8587655)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]  [pap](a link){: .btn--paper}
 
 **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [[pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf)]
 
@@ -49,10 +49,10 @@ Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "C
 
 Media
 ======
-"AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[News link](https://pratt.duke.edu/about/news/apollo-microprocessor)] [[pdf](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]    
-"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News link](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[pdf](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]    
-"A New Power Modeling Method APOLLO (Chinese)", AI Era (XinZhiYuan), 2021. [[News link](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[pdf](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
-"CPU Power Introspection at Lower Cost (Chinese)", Synced (JiQiZhiXin), 2021. [[News link](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[pdf](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
-"APOLLO: A Fast IC Measurement Solution (Chinese)", ScienceNet China, [[News link](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[pdf](http://zhiyaoxie.github.io/files/media_ScienceNet.pdf)]    
+"AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021. [[News](https://pratt.duke.edu/about/news/apollo-microprocessor)] [[pdf](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)]    
+"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[pdf](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]    
+"A New Power Modeling Method APOLLO (Chinese)", *AI Era/新智元*, 2021. [[News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[pdf](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
+"CPU Power Introspection at Lower Cost (Chinese)", *Synced/机器之心*, 2021. [[News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[pdf](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
+"APOLLO: A Fast IC Measurement Solution (Chinese)", *Chinese Science Net*, 2021. [[News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[pdf](http://zhiyaoxie.github.io/files/media_ScienceNet.pdf)]    
 Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf)]   
 
