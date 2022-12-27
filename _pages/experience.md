@@ -14,11 +14,12 @@ Education
     * Advisor: Prof Yiran Chen, Prof Hai Li. 
     * Grade: 3.94/4.0. 
 * B.Eng. in ECE, City University of Hong Kong, 2017
-    * First Class Honours. Major Grade: 4.16/4.3. 
+    * First Class Honours. Full Tuition Scholarship.  
+    * Major Grade: 4.16/4.3. 
 
 Award
 ======
-* 2* ASP-DAC 2023 Best Paper Nomination, 2023   
+* 2\* ASP-DAC 2023 Best Paper Nomination, 2023   
 * ACM TODAES Distinguished Reviewer, 2022   
 * ACM SIGDA Best Research Poster Award, 2022   
 * IEEE/ACM MICRO 2021 Best Paper Award, 2021   
