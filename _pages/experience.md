@@ -27,6 +27,12 @@ Award
 * Dean’s List for all 8 semesters, CityU HK, 2013-2017     
 * Full Tuition Scholarship for 4 years, CityU HK, 2013-2017   
 
+Service
+======
+* Publicity Chair, IEEE CEDA Hong Kong
+* Technical Program Committee Member of ASP-DAC 2023
+* Reviewer of IEEE TCAD, ACM TODAES (Distinguished Reviewer), IEEE Design & Test, ACM JETC, IEEE CAL, ACM TECS, JCST  
+
 Work Experience
 ======
 * **Part-time EDA Administrator, Duke University**, 2020-2022
