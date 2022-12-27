@@ -33,7 +33,7 @@ author_profile: true
 
 [ICCAD'20](#Button){: .btn} **Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, "Fast IR Drop Estimation with Machine Learning (Invited)". *International Conference on Computer Aided Design (ICCAD)*, 2020. [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
 
-[ICCAD'20](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, "Routing-Free Crosstalk Prediction". In *International Conference on Computer Aided Design (ICCAD)*, 2020. [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
+[ICCAD'20](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, "Routing-Free Crosstalk Prediction". *International Conference on Computer Aided Design (ICCAD)*, 2020. [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
 
 [ASPDAC'20](#Button){: .btn} **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, "FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning". *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
 
@@ -43,9 +43,9 @@ author_profile: true
 
 [ICCAD'18](#Button){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
 
-[Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
+[Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
 
-[Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+[Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
 
 Media
