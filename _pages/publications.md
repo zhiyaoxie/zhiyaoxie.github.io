@@ -27,11 +27,11 @@ Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Ang Li, Minxue Tang, Tunhou Zhang, 
 
 **Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors". In International Symposium on Microarchitecture (MICRO), 2021. [[ACM link](https://dl.acm.org/doi/abs/10.1145/3466752.3480064)] [[pdf](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf)] [[News_xinzhiyuan](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html)] [[News_jiqizhixin](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg)] [[News_AIreview](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html)] [[News_kexue](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm)] [[News_Duke](https://pratt.duke.edu/about/news/apollo-microprocessor)] **(Best Paper Award)**
 
-Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "[Automatic Routability Predictor Development Using Neural Architecture Search](https://dl.acm.org/doi/10.1109/ICCAD51958.2021.9643483)". In International Conference on Computer Aided Design (ICCAD), 2021. [[paper](http://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf)]
+Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, Yiran Chen, "Automatic Routability Predictor Development Using Neural Architecture Search". In International Conference on Computer Aided Design (ICCAD), 2021. [[pdf](http://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf)] [[ACM](https://dl.acm.org/doi/10.1109/ICCAD51958.2021.9643483)]
 
-**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, Yiran Chen, "[Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation](https://ieeexplore.ieee.org/abstract/document/9371657)". In Asia and South Pacific Design Automation Conference (ASPDAC), 2021. [[paper](http://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf)]
+**Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, Yiran Chen, "Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation". In Asia and South Pacific Design Automation Conference (ASPDAC), 2021. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf)][[IEEE link](https://ieeexplore.ieee.org/abstract/document/9371657)]
 
-**Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, "Fast IR Drop Estimation with Machine Learning (Invited)". In *International Conference on Computer Aided Design (ICCAD)*, 2020. [[pdf](http://zhiyaoxie.github.io/files/ICCAD20_IR.pdf)] [IEEE link](https://ieeexplore.ieee.org/document/9256803)
+**Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, Yiran Chen, "Fast IR Drop Estimation with Machine Learning (Invited)". In *International Conference on Computer Aided Design (ICCAD)*, 2020. [[pdf](http://zhiyaoxie.github.io/files/ICCAD20_IR.pdf)] [[IEEE link](https://ieeexplore.ieee.org/document/9256803)]
 
 Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, "Routing-Free Crosstalk Prediction". In *International Conference on Computer Aided Design (ICCAD)*, 2020. [[pdf](http://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf)] [[IEEE link](https://ieeexplore.ieee.org/document/9256755)]
 
@@ -49,7 +49,7 @@ Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "C
 
 Media
 ======
-"AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[News](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)] [[Duke link](https://pratt.duke.edu/about/news/apollo-microprocessor)]  
+"AI Models Microprocessor Performance in Real-Time", Pratt School of Engineering, Duke University, 2021. [[Duke link](https://pratt.duke.edu/about/news/apollo-microprocessor)] [[pdf](http://zhiyaoxie.github.io/files/media_News_Duke.pdf)] 
 "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", AI Tech Review, 2021. [[News](http://zhiyaoxie.github.io/files/media_AI_tech_review.pdf)]   
 "A New Power Modeling Method APOLLO (Chinese)", AI Era, 2021. [[News](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf)]    
 "CPU Power Introspection at Lower Cost (Chinese)", Synced, 2021. [[News](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf)]   
