@@ -43,9 +43,9 @@ author_profile: true
 
 [ICCAD'18](#Button){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
 
-[Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
+  [Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
 
-[Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, and Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+  [Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, and Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
 
 Media
