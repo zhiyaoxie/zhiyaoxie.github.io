@@ -9,13 +9,13 @@ author_profile: true
 
 [FPGA'23](#Button){: .btn} Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". *International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2023. [pdf](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
 
-[ASPDAC'23](#Button){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. [pdf](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} <span style="color:red">**(Best Paper Nomination)**</span>
+[ASPDAC'23](#Button){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Nomination)**</span> [pdf](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
 
-[ASPDAC'23](#Button){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. [pdf](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper} <span style="color:red">**(Best Paper Nomination)**</span>
+[ASPDAC'23](#Button){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Nomination)**</span> [pdf](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper} 
 
 [ICCAD'22](#Button){: .btn} **Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". *International Conference on Computer Aided Design (ICCAD)*, 2022. [ACM](https://dl.acm.org/doi/10.1145/3508352.3549427){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper} 
 
-[ICCAD'22](#Button){: .btn} Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". *International Conference on Computer Aided Design (ICCAD)*, 2022. [[ACM](https://dl.acm.org/doi/10.1145/3508352.3549389)] [pdf](http://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--paper}    
+[ICCAD'22](#Button){: .btn} Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". *International Conference on Computer Aided Design (ICCAD)*, 2022. [ACM](https://dl.acm.org/doi/10.1145/3508352.3549389){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--paper}    
 
 [TCAD'22](#Button){: .btn} **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "The Dark Side: Security and Reliability Concerns in Machine Learning for EDA". *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2022. [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
 
@@ -23,7 +23,7 @@ author_profile: true
 
 [TCAD'22](#Button){: .btn} **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, Yiran Chen, "Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network". *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2022. [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
 
-[Dissertation](#Button){: .btn} **Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning". *PhD Dissertation of Duke University*, 2022. [[Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true)] [pdf](http://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}
+[Dissertation](#Button){: .btn} **Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning". *PhD Dissertation of Duke University*, 2022. [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}
 
 [MICRO'21](#Button){: .btn} **Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors". *International Symposium on Microarchitecture (MICRO)*, 2021. [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper} <span style="color:red">**(Best Paper Award)**</span>
 
@@ -43,9 +43,9 @@ author_profile: true
 
 [ICCAD'18](#Button){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
 
-[Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
+[Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". In *Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
 
-[Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+[Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". In *Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
 
 Media
