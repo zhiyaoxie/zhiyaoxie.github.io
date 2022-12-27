@@ -83,7 +83,7 @@ author:
   name             : "Zhiyao Xie"
   avatar           : "profile.png"
   bio              : "Assistant Professor at HKUST, Ph.D. at Duke University, B.Eng. at CityU HK"
-  location         : "Clear Water Bay, Hong Kong"
+  location         : "Hong Kong" #"Clear Water Bay, Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fWDDkkgAAAAJ&hl=en"
