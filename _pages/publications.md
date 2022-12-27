@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ISQED'23](#Button){: .btn} **Zhiyao Xie**, Tao Zhang, and Yifeng Peng, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". *International Symposium on Quality Electronic Design (ISQED)*, 2023. 
+* [ISQED'23](#Button){: .btn} **Zhiyao Xie**, Tao Zhang, and Yifeng Peng, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". *International Symposium on Quality Electronic Design (ISQED)*, 2023. 
 
-[FPGA'23](#Button){: .btn} Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, and Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". *International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2023. [pdf](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
+* [FPGA'23](#Button){: .btn} Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, and Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". *International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2023. [pdf](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
 
 [ASPDAC'23](#Button){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Nomination)**</span> [pdf](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
 
@@ -42,10 +42,10 @@ author_profile: true
 [DATE'19](#Button){: .btn} Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". *Design, Automation and Test in Europe Conference (DATE)*, 2019. [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
 
 [ICCAD'18](#Button){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
+ 
+[Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
 
-  [Book Chapter](#Button){: .btn} **Zhiyao Xie**, Chen-Chia Chang, Jingyu Pan, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter X: Deep Learning for Routability Prediction". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
-
-  [Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, and Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+[Book Chapter](#Button){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, Yiran Chen, and Jiang Hu, "Chapter X: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Machine Learning for EDA (Book in Progress)*. Springer. [pdf](http://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
 
 Media

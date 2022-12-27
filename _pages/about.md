@@ -12,9 +12,11 @@ Zhiyao Xie joined the ECE Department of Hong Kong University of Science and Tech
 
 Ph.D. Student Recruitment
 ======
-<span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST in 2023.**</span> Do not hesitate to [email](mailto:eezhiyao@ust.hk) me (eezhiyao@ust.hk) if you are interested. (Excuse me for not being able to reply every email...)
+* <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST in 2023.**</span> 
 
-Please check the Recruitment page for details. 
+* Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--paper} me (eezhiyao@ust.hk) if you are interested. (Do excuse me for not being able to reply every email...)
+
+* Please check the Recruitment [page](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for details. 
 
 Why Joining Us?
 ======
