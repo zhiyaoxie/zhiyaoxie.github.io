@@ -7,11 +7,11 @@ author_profile: true
 
 * **Recruitment in** [Chinese](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=948482&page=1#pid17998340){: .btn--paper}
 
-* **Qualifications**: It is preferred if you have a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, etc. Strong programming ability or machine learning background is a huge plus. Ideally we look for students satisfying the criteria below. But this is just for your reference, instead of a strict requirement:    
-    * University: QS rank < 500 for Bachelor degree or QS top < 300 for Master degree 
+* **Qualifications**: It is preferred if you have a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, etc. Strong programming ability or machine learning background is a huge plus. Ideally we look for students satisfying the criteria below. This is just for your reference:
+    * University: QS top 500 for Bachelor degree or QS top 300 for Master degree 
     * Grade: grade > 85/100 or rank top 25% (unnecessary for top universities)  
     * Serious research experience (with publications/drafts in submission)  
-    * Good programming skill (Python is OK, C/C++ experience is even better)  
+    * Good programming skill (Python is enough, C/C++ experience is a plus)  
     * Expertise in one direction (ML, IC, computer arch, math, etc.)  
 
 * **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is 3-4 years, depending on whether the student holds a relevant research master's degree. The basic monthly salary of Ph.D. students is about HKD 18K. Learn more about the program [here](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece){: .btn--paper}.

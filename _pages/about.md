@@ -28,5 +28,5 @@ Why Joining Us?
 
 * Our lab has a small number of students with enough research resources. Therefore, you can get hands-on supervision from the advisor during your Ph.D. study. This could be very helpful when starting your research.  
 
-* Hong Kong University of Science and Technology (HKUST) is one of the top asian universities in science and engineering. It ranked 34 in QS World University Rankings 2022. 
+* HKUST is one of the top asian universities in science and engineering. It ranked 34 in QS World University Rankings 2022. 
 
