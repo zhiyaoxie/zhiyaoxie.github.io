@@ -35,11 +35,11 @@ author_profile: true
 **Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation.** [slides](http://zhiyaoxie.github.io/files/21_Net2.pdf){: .btn--paper}
     * In Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
 
-**Automatic Routability Predictor Development Using Neural Architecture Search.** [[slides](http://zhiyaoxie.github.io/files/21_IUCRC.pdf)]
-* In NSF IUCRC ASIC Center Annual Meeting, 2021.
+**Automatic Routability Predictor Development Using Neural Architecture Search.** [slides](http://zhiyaoxie.github.io/files/21_IUCRC.pdf){: .btn--paper}
+    * In NSF IUCRC ASIC Center Annual Meeting, 2021.
 
-**Fast IR Drop Estimation with Machine Learning.** [[slides](http://zhiyaoxie.github.io/files/20_IR_drop.pdf)]
-* In International Conference on Computer Aided Design (ICCAD), 2020.
+**Fast IR Drop Estimation with Machine Learning.** [slides](http://zhiyaoxie.github.io/files/20_IR_drop.pdf){: .btn--paper}
+    * In International Conference on Computer Aided Design (ICCAD), 2020.
 
 **PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network.** [[slides](http://zhiyaoxie.github.io/files/20_PowerNet.pdf)]
 * In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.

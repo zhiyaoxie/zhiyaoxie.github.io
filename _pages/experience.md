@@ -63,7 +63,7 @@ optimization. This is an early effort on routability estimation in the EDA indus
 
 Teaching Experience
 ======
-* **Lecturer of ELEC 2350**, HKUST, 2023
+* **Lecturer of ELEC 2350**, HKUST 
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
 
 * **TA of ECE 586**, Duke University, 2021
