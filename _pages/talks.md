@@ -8,6 +8,9 @@ author_profile: true
 * **Efficient Digital Design and Implementation with Machine Learning in EDA**
     * ACCESS-CEDA Seminar Series, 2022
 
+* **DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters** 
+    * In International Conference on Computer Aided Design (ICCAD), 2022. (Pre-Recorded)
+
 * **Exploring Design Solutions through AI-assisted Prediction and Parameter Tuning**
     * ACCESS Technology Symposium on Frontiers of AI Accelerators, 2022. 
 
@@ -41,22 +44,22 @@ author_profile: true
 **Fast IR Drop Estimation with Machine Learning.** [slides](http://zhiyaoxie.github.io/files/20_IR_drop.pdf){: .btn--paper}
     * In International Conference on Computer Aided Design (ICCAD), 2020.
 
-**PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network.** [[slides](http://zhiyaoxie.github.io/files/20_PowerNet.pdf)]
+**PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network.** [slides](http://zhiyaoxie.github.io/files/20_PowerNet.pdf){: .btn--paper}
 * In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
 * In Workshop on Machine Learning for CAD (MLCAD), 2019.
 
-**FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning.** [[slides](http://zhiyaoxie.github.io/files/20_FIST.pdf)]
+**FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning.** [slides](http://zhiyaoxie.github.io/files/20_FIST.pdf){: .btn--paper}
 * In Semiconductor Research Corporation (SRC) TECHCON, 2020.
 * In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
 * In Workshop on Machine Learning for CAD (MLCAD), 2019.
 
-**A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction.** (Co-presenter) [[slides](http://zhiyaoxie.github.io/files/19_TxACE.pdf)]
+**A Collaborative Machine Learning Approach to Fast and High-Fidelity Design Prediction.** (Co-presenter) [slides](http://zhiyaoxie.github.io/files/19_TxACE.pdf){: .btn--paper}
 * In Texas Analog Center of Excellence (TxACE) Symposium, 2019.
 
-**Deep Learning and GPU Acceleration for VLSI Physical Design.** (Co-presenter) [[slides](http://zhiyaoxie.github.io/files/19_GTC.pdf)]
+**Deep Learning and GPU Acceleration for VLSI Physical Design.** (Co-presenter) [slides](http://zhiyaoxie.github.io/files/19_GTC.pdf){: .btn--paper}
 * In Nvidia GPU Technology Conference (GTC), 2018.
 
-**RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network.** [[slides](http://zhiyaoxie.github.io/files/18_RouteNet.pdf)]
+**RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network.** [slides](http://zhiyaoxie.github.io/files/18_RouteNet.pdf){: .btn--paper}
 * In International Conference on Computer Aided Design (ICCAD), 2018.
 
 
