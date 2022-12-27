@@ -7,7 +7,7 @@ author_profile: true
 
 * **Recruitment in** [Chinese](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=948482&page=1#pid17998340){: .btn--paper}
 
-* **Qualifications**: It is preferred if you have a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, etc. Strong programming ability or machine learning background is a huge plus. Ideally we look for students satisfying the criteria below. This is just for your reference:
+* **Qualifications**: It is preferred if you have a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, etc. Strong programming ability or machine learning background is a huge plus. Ideally we look for students satisfying the criteria below, which is just for your reference:
     * University: QS top 500 for Bachelor degree or QS top 300 for Master degree 
     * Grade: grade > 85/100 or rank top 25% (unnecessary for top universities)  
     * Serious research experience (with publications/drafts in submission)  
