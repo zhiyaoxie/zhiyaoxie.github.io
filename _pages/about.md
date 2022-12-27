@@ -17,7 +17,7 @@ Ph.D. Student Recruitment
     * Currently we target Fall 2023 semester (deadline is May 2023).  
     * Please check the Recruitment [tab](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
 
-* Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--paper} me (eezhiyao@ust.hk) if you are interested. 
+* Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested. 
     * Please excuse me for not being able to reply every email... 
     * Please include [PhD Application] in email title  
 
