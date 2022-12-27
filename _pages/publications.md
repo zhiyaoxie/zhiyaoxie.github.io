@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Zhiyao Xie**, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". International Symposium on Quality Electronic Design (ISQED), 2023. 
+**Zhiyao Xie**, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". *International Symposium on Quality Electronic Design (ISQED)*, 2023. 
 
-Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. [[pdf](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf)]
+Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". *International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2023. [[pdf](http://zhiyaoxie.github.io/files/FPGA23_FADO.pdf)]
 
-Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] <span style="color:red">**(Best Paper Nomination)**</span>
+Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf)] <span style="color:red">**(Best Paper Nomination)**</span>
 
-Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". In Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf)] <span style="color:red">**(Best Paper Nomination)**</span>
+Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. [[pdf](http://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf)] <span style="color:pink">**(Best Paper Nomination)**</span>
 
 **Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". In International Conference on Computer Aided Design (ICCAD), 2022. [[ACM link](https://dl.acm.org/doi/10.1145/3508352.3549427)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf)] 
 
@@ -35,11 +35,11 @@ Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, C
 
 Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, Gi-Joon Nam, "Routing-Free Crosstalk Prediction". In *International Conference on Computer Aided Design (ICCAD)*, 2020. [[IEEE link](https://ieeexplore.ieee.org/document/9256755)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf)] 
 
-**Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, "FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning". *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [[IEEE link](https://ieeexplore.ieee.org/document/9045201)] [[pdf](http://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf)]
+[ASPDAC'20](#Button){: .btn} **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, Erick Carvajal Barboza, "FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning". *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [[IEEE link](https://ieeexplore.ieee.org/document/9045201)] [[pdf](http://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf)]
 
-**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, Yiran Chen, "PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network". *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [[IEEE link](https://ieeexplore.ieee.org/document/9045574)] [[pdf](http://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf)] 
+[ASPDAC'20](#Button){: .btn} **Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, Yiran Chen, "PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network". *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [[IEEE link](https://ieeexplore.ieee.org/document/9045574)] [[pdf](http://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf)] 
 
-Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". *Design, Automation and Test in Europe Conference (DATE)*, 2019. [[IEEE link](https://ieeexplore.ieee.org/document/8715126)] [[pdf](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf)] 
+[DATE'19](#Button){: .btn} Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model". *Design, Automation and Test in Europe Conference (DATE)*, 2019. [[IEEE link](https://ieeexplore.ieee.org/document/8715126)] [[pdf](http://zhiyaoxie.github.io/files/DATE19_Macro.pdf)] 
 
 [ICCAD'18](#Button){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [[IEEE link](https://ieeexplore.ieee.org/document/8587655)] [[pdf](http://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf)]  [pap](a link){: .btn--paper}
 
