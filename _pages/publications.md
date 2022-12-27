@@ -55,6 +55,6 @@ Media
 * "A New Power Modeling Method APOLLO (Chinese)", *AI Era / 新智元*, 2021. [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
 * "CPU Power Introspection at Lower Cost (Chinese)", *Synced / 机器之心*, 2021. [News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/media_jiqizhixin.pdf){: .btn--paper}    
 * "APOLLO: A Fast IC Measurement Solution (Chinese)", *Chinese Science Net / 中国科学网*, 2021. [News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/media_ScienceNet.pdf){: .btn--paper}     
-* Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://zhuanlan.zhihu.com/p/447597399)[pdf](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
+* Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](http://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
 
 
