@@ -9,7 +9,7 @@ author_profile: true
 
 * **Qualifications**: It is preferred if you have a good background in any of these fields: machine learning, VLSI design, computer engineering, algorithm design, etc. Strong programming ability or machine learning background is a huge plus. Ideally we look for students satisfying the criteria below. But this is just for your reference, instead of a strict requirement:    
     * University: QS rank < 500 for Bachelor degree or QS top < 300 for Master degree 
-    * Grade: grade > 85/100 or rank top 25% (not necessary for top universities)  
+    * Grade: grade > 85/100 or rank top 25% (unnecessary for top universities)  
     * Serious research experience (with publications/drafts in submission)  
     * Good programming skill (Python is OK, C/C++ experience is even better)  
     * Expertise in one direction (ML, IC, computer arch, math, etc.)  
