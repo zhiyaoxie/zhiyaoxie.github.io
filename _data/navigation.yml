@@ -9,12 +9,6 @@ main:
   - title: "Projects"
     url: /projects/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
   - title: "Experience"
     url: /experience/
     
@@ -23,3 +17,5 @@ main:
 
   - title: "ML4EDA"
     url: /ml4eda/
+
+
