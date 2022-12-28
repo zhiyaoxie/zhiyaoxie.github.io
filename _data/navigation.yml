@@ -15,7 +15,7 @@ main:
   - title: "Recruitment"
     url: /recruitment/
 
-  - title: "ML4EDA"
-    url: /ml4eda/
+    #  - title: "ML4EDA"
+    #url: /ml4eda/
 
 

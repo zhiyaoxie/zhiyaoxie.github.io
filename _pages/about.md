@@ -16,7 +16,7 @@ Ph.D. Student Recruitment
     * Please check the [Recruitment](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
     * Currently we target Fall 2023 semester (deadline is May 2023).  
     * We welcome students with both EE and CS background.  
-    * Learn more about ML for EDA direction [tab](https://zhiyaoxie.github.io/ml4eda/){: .btn--paper}.
+    * Learn more about ML for EDA [here](https://zhiyaoxie.github.io/ml4eda/){: .btn--paper}.
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
     * Please do excuse me for not being able to reply every email... 
