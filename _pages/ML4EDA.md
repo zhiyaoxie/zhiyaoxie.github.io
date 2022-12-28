@@ -17,18 +17,15 @@ EDA的全称为Electronic Design Automation，意指电子设计自动化。经�
 
 ML for EDA的工作可以通过多种方法进行分类。
 
-在EDA研究中，机器学习工具主要被用于预测（prediction）与优化 （optimization）两方面。
+根据原理分类，ML可以被用于预测（prediction）与优化 （optimization）两方面。
 
-根据目标阶段，
+根据目标阶段，ML可以被用于。
 
 ## 为什么研究ML for EDA
 
 关于ML for EDA相比传统算法的优势，笔者这里提供一种解释。
 
-代表性的ML for EDA工作
-
-
-
+## 代表性的ML for EDA工作
 
 
 
