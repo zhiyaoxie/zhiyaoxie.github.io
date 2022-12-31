@@ -25,6 +25,8 @@ author_profile: true
     * Please include your grade (ideally with rank) in your CV   
     * Please include [PhD Application] and your name in email title 
 
+For HKUST Undergraduates
+======
 * If you are a HKUST undergraduate EE/CS/math student and want to learn more about research assistant or Ph.D. positions, feel free to contact me. A good grade is a big plus.
 
 
