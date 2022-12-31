@@ -22,7 +22,7 @@ author_profile: true
 
 * **For applicants**:
     * No need to write a long email, just drop me the CV (filename including your name) 
-    * Please include your grade (ideally with rank) in your CV   
+    * Please make sure to include your grade (ideally with rank) in your CV   
     * Please include [PhD Application] and your name in email title 
 
 For HKUST Undergraduates
