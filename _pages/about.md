@@ -20,6 +20,7 @@ Ph.D. Student Recruitment
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
     * Please do excuse me for not being able to reply every email... 
+    * No need to write a long email, just drop me your CV
 
 Why Joining Us?
 ======

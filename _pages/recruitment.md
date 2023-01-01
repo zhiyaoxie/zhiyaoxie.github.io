@@ -21,7 +21,7 @@ author_profile: true
 * **HKFPS**: Learn about HK PhD Fellowship Scheme if you have a strong resume. This fellowship will cover all your expenses. It requries high university rank, high grade, and nation scholarships (for mainland students).
 
 * **For applicants**:
-    * No need to write a long email, just drop me the CV (filename including your name) 
+    * No need to write a long email, just drop me your CV (filename including your name) 
     * Please make sure to include your grade (ideally with rank) in your CV   
     * Please include [PhD Application] and your name in email title 
 
