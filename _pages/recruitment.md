@@ -7,8 +7,8 @@ author_profile: true
 
 * **Recruitment in** [Chinese](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=948482&page=1#pid17998340){: .btn--paper}
 
-* **Qualifications**: For your reference, ideally we look for students satisfying these criteria: 
-    * University: QS top 500 for Bachelor-degree university or QS top 300 for Master-degree university 
+* **Qualifications**: Ideally we look for students satisfying these criteria (not a strict requirement): 
+    * University: QS top 500 for Bachelor-degree or Master-degree university 
     * Grade: grade > 85/100 or rank top 25% (unnecessary for top university)  
     * Serious research experience (ideally with publications/drafts in submission)  
     * Good programming skill (Python is enough, C/C++ experience is a plus)  
