@@ -10,9 +10,9 @@ author_profile: true
 * **Qualifications**: Ideally we look for students satisfying these criteria (not a strict requirement): 
     * University: QS top 500 for Bachelor-degree or Master-degree university 
     * Grade: grade > 85/100 or rank top 25% (unnecessary for top university)  
-    * Serious research experience (ideally with publications/drafts in submission)  
-    * Good programming skill (Python is enough, C/C++ experience is a plus)  
-    * Expertise in one EE/CS direction (ML, data analysis, algorithm, optimization, IC, EDA, computer arch, math, etc.). Ideally I hope you can teach me something in your direction. 
+    * Research experience (ideally with publications/drafts in submission)  
+    * Programming skill (Python is enough, C/C++ experience is a plus)  
+    * Expertise in any EE/CS direction (ML, data analysis, algorithm, optimization, IC, EDA, computer arch, math, etc.). Ideally I hope you can teach me something in your direction. 
 
 * **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is typically 4 years. The basic monthly salary of Ph.D. students is about HKD 18K. Learn more about the program [here](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece){: .btn--paper}.
 
@@ -23,7 +23,7 @@ author_profile: true
 * **For applicants**:
     * No need to write a long email, just drop me your CV (filename including your name) 
     * Please make sure to include your grade (ideally with rank) in your CV   
-    * Please include [PhD Application] and your name in email title 
+    * Better include [PhD Application] and your name in email title 
 
 For HKUST Undergraduates
 ======
