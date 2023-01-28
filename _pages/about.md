@@ -19,8 +19,8 @@ Ph.D. Student Recruitment
     * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
-    * Please do excuse me for not being able to reply every email... 
-    * No need to write a long email, just drop me your CV
+    * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply. 
+    * No need to waste time writing a long email, just drop me your CV.
 
 Why Joining Us?
 ======
