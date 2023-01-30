@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [ISPD'23](https://ispd.cc/ispd2023/){: .btn} **Zhiyao Xie**, "Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)". *International Symposium on Physical Design (ISPD)*, 2023. 
+* [ISPD'23](https://ispd.cc/ispd2023/){: .btn} **Zhiyao Xie**, "Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)". *International Symposium on Physical Design (ISPD)*, 2023. [pdf](https://zhiyaoxie.github.io/files/23_ISPD.pdf){: .btn--paper}
 
 * [ISQED'23](https://www.isqed.org/){: .btn} **Zhiyao Xie**, Tao Zhang, and Yifeng Peng, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". *International Symposium on Quality Electronic Design (ISQED)*, 2023. 
 
@@ -13,7 +13,7 @@ author_profile: true
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, and Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Award)**</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper} 
 
-* [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Nomination)**</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
+* [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Candidate)**</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
 
 * [ICCAD'22](https://iccad.com/){: .btn} **Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". *International Conference on Computer Aided Design (ICCAD)*, 2022. [ACM](https://dl.acm.org/doi/10.1145/3508352.3549427){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper} 
 

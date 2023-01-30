@@ -19,7 +19,8 @@ Education
 
 Award
 ======
-* 2\* ASP-DAC 2023 Best Paper Nomination, 2023   
+* ASP-DAC 2023 Best Paper Award, 2023   
+* ASP-DAC 2023 Best Paper Candidate, 2023   
 * ACM TODAES Distinguished Reviewer, 2022   
 * ACM SIGDA Best Research Poster Award, 2022   
 * IEEE/ACM MICRO 2021 Best Paper Award, 2021   
@@ -29,8 +30,9 @@ Award
 
 Service
 ======
-* Publicity Chair, IEEE CEDA Hong Kong
 * Technical Program Committee Member of ASP-DAC 2023
+* Seminar Chair, IEEE CEDA Hong Kong, 2022
+* Publicity Chair, IEEE CEDA Hong Kong, 2022
 * Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS
 * Reviewer of IEEE TCAD, IEEE Design & Test, IEEE CAL; Springer JCST  
 
