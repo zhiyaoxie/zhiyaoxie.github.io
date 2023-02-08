@@ -48,7 +48,6 @@ Work Experience
   * It is verified on multiple industry-standard CPU cores including ARM Neoverse N1 and Cortex-A77. 
 
 * **Software Engineer Intern, Synopsys**, May 2019 – Aug 2019
-  * Advisor: Anand Rajaram, Min Pan, Aiqun Cao
   * Developed a light-weighted linear model to estimate transition violation on the clock tree.
   * The model is integrated into IC Compiler II and proves to improve clock tree quality by guiding CTS with early feedback.
   
