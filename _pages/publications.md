@@ -11,7 +11,7 @@ author_profile: true
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} **Zhiyao Xie**, "Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)". *International Symposium on Physical Design (ISPD)*, 2023. [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
-* [ISQED'23](https://www.isqed.org/){: .btn} **Zhiyao Xie**, Tao Zhang, and Yifeng Peng, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". *International Symposium on Quality Electronic Design (ISQED)*, 2023. 
+* [ISQED'23](https://www.isqed.org/){: .btn} **Zhiyao Xie**, Tao Zhang, and Yifeng Peng, "Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)". *International Symposium on Quality Electronic Design (ISQED)*, 2023. [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, and Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs". *International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2023. [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
 
