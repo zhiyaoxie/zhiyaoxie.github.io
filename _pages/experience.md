@@ -31,7 +31,7 @@ Award
 Service
 ======
 * Technical Program Committee Member of ASP-DAC 2023
-* Seminar Chair, IEEE CEDA Hong Kong, 2022
+* Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
 * Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS
 * Reviewer of IEEE TCAD, IEEE Design & Test, IEEE CAL; Springer JCST  
@@ -65,13 +65,13 @@ optimization. This is an early effort on routability estimation in the EDA indus
 
 Teaching Experience
 ======
-* **Lecturer of ELEC 2350**, HKUST 
+* **Instructor of ELEC 2350**, 2023, HKUST 
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
 
-* **TA of ECE 586**, Duke University, 2021
+* **TA of ECE 586**, Duke University, 2021 
     * ECE 586: Vector Space Methods with Applications. (Graduate) 
 
-* **TA of ECE 350**, Duke University, 2021
+* **TA of ECE 350**, Duke University, 2021 
     * ECE 350: Digital Systems. (Undergraduate)
 
 * **EDA Supporter of ECE 532**, Duke University, 2021
