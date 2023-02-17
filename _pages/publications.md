@@ -56,6 +56,7 @@ author_profile: true
 
 Media
 ======
+* Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022. [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * "AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021. [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
 * "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
 * "A New Power Modeling Method APOLLO (Chinese)", *AI Era / 新智元*, 2021. [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
