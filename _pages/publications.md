@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [DAC'23](https://www.dac.com/){: .btn} Jian PENG, Tingyuan Liang, **Zhiyao Xie**, Wei Zhang, "PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator". *Design Automation Conference (DAC)*, 2023.
-
 * [DAC'23](https://www.dac.com/){: .btn} Afzal Ahmad, **Zhiyao Xie**, Wei Zhang, "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search". *Design Automation Conference (DAC)*, 2023.
+
+* [DAC'23](https://www.dac.com/){: .btn} Jian PENG, Tingyuan Liang, **Zhiyao Xie**, Wei Zhang, "PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator". *Design Automation Conference (DAC)*, 2023.
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} **Zhiyao Xie**, "Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)". *International Symposium on Physical Design (ISPD)*, 2023. [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
