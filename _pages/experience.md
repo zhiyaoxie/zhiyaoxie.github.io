@@ -19,6 +19,7 @@ Education
 
 Award
 ======
+* EDAA Outstanding Dissertation Award, 2023   
 * ASP-DAC 2023 Best Paper Award, 2023   
 * ASP-DAC 2023 Best Paper Candidate, 2023   
 * ACM TODAES Distinguished Reviewer, 2022   
