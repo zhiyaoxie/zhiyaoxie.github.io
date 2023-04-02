@@ -17,14 +17,14 @@ Zhiyao has received multiple prestigious awards, including the MICRO 2021 Best P
 Ph.D. Student Recruitment
 ======
 * <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
-    * Please check the [Recruitment](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
-    * Currently we target Fall 2023 semester (deadline is May 2023).  
+    * Please do check the [Recruitment](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
+    * Currently we target Fall 2023 semester (deadline is May 2023). For applicants targeting 2024, better contact me this July-Oct. 
     * We welcome students with both CS and EE background. 
     * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
     * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply. 
-    * No need to waste time writing a long email, just drop me your CV.
+    * No need to waste time writing a long email, just drop me your CV with grade.
 
 Why Joining Us?
 ======
