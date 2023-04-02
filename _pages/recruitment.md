@@ -18,7 +18,7 @@ author_profile: true
 
 * **Research Topics**: I have multiple research topics on cutting-edge machine learning for EDA techniques. Detailed instructions will be provided when starting your research.
 
-* **HKFPS**: Learn about HK PhD Fellowship Scheme if you have a strong resume. This fellowship will cover all your expenses. It requries high university rank, high grade, and national scholarships (for mainland students).
+* **HKFPS**: Learn about HK PhD Fellowship Scheme if you have a strong resume. This fellowship will cover all your expenses. It requries high university rank, high grade rank, and national scholarships (for mainland students). Diversity (e.g. being international or local HK students) is a huge plus. If you think you qualify, do not hesitate to contact me. 
 
 * **For applicants**:
     * No need to write a long email, just drop me your CV (filename including your name) 
