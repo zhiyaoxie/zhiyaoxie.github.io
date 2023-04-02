@@ -7,12 +7,12 @@ author_profile: true
 
 * **Recruitment in** [Chinese](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=948482&page=1#pid17998340){: .btn--paper}
 
-* **Qualifications**: Ideally we look for students satisfying these criteria (not a strict requirement): 
-    * University: QS top 500 for Bachelor-degree or Master-degree university 
+* **Qualifications**: Ideally we look for students satisfying these criteria: 
+    * University: world top 500 for Bachelor-degree or Master-degree university 
     * Grade: grade > 85/100 or rank top 25% (unnecessary for top university)  
     * Research experience (ideally with publications/drafts in submission)  
     * Programming skill (Python is enough, C/C++ experience is a plus)  
-    * Expertise in any EE/CS direction (ML, data analysis, algorithm, optimization, IC, EDA, computer arch, math, etc.). Ideally I hope you can teach me something in your direction. 
+    * Expertise in any CS/EE direction (ML, data analysis, algorithm, optimization, IC, EDA, computer arch, math, etc.). Ideally I hope you can teach me something in your direction. Currently we have a special need for programming experts. 
 
 * **Basic Program Information**: HKUST ranked No.34 in QS World University Rankings 2022. The Ph.D. program duration is typically 4 years. The basic monthly salary of Ph.D. students is about HKD 18K. Learn more about the program [here](https://prog-crs.ust.hk/pgprog/2022-23/mphil-phd-ece){: .btn--paper}.
 
