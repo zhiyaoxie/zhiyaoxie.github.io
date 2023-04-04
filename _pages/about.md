@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong University of Science and Technology (HKUST), where he joined in 2022. He completed his Ph.D. in 2022 from Duke University under the supervision of Prof. Yiran Chen and Prof. Hai (Helen) Li, after receiving his B.Eng from CityU HK in 2017 on a full scholarship.
-
-During his Ph.D. studies, Zhiyao also worked as a research intern at leading IC design and electronic design automation (EDA) companies such as Nvidia, Arm, Cadence, and Synopsys. His research interests span cross-disciplinary topics in electronic design automation, VLSI design, computer architecture, and machine learning, with a particular focus on machine learning for hardware design.
-
-Zhiyao has received multiple prestigious awards, including the MICRO 2021 Best Paper Award, EDAA Outstanding Dissertation Award 2023, ACM SIGDA SRF 2022 Best Research Poster Award, ASP-DAC 2023 Best Paper Award, etc. Now he also serves as the Seminar Chair of IEEE CEDA Hong Kong.
+Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong University of Science and Technology (HKUST), where he joined in 2022. He completed his Ph.D. in 2022 from Duke University under the supervision of Prof. Yiran Chen and Prof. Hai (Helen) Li, after receiving his B.Eng from CityU HK in 2017 on a full scholarship. During his Ph.D. studies, Zhiyao also worked as a research intern at leading IC design and electronic design automation (EDA) companies such as Nvidia, Arm, Cadence, and Synopsys. His research interests span cross-disciplinary topics in electronic design automation, VLSI design, computer architecture, and machine learning, with a particular focus on machine learning for hardware design. Zhiyao has received multiple prestigious awards, including the MICRO 2021 Best Paper Award, EDAA Outstanding Dissertation Award 2023, ACM SIGDA SRF 2022 Best Research Poster Award, ASP-DAC 2023 Best Paper Award, etc. Now he also serves as the Seminar Chair of IEEE CEDA Hong Kong.
 
 Ph.D. Student Recruitment
 ======
