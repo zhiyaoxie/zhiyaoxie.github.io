@@ -56,7 +56,7 @@ author_profile: true
 
 Media
 ======
-* "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation" [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}
+* "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation", *HKUST News*, 2023. [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}
 * Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022. [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * "AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021. [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
 * "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
