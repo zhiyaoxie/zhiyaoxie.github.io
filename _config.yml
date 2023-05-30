@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhiyao Xie"
-  avatar           : "profile.png"
+  avatar           : "zhiyaoProfile.jpg" #"profile.png"
   bio              : "Assistant Professor at HKUST, Ph.D. at Duke University, B.Eng. at CityU HK"
   location         : "Hong Kong" #"Clear Water Bay, Hong Kong"
   employer         :

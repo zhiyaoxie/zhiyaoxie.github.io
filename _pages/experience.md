@@ -31,6 +31,7 @@ Award
 
 Service
 ======
+* Technical Program Committee Member of ICCAD 2023
 * Technical Program Committee Member of ASP-DAC 2023
 * Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
