@@ -19,6 +19,7 @@ Education
 
 Award
 ======
+* ACM Outstanding Dissertation Award in EDA, 2023
 * EDAA Outstanding Dissertation Award, 2023   
 * ASP-DAC 2023 Best Paper Award, 2023   
 * ASP-DAC 2023 Best Paper Candidate, 2023   
