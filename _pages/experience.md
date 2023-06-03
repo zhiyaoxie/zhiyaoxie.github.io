@@ -35,8 +35,8 @@ Service
 * Technical Program Committee Member of ASP-DAC 2023
 * Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
-* Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS
-* Reviewer of IEEE TCAD, IEEE Design & Test, IEEE CAL; Springer JCST  
+* Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS, Springer JCST  
+* Reviewer of IEEE TCAD, IEEE TCAS-I, IEEE ESL, IEEE Design & Test, IEEE CAL 
 
 Work Experience
 ======
