@@ -37,7 +37,7 @@ Service
 * Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
 * Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS, Springer JCST  
-* Reviewer of IEEE TCAD, IEEE TCAS-I, IEEE ESL, IEEE Design & Test, IEEE CAL 
+* Reviewer of IEEE TCAD, IEEE TCAS-I, IEEE ESL, IEEE Design & Test, IEEE CAL, NeurIPS 
 
 Work Experience
 ======
