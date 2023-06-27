@@ -56,7 +56,7 @@ author_profile: true
 
 Media
 ======
-* "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation" *ACCESS Feature News*, 2023. [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation)
+* "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation" *ACCESS Feature News*, 2023. [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}
 * "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation", *HKUST News*, 2023. [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}
 * Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022. [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * "AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021. [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
