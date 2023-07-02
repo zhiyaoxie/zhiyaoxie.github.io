@@ -54,16 +54,19 @@ author_profile: true
 * [Book Chapter](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, and Jiang Hu, "Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
 
-Media
+Media Coverage
 ======
 * "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation" *ACCESS Feature News*, 2023. [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}
 * "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation", *HKUST News*, 2023. [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}
-* Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022. [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * "AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021. [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
 * "Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
 * "A New Power Modeling Method APOLLO (Chinese)", *AI Era / 新智元*, 2021. [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
 * "CPU Power Introspection at Lower Cost (Chinese)", *Synced / 机器之心*, 2021. [News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_jiqizhixin.pdf){: .btn--paper}    
 * "APOLLO: A Fast IC Measurement Solution (Chinese)", *China Science Daily / 中国科学报*, 2021. [News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_ScienceNet.pdf){: .btn--paper}     
+
+Blog Article
+======
+* Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022. [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
 
 
