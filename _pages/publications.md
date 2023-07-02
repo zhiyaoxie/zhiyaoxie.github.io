@@ -53,7 +53,6 @@ author_profile: true
 
 * [Book Chapter](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, and Jiang Hu, "Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
-
 Media Coverage
 ======
 * "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation" *ACCESS Feature News*, 2023. [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}
