@@ -17,20 +17,6 @@ Education
     * First Class Honours. Full Tuition Scholarship.  
     * Major Grade: 4.16/4.3. 
 
-Award
-======
-* RGC Early Career Award, 2023
-* WAIC Yufan Award (10 AI Specialist under age of 35), 2023
-* ACM Outstanding Dissertation Award in EDA, 2023
-* EDAA Outstanding Dissertation Award, 2023   
-* ASP-DAC 2023 Best Paper Award, 2023   
-* ASP-DAC 2023 Best Paper Candidate, 2023   
-* ACM TODAES Distinguished Reviewer, 2022   
-* ACM SIGDA Best Research Poster Award, 2022   
-* IEEE/ACM MICRO 2021 Best Paper Award, 2021   
-* ECE Ph.D. Fellowship, Duke University, 2018   
-* Dean’s List for all 8 semesters, CityU HK, 2013-2017     
-* Full Tuition Scholarship for 4 years, CityU HK, 2013-2017   
 
 Service
 ======
