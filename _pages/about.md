@@ -12,10 +12,10 @@ Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong Universi
 
 Award & Honors
 ======
+* WAIC Yufan Award (~10 Chinese young AI experts under age of 35), 2023
 * UGC/RGC Early Career Award (~8 awardees out of 525 applicants), 2023
 * ACM Outstanding Dissertation Award in EDA (one awardee per year), 2023
 * EDAA Outstanding Dissertation Award (one awardee per subfield), 2023   
-* WAIC Yufan Award (~10 Chinese young AI experts under age of 35), 2023
 * ASP-DAC 2023 Best Paper Award, 2023   
 * ASP-DAC 2023 Best Paper Candidate, 2023   
 * ACM TODAES Distinguished Reviewer, 2022   
