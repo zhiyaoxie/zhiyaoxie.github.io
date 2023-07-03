@@ -19,6 +19,8 @@ Education
 
 Award
 ======
+* RGC Early Career Award, 2023
+* WAIC Yufan Award (10 AI Specialist under age of 35), 2023
 * ACM Outstanding Dissertation Award in EDA, 2023
 * EDAA Outstanding Dissertation Award, 2023   
 * ASP-DAC 2023 Best Paper Award, 2023   
