@@ -14,8 +14,8 @@ Award & Honors
 ======
 * **UGC/RGC Early Career Award (<10 out of 525 grant applicants), 2023**
 * WAIC Yufan Award (云帆奖, 10 Chinese AI researchers under age of 35), 2023
-* **ACM Outstanding Dissertation Award in EDA (one awardee per year), 2023**
-* **EDAA Outstanding Dissertation Award (one awardee per category), 2023**
+* **ACM Outstanding Dissertation Award in EDA (1 awardee per year), 2023**
+* **EDAA Outstanding Dissertation Award (4 awardees per year), 2023**
 * **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328)**   
 * ASP-DAC 2023 Best Paper Candidate, 2023   
 * ACM TODAES Distinguished Reviewer, 2022   
