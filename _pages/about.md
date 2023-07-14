@@ -20,7 +20,7 @@ Award & Honors
 * ASP-DAC 2023 Best Paper Candidate, 2023   
 * ACM TODAES Distinguished Reviewer, 2022   
 * **ACM SIGDA SRF Best Research Poster Award, 2022**   
-* **IEEE/ACM MICRO 2021 Best Paper Award (1 out of 430), 2021**
+* **IEEE/ACM MICRO 2021 Best Paper Award, 2021 (1 out of 430)**
 * ECE Ph.D. Fellowship, Duke University, 2018   
 * Dean’s List for all 8 UG Semesters, CityU HK, 2013-2017  
 * Outstanding Student Prize, CityU HK, 2016  
