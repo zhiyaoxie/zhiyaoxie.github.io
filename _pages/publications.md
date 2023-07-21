@@ -37,7 +37,7 @@ author_profile: true
 
 * [TCAD'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, and Yiran Chen, "Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network". *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2022. [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
 
-        I joined HKUST at this time in 2022. All my above publications are afffliated with HKUST eezhiyao@ust.hk :)
+        I joined HKUST at this time in 2022. All my above publications are affliated with HKUST eezhiyao@ust.hk :)
 
 * [Dissertation](https://library.duke.edu/find/theses-dissertations){: .btn} **Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning". *PhD Dissertation of Duke University*, 2022. [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper} <span style="color:red">**(ACM/SIGDA Outstanding Dissertation Award in EDA)**</span> &ensp;  <span style="color:red">**(EDAA Outstanding Dissertation Award)**</span>
 
