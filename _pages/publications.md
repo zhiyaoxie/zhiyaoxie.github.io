@@ -9,9 +9,9 @@ author_profile: true
 
 * [ICCAD'23](https://iccad.com/){: .btn} Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang and **Zhiyao Xie**, "MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design". *International Conference on Computer Aided Design (ICCAD)*, 2023. 
 
-* [DAC'23](https://www.dac.com/){: .btn} Afzal Ahmad, **Zhiyao Xie**, Wei Zhang, "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search". *Design Automation Conference (DAC)*, 2023.
+* [DAC'23](https://www.dac.com/){: .btn} Afzal Ahmad, **Zhiyao Xie**, Wei Zhang, "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search". *Design Automation Conference (DAC)*, 2023. [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}
 
-* [DAC'23](https://www.dac.com/){: .btn} Jian PENG, Tingyuan Liang, **Zhiyao Xie**, Wei Zhang, "PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator". *Design Automation Conference (DAC)*, 2023.
+* [DAC'23](https://www.dac.com/){: .btn} Jian PENG, Tingyuan Liang, **Zhiyao Xie**, Wei Zhang, "PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator". *Design Automation Conference (DAC)*, 2023. [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} **Zhiyao Xie**, "Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)". *International Symposium on Physical Design (ISPD)*, 2023. [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
