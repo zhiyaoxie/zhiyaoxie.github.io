@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [ICCAD'23](https://iccad.com/){: .btn} Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen and **Zhiyao Xie**, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". *International Conference on Computer Aided Design (ICCAD)*, 2023. 
+* [ICCAD'23](https://iccad.com/){: .btn} Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and **Zhiyao Xie**, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". *International Conference on Computer Aided Design (ICCAD)*, 2023. 
 
-* [ICCAD'23](https://iccad.com/){: .btn} Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang and **Zhiyao Xie**, "MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design". *International Conference on Computer Aided Design (ICCAD)*, 2023. 
+* [ICCAD'23](https://iccad.com/){: .btn} Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and **Zhiyao Xie**, "MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design". *International Conference on Computer Aided Design (ICCAD)*, 2023. 
 
 * [DAC'23](https://www.dac.com/){: .btn} Afzal Ahmad, **Zhiyao Xie**, Wei Zhang, "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search". *Design Automation Conference (DAC)*, 2023. [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}
 
