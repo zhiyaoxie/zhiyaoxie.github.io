@@ -23,6 +23,10 @@ author_profile: true
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction". *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. <span style="color:red">**(Best Paper Candidate)**</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
 
+* [Book Chapter](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter 2: Deep Learning for Routability Prediction". *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
+
+* [Book Chapter](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, and Jiang Hu, "Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+
 * [ICCAD'22](https://iccad.com/){: .btn} **Zhiyao Xie**, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu. "DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters". *International Conference on Computer Aided Design (ICCAD)*, 2022. [ACM](https://dl.acm.org/doi/10.1145/3508352.3549427){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper} 
 
 * [ICCAD'22](https://iccad.com/){: .btn} Jingyu Pan, Chen-Chia Chang, **Zhiyao Xie**, Jiang Hu, and Yiran Chen. "Robustify ML-based Lithography Hotspot Detectors". *International Conference on Computer Aided Design (ICCAD)*, 2022. [ACM](https://dl.acm.org/doi/10.1145/3508352.3549389){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--paper}    
@@ -55,10 +59,6 @@ author_profile: true
 
 * [ICCAD'18](https://iccad.com/){: .btn} **Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu, "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network". *International Conference on Computer Aided Design (ICCAD)*, 2018. [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
  
-* [Book Chapter](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter 2: Deep Learning for Routability Prediction". *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
-
-* [Book Chapter](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, and Jiang Hu, "Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation". *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
-
 Media Coverage
 ======
 * "Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation" *ACCESS Feature News*, 2023. [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}
