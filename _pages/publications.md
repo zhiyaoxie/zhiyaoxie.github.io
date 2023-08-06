@@ -21,11 +21,19 @@ author_profile: true
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, and Wei Zhang. "FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs," *ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)*, 2023. *(Acceptance rate=28%)* [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
 
-* [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, and Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA," *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (2 out of 328) <span style="color:red">**(Best Paper Award)**</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper} 
+* [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span> 
+<span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, and Yiran Chen</span>	  
+<span style="font-size:95%">*Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (2 out of 328)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper}   
+<span style="color:red">**(Best Paper Award)**</span>   
 
-* [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction," *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (11 out of 328) <span style="color:red">**(Best Paper Candidate)**</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
+* [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
+<span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. (Rate: 11 out of 328)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
+<span style="color:red">**(Best Paper Candidate)**</span>  
 
-* [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter 2: Deep Learning for Routability Prediction," *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
+* [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
+<span style="color:DimGray; font-size:90%">**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
+<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}</span>  
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation</span>  
 <span style="color:DimGray; font-size:90%">Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, and Jiang Hu</span>  
