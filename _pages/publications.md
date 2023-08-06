@@ -10,19 +10,19 @@ author_profile: true
 <span style="font-size:95%">*IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2023.</span>	   
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design</span>  
-<span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>  
+<span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</span>    
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search</span>     
-<span style="color:DimGray; font-size:85%">Afzal Ahmad, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span> 
+<span style="color:DimGray; font-size:85%">Afzal Ahmad, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator</span>   
-<span style="color:DimGray; font-size:85%">Jian PENG, Tingyuan Liang, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	 
+<span style="color:DimGray; font-size:85%">Jian PENG, Tingyuan Liang, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}
 
 * [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">The Dark Side: Security and Reliability Concerns in Machine Learning for EDA</span>    
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>   
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} <span style="color:DarkBlue">Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)</span>   
@@ -35,7 +35,7 @@ author_profile: true
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs</span>     
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>     
-<span style="font-size:95%">ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
+<span style="font-size:95%">ACM International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span> 
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>	  
@@ -82,7 +82,7 @@ author_profile: true
 * [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
 <span style="font-size:95%">International Symposium on Microarchitecture (MICRO), 2021. *(Acceptance rate=22%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
-<span style="font-size:95; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(1 out of 430)</span>
+<span style="font-size:95; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(1 awardee out of 430 submissions)</span>
 
 * [ICCAD'21](https://iccad.com/){: .btn} <span style="color:DarkBlue">Automatic Routability Predictor Development Using Neural Architecture Search</span>  
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, and Yiran Chen</span>  
@@ -117,19 +117,26 @@ author_profile: true
  
 Media Coverage
 ======
-* <span style="font-size:95%">Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,  
+* <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
 *ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}   
-* <span style="font-size:95%">Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation, *HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}   
-* <span style="font-size:95%">"AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
-* <span style="font-size:95%">"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)",   
+* <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
+*HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}   
+* <span style="font-size:95%">"AI Models Microprocessor Performance in Real-Time,"    
+*Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
+* <span style="font-size:95%">"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese),"     
 *AI Tech Review / AI 科技评论*, 2021.</span> [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
-* <span style="font-size:95%">"A New Power Modeling Method APOLLO (Chinese)", *AI Era / 新智元*, 2021.</span> [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
-* <span style="font-size:95%">"CPU Power Introspection at Lower Cost (Chinese)", *Synced / 机器之心*, 2021.</span> [News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_jiqizhixin.pdf){: .btn--paper}    
-* <span style="font-size:95%">"APOLLO: A Fast IC Measurement Solution (Chinese)", *China Science Daily / 中国科学报*, 2021.</span> [News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_ScienceNet.pdf){: .btn--paper}     
+* <span style="font-size:95%">"A New Power Modeling Method APOLLO (Chinese),"   
+*AI Era / 新智元*, 2021.</span> [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
+* <span style="font-size:95%">"CPU Power Introspection at Lower Cost (Chinese),"   
+*Synced / 机器之心*, 2021.</span> [News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_jiqizhixin.pdf){: .btn--paper}    
+* <span style="font-size:95%">"APOLLO: A Fast IC Measurement Solution (Chinese),"    
+*China Science Daily / 中国科学报*, 2021.</span> [News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_ScienceNet.pdf){: .btn--paper}     
 
 Blog Article
 ======
-* <span style="font-size:95%">Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022.</span> [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
-* <span style="font-size:95%">Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", *AI Tech Review / AI 科技评论*, 2021.</span> [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
+* <span style="font-size:95%">Zhiyao Xie, "Will AI change EDA? (Chinese),"   
+*StarryHeavensAbove*, 2022.</span> [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
+* <span style="font-size:95%">Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese),"     
+*AI Tech Review / AI 科技评论*, 2021.</span> [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
 
 
