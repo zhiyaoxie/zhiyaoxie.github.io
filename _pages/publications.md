@@ -53,16 +53,16 @@ author_profile: true
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza, "FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning," *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
 
-* [ASPDAC'20](https://www.aspdac.com/){: .btn} "PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network," 
-**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen,   
+* [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network</span> 
+<span style="color:DimGray">**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen</span>     
 *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
 
 * [DATE'19](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model</span>  
-Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu,  
+<span style="color:darkgray">Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>     
 *Design, Automation and Test in Europe Conference (DATE)*, 2019. *(Acceptance rate=24%)* [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
 
 * [ICCAD'18](https://iccad.com/){: .btn} <span style="color:blue">RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network</span>   
-**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu,  
+<span style="color:darkgray">**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
 *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2018. *(Acceptance rate=24.5%)* [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
  
 Media Coverage
