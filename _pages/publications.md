@@ -23,13 +23,13 @@ author_profile: true
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span> 
 <span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, and Yiran Chen</span>	  
-<span style="font-size:95%">*Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (2 out of 328)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper}   
-<span style="color:red">**(Best Paper Award)**</span>   
+<span style="font-size:95%">*Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (Acceptance rate=31%)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper}   
+<span style="color:red">**Best Paper Award**</span> (2 out of 328)   
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
 <span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. (Rate: 11 out of 328)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
-<span style="color:red">**(Best Paper Candidate)**</span>  
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. (Acceptance rate=31%)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
+<span style="color:red">**Best Paper Candidate**</span> (11 out of 328)
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
 <span style="color:DimGray; font-size:90%">**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
@@ -51,23 +51,23 @@ author_profile: true
 <span style="color:DimGray; font-size:90%">Jingyu Pan, Chen-Chia Chang, <span style="color:black">**Zhiyao Xie**</span>, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>  
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2022. *(Acceptance rate=23%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3489517.3530578){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC22_FL.pdf){: .btn--paper} 
 
-* [TCAD'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network</span>	 
+* [TCAD'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network</span>	  
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, and Yiran Chen</span>  
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.</span> [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
 
-[//]: #   I joined HKUST at this time in June 2022. All my above publications are affliated with HKUST eezhiyao@ust.hk :)
-
+----
 ----
 
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
-<span style="color:red">**(ACM/SIGDA Outstanding Dissertation Award in EDA)**</span> &ensp;  <span style="color:red">**(EDAA Outstanding Dissertation Award)**</span>
+<span style="color:red">**ACM/SIGDA Outstanding Dissertation Award in EDA**</span> (1 awardee worldwide per year))   
+<span style="color:red">**EDAA Outstanding Dissertation Award**</span> (4 awardees worldwide per year)   
 
 * [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
-<span style="font-size:95%">International Symposium on Microarchitecture (MICRO), 2021. *(1 out of 430)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
-<span style="color:red">**(Best Paper Award)**</span>
+<span style="font-size:95%">International Symposium on Microarchitecture (MICRO), 2021. *(Acceptance rate=22%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
+<span style="color:red">**Best Paper Award**</span> (1 out of 430)
 
 * [ICCAD'21](https://iccad.com/){: .btn} <span style="color:DarkBlue">Automatic Routability Predictor Development Using Neural Architecture Search</span>  
 <span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, and Yiran Chen</span>  
