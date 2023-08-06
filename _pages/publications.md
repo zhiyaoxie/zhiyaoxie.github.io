@@ -6,53 +6,53 @@ author_profile: true
 ---
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
-<span style="color:DimGray; font-size:85%">Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and **Zhiyao Xie**</span>    
+<span style="color:DimGray; font-size:85%">Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">*IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2023.</span>	   
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design</span>  
-<span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and **Zhiyao Xie**</span>  
+<span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</span>    
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search</span>     
-<span style="color:DimGray; font-size:85%">Afzal Ahmad, **Zhiyao Xie**, and Wei Zhang</span> 
+<span style="color:DimGray; font-size:85%">Afzal Ahmad, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span> 
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator</span>   
-<span style="color:DimGray; font-size:85%">Jian PENG, Tingyuan Liang, **Zhiyao Xie**, and Wei Zhang</span>	 
+<span style="color:DimGray; font-size:85%">Jian PENG, Tingyuan Liang, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	 
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}
 
 * [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">The Dark Side: Security and Reliability Concerns in Machine Learning for EDA</span>    
-<span style="color:DimGray; font-size:85%">**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>   
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} <span style="color:DarkBlue">Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)</span>   
-<span style="color:DimGray; font-size:85%">**Zhiyao Xie**</span>     
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">International Symposium on Physical Design (ISPD), 2023.</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3569052.3578927){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
 * [ISQED'23](https://www.isqed.org/){: .btn} <span style="color:DarkBlue">Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)</span>	     
-<span style="color:DimGray; font-size:85%">**Zhiyao Xie**, Tao Zhang, and Yifeng Peng</span>      
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Tao Zhang, and Yifeng Peng</span>      
 <span style="font-size:95%">International Symposium on Quality Electronic Design (ISQED), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10129359){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs</span>     
-<span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Sharad Sinha, **Zhiyao Xie**, and Wei Zhang</span>     
+<span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>     
 <span style="font-size:95%">ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span> 
-<span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, and Yiran Chen</span>	  
+<span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>	  
 <span style="font-size:95%">*Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (Acceptance rate=31%)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper}   
 <span style="font-size:95; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(2 awardees out of 328 publications)</span>   
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
-<span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
+<span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. (Acceptance rate=31%)</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
 <span style="font-size:95; color:red">**Best Paper Candidate**</span> <span style="font-size:80%; color:crimson">(11 awardees out of 328 publications)</span>
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
-<span style="color:DimGray; font-size:85%">**Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
 <span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}</span>  
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation</span>  
-<span style="color:DimGray; font-size:85%">Rongjian Liang, **Zhiyao Xie**, Erick Carvajal Barboza, and Jiang Hu</span>  
+<span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Erick Carvajal Barboza, and Jiang Hu</span>  
 <span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
 * [ICCAD'22](https://iccad.com/){: .btn} <span style="color:DarkBlue">DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters</span>    
