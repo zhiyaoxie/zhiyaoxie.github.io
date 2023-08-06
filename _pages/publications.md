@@ -9,9 +9,9 @@ author_profile: true
 
 * [ICCAD'23](https://iccad.com/){: .btn} Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and **Zhiyao Xie**, "MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design," *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2023. 
 
-* [DAC'23](https://www.dac.com/){: .btn} Afzal Ahmad, **Zhiyao Xie**, Wei Zhang, "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search," *ACM/IEEE Design Automation Conference (DAC)*, 2023. [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}
+* [DAC'23](https://www.dac.com/){: .btn} Afzal Ahmad, **Zhiyao Xie**, Wei Zhang, "PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search," *ACM/IEEE Design Automation Conference (DAC)*, 2023. *(Acceptance rate=23%)* [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}
 
-* [DAC'23](https://www.dac.com/){: .btn} Jian PENG, Tingyuan Liang, **Zhiyao Xie**, Wei Zhang, "PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator," *ACM/IEEE Design Automation Conference (DAC)*, 2023. [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}
+* [DAC'23](https://www.dac.com/){: .btn} Jian PENG, Tingyuan Liang, **Zhiyao Xie**, Wei Zhang, "PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator," *ACM/IEEE Design Automation Conference (DAC)*, 2023. *(Acceptance rate=23%)* [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}
 
 * [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen. "The Dark Side: Security and Reliability Concerns in Machine Learning for EDA," *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023. [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
 
@@ -23,7 +23,7 @@ author_profile: true
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Jiang Hu, and Yiran Chen. "Rethink before Releasing your Model: ML Model Extraction Attack in EDA," *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (2 out of 328) <span style="color:red">**(Best Paper Award)**</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper} 
 
-* [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction," *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (11 our of 328) <span style="color:red">**(Best Paper Candidate)**</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
+* [ASPDAC'23](https://www.aspdac.com/){: .btn} Chen-Chia Chang, Jingyu Pan, **Zhiyao Xie**, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen. "Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction," *Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2023. (11 out of 328) <span style="color:red">**(Best Paper Candidate)**</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper} 
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} **Zhiyao Xie**, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen, "Chapter 2: Deep Learning for Routability Prediction," *In Book: Machine Learning Applications in Electronic Design Automation*. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}
 
@@ -51,18 +51,18 @@ author_profile: true
 
 * [ICCAD'20](https://iccad.com/){: .btn} Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, and Gi-Joon Nam, "Routing-Free Crosstalk Prediction," *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2020. *(Acceptance rate=27%)* [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
 
-* [ASPDAC'20](https://www.aspdac.com/){: .btn} **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza, "FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning," *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
+* [ASPDAC'20](https://www.aspdac.com/){: .btn} **Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza, "FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning," *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} "PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network," 
-**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen, 
-*Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
+**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen,    
+*Asia and South Pacific Design Automation Conference (ASPDAC)*, 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
 
-* [DATE'19](https://www.date-conference.com/){: .btn} "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model," 
-Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu, 
+* [DATE'19](https://www.date-conference.com/){: .btn} "Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model,"     
+Yu-Hung Huang, **Zhiyao Xie**, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu,    
 *Design, Automation and Test in Europe Conference (DATE)*, 2019. [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
 
-* [ICCAD'18](https://iccad.com/){: .btn} "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network," 
-**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu,
+* [ICCAD'18](https://iccad.com/){: .btn} "RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network,"   
+**Zhiyao Xie**, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu,   
 *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2018. *(Acceptance rate=24.5%)* [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
  
 Media Coverage
