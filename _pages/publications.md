@@ -40,12 +40,12 @@ author_profile: true
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span> 
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>	  
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper}   
-<span style="font-size:90; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(2 awardees out of 328 publications)</span>   
+<span style="font-size:90; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(2 awardees out of 328 submissions)</span>   
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
-<span style="font-size:90; color:red">**Best Paper Candidate**</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 publications)</span>
+<span style="font-size:90; color:red">**Best Paper Nomination**</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span>
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
