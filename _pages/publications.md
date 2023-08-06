@@ -41,29 +41,37 @@ author_profile: true
 
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} **Zhiyao Xie**, "Intelligent Circuit Design and Implementation with Machine Learning," *PhD Dissertation of Duke University*, 2022. [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper} <span style="color:red">**(ACM/SIGDA Outstanding Dissertation Award in EDA)**</span> &ensp;  <span style="color:red">**(EDAA Outstanding Dissertation Award)**</span>
 
-* [MICRO'21](https://www.microarch.org/){: .btn} **Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das, "APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors," *International Symposium on Microarchitecture (MICRO)*, 2021. (1 out of 430) [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper} <span style="color:red">**(Best Paper Award)**</span>
+* [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
+<span style="color:DimGray; font-size:90%">**Zhiyao Xie**, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
+<span style="font-size:95%">International Symposium on Microarchitecture (MICRO), 2021. *(1 out of 430)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper} <span style="color:red">**(Best Paper Award)**</span>
 
-* [ICCAD'21](https://iccad.com/){: .btn} Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, **Zhiyao Xie**, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, and Yiran Chen, "Automatic Routability Predictor Development Using Neural Architecture Search," *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2021. *(Acceptance rate=23.5%)* [ACM](https://dl.acm.org/doi/10.1109/ICCAD51958.2021.9643483){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf){: .btn--paper} 
+* [ICCAD'21](https://iccad.com/){: .btn} <span style="color:DarkBlue">Automatic Routability Predictor Development Using Neural Architecture Search</span>  
+<span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, and Yiran Chen</span>  
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2021. *(Acceptance rate=23.5%)*</span> [ACM](https://dl.acm.org/doi/10.1109/ICCAD51958.2021.9643483){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf){: .btn--paper} 
 
-* [ASPDAC'21](https://www.aspdac.com/){: .btn} **Zhiyao Xie**, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, and Yiran Chen, "Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation," *Asia and South Pacific Design Automation Conference (ASPDAC)*, 2021. *(Acceptance rate=34%)* [IEEE](https://ieeexplore.ieee.org/abstract/document/9371657){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf){: .btn--paper}    
+* [ASPDAC'21](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation</span>
+<span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, and Yiran Chen</span>   
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASPDAC), 2021. *(Acceptance rate=34%)*</span> [IEEE](https://ieeexplore.ieee.org/abstract/document/9371657){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf){: .btn--paper}    
 
-* [ICCAD'20](https://iccad.com/){: .btn} **Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, and Yiran Chen, "Fast IR Drop Estimation with Machine Learning (Invited)," *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2020. *(Acceptance rate=27%)* [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
+* [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Fast IR Drop Estimation with Machine Learning (Invited)</span>   
+<span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Hai Li, Xiaoqing Xu, Jiang Hu, and Yiran Chen</span>   
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
 
 * [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Routing-Free Crosstalk Prediction</span>   
 <span style="color:DimGray; font-size:90%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, and Gi-Joon Nam</span>  
-IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)* [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning</span>	  
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza</span>    
-Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance rate=31%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network</span>   
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen</span>     
-Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance rate=31%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
 
 * [DATE'19](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model</span>  
 <span style="color:DimGray; font-size:90%">Yu-Hung Huang, <span style="color:black">**Zhiyao Xie**</span>, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>      
-Design, Automation and Test in Europe Conference (DATE), 2019. *(Acceptance rate=24%)* [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
+<span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2019. *(Acceptance rate=24%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
 
 * [ICCAD'18](https://iccad.com/){: .btn} <span style="color:DarkBlue">RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network</span>   
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
