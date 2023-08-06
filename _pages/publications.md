@@ -58,7 +58,7 @@ author_profile: true
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.</span> [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
 
 ----
-<span style="color:DimGray; font-size:50%">Since June 2022, my affiliation is with HKUST (eezhiyao@ust.hk) for all above publications.</span>
+<span style="color:DimGray; font-size:50%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My affiliation is with HKUST (eezhiyao@ust.hk) for above publications.</span>   
 ----
 
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
@@ -70,7 +70,7 @@ author_profile: true
 * [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
 <span style="font-size:95%">International Symposium on Microarchitecture (MICRO), 2021. *(Acceptance rate=22%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
-<span style="color:red">**Best Paper Award**</span> (1 out of 430)
+<span style="color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(1 out of 430)</span>
 
 * [ICCAD'21](https://iccad.com/){: .btn} <span style="color:DarkBlue">Automatic Routability Predictor Development Using Neural Architecture Search</span>  
 <span style="color:DimGray; font-size:90%">Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, and Yiran Chen</span>  
@@ -79,7 +79,6 @@ author_profile: true
 * [ASPDAC'21](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation</span>   
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASPDAC), 2021. *(Acceptance rate=34%)*</span> [IEEE](https://ieeexplore.ieee.org/abstract/document/9371657){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf){: .btn--paper}    
-
 * [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Fast IR Drop Estimation with Machine Learning (Invited)</span>   
 <span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Hai Li, Xiaoqing Xu, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
@@ -106,10 +105,8 @@ author_profile: true
  
 Media Coverage
 ======
-* <span style="font-size:95%">Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation</span>     
-*ACCESS Feature News*, 2023. [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}   
-* <span style="font-size:95%">Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation</span>   
-*HKUST News*, 2023. [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}   
+* <span style="font-size:95%">Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation, *ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}   
+* <span style="font-size:95%">Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation, *HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}   
 * <span style="font-size:95%">"AI Models Microprocessor Performance in Real-Time", *Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
 * <span style="font-size:95%">"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese)", *AI Tech Review / AI 科技评论*, 2021.</span> [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
 * <span style="font-size:95%">"A New Power Modeling Method APOLLO (Chinese)", *AI Era / 新智元*, 2021.</span> [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
@@ -118,7 +115,7 @@ Media Coverage
 
 Blog Article
 ======
-* Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022. [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
-* Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", *AI Tech Review / AI 科技评论*, 2021. [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
+* <span style="font-size:95%">Zhiyao Xie, "Will AI change EDA? (Chinese)", *StarryHeavensAbove*, 2022.</span> [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
+* <span style="font-size:95%">Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese)", *AI Tech Review / AI 科技评论*, 2021.</span> [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
 
 
