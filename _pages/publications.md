@@ -49,14 +49,16 @@ author_profile: true
 
 * [ICCAD'20](https://iccad.com/){: .btn} **Zhiyao Xie**, Hai Li, Xiaoqing Xu, Jiang Hu, and Yiran Chen, "Fast IR Drop Estimation with Machine Learning (Invited)," *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2020. *(Acceptance rate=27%)* [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
 
-* [ICCAD'20](https://iccad.com/){: .btn} Rongjian Liang, **Zhiyao Xie**, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, and Gi-Joon Nam, "Routing-Free Crosstalk Prediction," *IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, 2020. *(Acceptance rate=27%)* [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
+* [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Routing-Free Crosstalk Prediction</span>   
+<span style="color:DimGray; font-size:90%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, and Gi-Joon Nam</span>  
+IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)* [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning</span>	  
-<span style="color:DimGray; font-size:90">**Zhiyao Xie**, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza</span>    
+<span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza</span>    
 Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network</span>   
-<span style="color:DimGray; font-size:85">**Zhiyao Xie**, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen</span>     
+<span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen</span>     
 Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance rate=31%)* [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
 
 * [DATE'19](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model</span>  
@@ -64,8 +66,8 @@ Asia and South Pacific Design Automation Conference (ASPDAC), 2020. *(Acceptance
 Design, Automation and Test in Europe Conference (DATE), 2019. *(Acceptance rate=24%)* [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
 
 * [ICCAD'18](https://iccad.com/){: .btn} <span style="color:DarkBlue">RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network</span>   
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
-IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)* [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
+<span style="color:DimGray; font-size:90%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
  
 Media Coverage
 ======
