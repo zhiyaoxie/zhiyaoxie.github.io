@@ -76,7 +76,7 @@ author_profile: true
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
-<span style="font-size:90; color:red">**ACM/SIGDA Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span>   
+<span style="font-size:90; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span>   
 <span style="font-size:90; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span>   
 
 * [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
