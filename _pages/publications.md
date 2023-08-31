@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+* [Arxiv](https://iccad.com/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
+<span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</span>	   
