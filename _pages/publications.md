@@ -123,7 +123,7 @@ author_profile: true
 Media Coverage
 ======
 * <span style="font-size:95%">"SRC Computer Aided Test and Design Researchers Receive Big Awards,"  
-*SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_SRC_CONNECTIONS.png){: .btn--paper}   
+*SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [png](https://zhiyaoxie.github.io/files/media_SRC_CONNECTIONS.png){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
 *ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
