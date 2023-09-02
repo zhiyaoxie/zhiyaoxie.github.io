@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [Arxiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
+* [Arxiv'23](https://arxiv.org/pdf/2308.05345.pdf){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+[Arxiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie**</span></span>    
@@ -121,6 +122,8 @@ author_profile: true
  
 Media Coverage
 ======
+* <span style="font-size:95%">"SRC Computer Aided Test and Design Researchers Receive Big Awards,"  
+*SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_SRC_CONNECTIONS.png){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
 *ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
