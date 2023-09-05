@@ -18,6 +18,9 @@ main:
   - title: "Photos"
     url: /portfolio/
 
+  - title: "Students"
+    url: /students/
+
     #  - title: "ML4EDA"
     #url: /ml4eda/
 
