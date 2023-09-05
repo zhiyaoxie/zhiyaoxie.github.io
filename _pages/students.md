@@ -17,20 +17,19 @@ author_profile: true
     * Joined in Fall 2023
     * Bachelor in Beihang University
 
-Incoming Students Already Working with Me
+Incoming Ph.D. Students Already Working with Me
 ======
 * **Wenji Fang**
     * Will join in Fall 2024
     * Bachelor in Beihang University, Master in HKUST (GZ)
 
 * **ZheAn (Jay) Mok**
-    * Will enroll in Fall 2024
+    * Will join in Fall 2024
     * Bachelor in Columbia University, Master in UBC
 
-
-MPhil Students
+Master Students
 ======
 * **Tao Zhang**
     * Joined in Fall 2022
-    * Bachelor in SUN YAT-SEN UNIVERSITY
+    * Bachelor in Sun Yat-Sen University
 
