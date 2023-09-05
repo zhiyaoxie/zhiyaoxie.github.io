@@ -17,11 +17,11 @@ author_profile: true
     * Joined in Fall 2023
     * Bachelor in Beihang University
 
-Incoming Ph.D. Students Already Working with Me
+Incoming Students Now Working with Me
 ======
 * **Wenji Fang**
     * Will join in Fall 2024
-    * Bachelor in Beihang University, Master in HKUST (GZ)
+    * Bachelor in NUAA, Master in HKUST (GZ), supervised by Prof Hongce Zhang
 
 * **ZheAn (Jay) Mok**
     * Will join in Fall 2024
