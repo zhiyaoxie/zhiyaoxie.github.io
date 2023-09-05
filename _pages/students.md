@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 * **Qijun Zhang**
-    * Join in Fall 2023
+    * Joined in Fall 2023
     * Bachelor in Tongji University
 
 * **Yao Lu**
-    * Join in Fall 2023
+    * Joined in Fall 2023
     * Bachelor in Southeastern University, Master in Fudan University
 
 * **Shang Liu**
-    * Join in Fall 2023
+    * Joined in Fall 2023
     * Bachelor in Beihang University
 
 Incoming Students Already Working with Me
@@ -31,6 +31,6 @@ Incoming Students Already Working with Me
 MPhil Students
 ======
 * **Tao Zhang**
-    * Enroll in Fall 2022
+    * Joined in Fall 2022
     * Bachelor in SUN YAT-SEN UNIVERSITY
 
