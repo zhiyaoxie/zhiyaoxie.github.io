@@ -30,8 +30,8 @@ Incoming Students Now Working with Me
 Master Students
 ======
 * **Tao Zhang**
-    * Joined in Fall 2022
     * Bachelor in Sun Yat-Sen University
+
 
 I am very lucky to work with these excellent young students and I learned a lot from them.  
 

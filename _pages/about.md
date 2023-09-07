@@ -12,12 +12,12 @@ Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong Universi
 
 Award & Honors
 ======
-* **UGC/RGC Early Career Award, 2023 (<10 out of 525 grant applicants)**
+* **UGC/RGC Early Career Award, 2023 (≈10 out of 525 grant applicants)**
 * WAIC Yufan Award, 2023 (云帆奖, 10 Chinese AI researchers under age of 35)
 * **ACM Outstanding Dissertation Award in EDA, 2023 (1 awardee worldwide per year)**
 * **EDAA Outstanding Dissertation Award, 2023 (4 awardees worldwide per year)**
 * **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328)**   
-* ASP-DAC 2023 Best Paper Nomination, 2023   
+* ASP-DAC 2023 Best Paper Nomination, 2023 (11 out of 328)  
 * ACM TODAES Distinguished Reviewer, 2022   
 * **ACM SIGDA SRF Best Research Poster Award, 2022**   
 * **IEEE/ACM MICRO 2021 Best Paper Award, 2021 (1 out of 430)**
