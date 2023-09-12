@@ -16,11 +16,11 @@ Award & Honors
 * WAIC Yufan Award, 2023 (云帆奖, 10 Chinese AI researchers under age of 35)
 * **ACM Outstanding Dissertation Award in EDA, 2023 (1 awardee worldwide per year)**
 * **EDAA Outstanding Dissertation Award, 2023 (4 awardees worldwide per year)**
-* **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328)**   
-* ASP-DAC 2023 Best Paper Nomination, 2023 (11 out of 328)  
+* **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328 submissions)**   
+* ASP-DAC 2023 Best Paper Nomination, 2023 (11 out of 328 submissions)  
 * ACM TODAES Distinguished Reviewer, 2022   
 * **ACM SIGDA SRF Best Research Poster Award, 2022**   
-* **IEEE/ACM MICRO 2021 Best Paper Award, 2021 (1 out of 430)**
+* **IEEE/ACM MICRO 2021 Best Paper Award, 2021 (1 out of 430 submissions)**
 * ECE Ph.D. Fellowship, Duke University, 2018   
 * Dean’s List for all 8 UG Semesters, CityU HK, 2013-2017  
 * Outstanding Student Prize, CityU HK, 2016  
