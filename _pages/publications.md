@@ -132,15 +132,15 @@ Patent
 ======
 * [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for On-chip Power Metering Using Automated Selection of Signal Power Proxies</span>   
 <span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, and Shidhartha Das</span>   
-<span style="font-size:95%">US Patent number US11726116B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn--paper}    
+<span style="font-size:95%">US Patent US11726116B2, granted in 2023</span> [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn--paper}    
 
 * [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn} <span style="color:DarkBlue">IR Drop Prediction with Maximum Convolutional Neural Network</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, and Sheng Ye</span>  
-<span style="font-size:95%">US Patent number US11645533B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn--paper}   
+<span style="font-size:95%">US Patent US11645533B2, granted in 2023</span> [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn--paper}   
 
 * [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>   
 <span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>  
-<span style="font-size:95%">US Patent number US20220164511A1, publication in 2022, pending</span> [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn--paper}
+<span style="font-size:95%">US Patent US20220164511A1, published in 2022, pending</span> [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn--paper}
 
 Media Coverage
 ======
