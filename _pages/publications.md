@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Peer-Reviewed Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -55,14 +55,6 @@ author_profile: true
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
 <span style="font-size:90; color:red">**Best Paper Nomination**</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span>
 
-* [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
-<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}</span>  
-
-* [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation</span>  
-<span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Erick Carvajal Barboza, and Jiang Hu</span>  
-<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
-
 * [ICCAD'22](https://iccad.com/){: .btn} <span style="color:DarkBlue">DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu</span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2022. *(Acceptance rate=22.5%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3508352.3549427){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper} 
@@ -80,12 +72,6 @@ author_profile: true
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.</span> [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
 
 ----
-
-* [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
-<span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
-<span style="font-size:90; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span>   
-<span style="font-size:90; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span>   
 
 * [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
@@ -124,6 +110,34 @@ author_profile: true
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
  
+Other Publications
+======
+* [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
+<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}</span>  
+
+* [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation</span>  
+<span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Erick Carvajal Barboza, and Jiang Hu</span>  
+<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+
+* [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
+<span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
+<span style="font-size:90; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span>   
+<span style="font-size:90; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span>   
+
+* [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for On-chip Power Metering Using Automated Selection of Signal Power Proxies</span>
+<span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, and Shidhartha Das</span>
+<span style="font-size:95%">US Patent number US11726116B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn--paper}
+
+* [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn} <span style="color:DarkBlue">IR Drop Prediction with Maximum Convolutional Neural Network</span>
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, and Sheng Ye</span>
+<span style="font-size:95%">US Patent number US11645533B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn--paper}
+
+* [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>
+<span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>
+<span style="font-size:95%">US Patent number US20220164511A1, publication in 2023, pending</span> [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn--paper}
+
 Media Coverage
 ======
 * <span style="font-size:95%">"SRC Computer Aided Test and Design Researchers Receive Big Awards,"  
