@@ -110,7 +110,7 @@ author_profile: true
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
  
-Other Publications
+Book Chapter
 ======
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
@@ -120,23 +120,27 @@ Other Publications
 <span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Erick Carvajal Barboza, and Jiang Hu</span>  
 <span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
 
+Dissertation
+======
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
 <span style="font-size:90; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span>   
 <span style="font-size:90; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span>   
 
-* [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for On-chip Power Metering Using Automated Selection of Signal Power Proxies</span>
-<span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, and Shidhartha Das</span>
-<span style="font-size:95%">US Patent number US11726116B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn--paper}
+Patent
+======
+* [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for On-chip Power Metering Using Automated Selection of Signal Power Proxies</span>   
+<span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, and Shidhartha Das</span>   
+<span style="font-size:95%">US Patent number US11726116B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11726116B2/en){: .btn--paper}    
 
-* [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn} <span style="color:DarkBlue">IR Drop Prediction with Maximum Convolutional Neural Network</span>
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, and Sheng Ye</span>
-<span style="font-size:95%">US Patent number US11645533B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn--paper}
+* [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn} <span style="color:DarkBlue">IR Drop Prediction with Maximum Convolutional Neural Network</span>   
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, and Sheng Ye</span>  
+<span style="font-size:95%">US Patent number US11645533B2, publication in 2023</span> [Patent](https://patents.google.com/patent/US11645533B2/en){: .btn--paper}   
 
-* [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>
-<span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>
-<span style="font-size:95%">US Patent number US20220164511A1, publication in 2023, pending</span> [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn--paper}
+* [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>   
+<span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>  
+<span style="font-size:95%">US Patent number US20220164511A1, publication in 2022, pending</span> [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn--paper}
 
 Media Coverage
 ======
