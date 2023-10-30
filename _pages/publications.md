@@ -13,6 +13,10 @@ author_profile: true
 <span style="color:DimGray; font-size:85%">Tao Zhang, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. </span> 
 
+* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
+Chen-Chia Chang, Jingyu Pan, <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024. </span>  
+
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper}	   
