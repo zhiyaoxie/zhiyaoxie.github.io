@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+* [Arxiv'24](){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in RTL Code Generation with Our Fully Open-Source Dataset and Lightweight Solution</span>   
+<span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>  
+
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. </span> [Arxiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}
