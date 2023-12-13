@@ -9,7 +9,7 @@ author_profile: true
     * Bachelor in Tongji University
 
 * **Yao Lu**
-    * Bachelor in Southeastern University, Master in Fudan University
+    * Bachelor in Southeast University, Master in Fudan University
 
 * **Shang Liu**
     * Bachelor in Beihang University
