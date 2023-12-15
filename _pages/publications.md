@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [Arxiv](){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
+* [Arxiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Dec 2023. </span> [Arxiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper}
+<span style="font-size:95%">Dec 2023. </span> [Arxiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
+<span style="color:DimGray; font-size:80%">We are still actively further improving and validating RTLCoder. This is version V1.0. If you are interested, please kindly monitor our latest update on Arxiv and Github repo in the near future. </span>    
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
