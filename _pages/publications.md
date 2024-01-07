@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-* [Arxiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
+* [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Arxiv 2023. </span> [Arxiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
-<span style="color:DimGray; font-size:75%">We are still actively further improving and validating RTLCoder. This is version V1.0. If you are interested, please kindly monitor our latest update on Arxiv and Github repo in the near future. </span>    
+<span style="font-size:95%">arXiv 2023. </span> [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
+<span style="color:DimGray; font-size:75%">We are still actively further improving and validating RTLCoder. This is version V1.0. If you are interested, please kindly monitor our latest update on arXiv and Github repo in the near future. </span>    
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. </span> [Arxiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}  [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--paper}   
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. </span> [arXiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}  [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--paper}   
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
 <span style="color:DimGray; font-size:85%">Tao Zhang, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
