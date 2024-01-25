@@ -9,6 +9,10 @@ author_profile: true
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">arXiv 2023. </span> [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
 
+* [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn} <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>    
+<span style="color:DimGray; font-size:85%">Mengming Li, Wenji Fang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn--paper}   
+
 Peer Reviewed Publications
 ======
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
