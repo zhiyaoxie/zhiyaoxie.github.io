@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-* RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution     
+* <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>     
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">arXiv 2023. </span> [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
 
-* SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model    
+* <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>    
 <span style="color:DimGray; font-size:85%">Mengming Li, Wenji Fang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn--paper}   
 
-* AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs   
+* <span style="color:DarkBlue">AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Mengming Li, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2402.00386.pdf){: .btn--paper}   
 
