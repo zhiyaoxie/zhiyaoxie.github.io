@@ -13,6 +13,10 @@ author_profile: true
 <span style="color:DimGray; font-size:85%">Mengming Li, Wenji Fang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn--paper}   
 
+* [arXiv](https://arxiv.org/pdf/2402.00386.pdf){: .btn} <span style="color:DarkBlue">AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>    
+<span style="color:DimGray; font-size:85%">Wenji Fang, Mengming Li, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2402.00386.pdf){: .btn--paper}   
+
 Peer Reviewed Publications
 ======
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
