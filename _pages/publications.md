@@ -21,19 +21,19 @@ Peer Reviewed Publications
 ======
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024.</span>   
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span>   
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Accel-NASBench: Sustainable Benchmarking for Accelerator-Aware NAS</span>   
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, Linfeng Du, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024.</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span> 
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. </span> [arXiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}  [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--paper}   
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. *(Acceptance rate=29%)*</span> [arXiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}  [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--paper}   
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
 <span style="color:DimGray; font-size:85%">Tao Zhang, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. </span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--paper}  
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--paper}  
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
@@ -41,11 +41,11 @@ Peer Reviewed Publications
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/PANDA){: .btn--paper}   
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/PANDA){: .btn--paper}   
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design</span>  
 <span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>   
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--paper}   
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--paper}   
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search</span>     
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>   
