@@ -23,7 +23,7 @@ author_profile: true
 Incoming Students Now Working with Me
 ======
 * **Wenji Fang**
-    * Bachelor in NUAA, Master in HKUST (GZ), co-supervised by Prof Hongce Zhang
+    * Bachelor in NUAA, Master in HKUST (GZ), co-supervised 
 
 * **ZheAn (Jay) Mok**
     * Bachelor in Columbia University, Master in UBC
