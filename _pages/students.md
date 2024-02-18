@@ -15,7 +15,7 @@ author_profile: true
     * Bachelor in Beihang University
 
 * **Jing Wang**
-    * Bachelor in Peking University
+    * Bachelor in Peking University, Master in HKU 
 
 * **Yugao Zhu**
     * Bachelor in Tsinghua University
@@ -23,7 +23,7 @@ author_profile: true
 Incoming Students Now Working with Me
 ======
 * **Wenji Fang**
-    * Bachelor in NUAA, Master in HKUST (GZ), supervised by Prof Hongce Zhang
+    * Bachelor in NUAA, Master in HKUST (GZ), co-supervised by Prof Hongce Zhang
 
 * **ZheAn (Jay) Mok**
     * Bachelor in Columbia University, Master in UBC
