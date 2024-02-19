@@ -31,8 +31,6 @@ Incoming Students Now Working with Me
 * **Mengming Li**
     * Master in Zhejiang University
 
-I am very lucky to work with these excellent young students and I learned a lot from them.  
-
 Alumni
 ======
 * **Tao Zhang**, Master Student
