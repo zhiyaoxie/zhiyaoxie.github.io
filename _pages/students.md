@@ -11,24 +11,24 @@ author_profile: true
 * **Yao Lu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Southeast University, Master in Fudan University
 
-* **Shang Liu** (23'Fall)
+* **Shang Liu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Beihang University
 
-* **Jing Wang** (23'Spring)
+* **Jing Wang** <span style="color:DimGray; font-size:85%">(23'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
 
-* **Yugao Zhu** (23'Spring)
+* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(23'Spring)</span>
     * Bachelor in Tsinghua University
 
 Incoming Ph.D. Students Now Working with Me
 ======
-* **Wenji Fang** (24'Fall)
+* **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in NUAA, Master in HKUST (GZ)   
 
-* **ZheAn (Jay) Mok** (24'Fall)
+* **ZheAn (Jay) Mok**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in Columbia University, Master in UBC
 
-* **Mengming Li** (24'Fall)
+* **Mengming Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Master in Zhejiang University
 
 ----
