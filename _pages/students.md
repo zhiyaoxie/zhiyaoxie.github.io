@@ -20,7 +20,7 @@ author_profile: true
 * **Yugao Zhu**
     * Bachelor in Tsinghua University
 
-Incoming Students Now Working with Me
+Incoming Ph.D. Students Now Working with Me
 ======
 * **Wenji Fang**
     * Bachelor in NUAA, Master in HKUST (GZ)   
