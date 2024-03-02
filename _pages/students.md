@@ -31,6 +31,8 @@ Incoming Students Now Working with Me
 * **Mengming Li**
     * Master in Zhejiang University
 
+----
+
 Alumni
 ======
 * **Tao Zhang**, Master Graduate from HKUST
