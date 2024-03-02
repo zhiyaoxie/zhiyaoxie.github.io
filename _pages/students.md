@@ -5,10 +5,10 @@ permalink: /students/
 author_profile: true
 ---
 
-* **Qijun Zhang** (23'Fall)
+* **Qijun Zhang**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Tongji University
 
-* **Yao Lu** (23'Fall)
+* **Yao Lu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Southeast University, Master in Fudan University
 
 * **Shang Liu** (23'Fall)
