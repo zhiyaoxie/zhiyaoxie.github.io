@@ -23,7 +23,7 @@ author_profile: true
 Incoming Students Now Working with Me
 ======
 * **Wenji Fang**
-    * Bachelor in NUAA, Master in HKUST (GZ), co-supervised 
+    * Bachelor in NUAA, Master in HKUST (GZ)   
 
 * **ZheAn (Jay) Mok**
     * Bachelor in Columbia University, Master in UBC
@@ -33,7 +33,7 @@ Incoming Students Now Working with Me
 
 Alumni
 ======
-* **Tao Zhang**, Master Student
+* **Tao Zhang**, Master Graduate from HKUST
     
 
 
