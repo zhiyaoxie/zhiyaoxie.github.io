@@ -17,15 +17,33 @@ Education
     * First Class Honours. Full Tuition Scholarship.  
     * Major Grade: 4.16/4.3. 
 
-
 Service
 ======
+* Technical Program Committee Member of MLCAD 2024
+* Technical Program Committee Member of LAD 2024
+* Financial Chair, IEEE CEDA Hong Kong, 2024  
 * Technical Program Committee Member of ICCAD 2023
 * Technical Program Committee Member of ASP-DAC 2023
 * Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
 * Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS, Springer JCST  
 * Reviewer of IEEE TCAD, IEEE TCAS-I, IEEE ESL, IEEE Design & Test, IEEE CAL, NeurIPS 
+
+Teaching Experience
+======
+* **Instructor of ELEC 6910D**, HKUST, 2024 Spring 
+    * ELEC 6910D: Electronic Design Automation for VLSI Design (Graduate)
+
+* **Instructor of ELEC 2350**, HKUST, 2023 Spring and Fall
+    * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
+
+* **TA of ECE 586 and ECE350**, Duke University, 2021 
+    * ECE 586: Vector Space Methods with Applications. (Graduate) 
+    * ECE 350: Digital Systems. (Undergraduate)
+
+* **EDA Supporter of ECE 532 and ECE 539**, Duke University, 2021
+    * ECE 532: Analog Integrated Circuit Design. (Graduate) 
+    * ECE 539: CMOS VLSI Design Methodologies. (Graduate) 
 
 Work Experience
 ======
@@ -53,23 +71,4 @@ map features, this is the first design-independent estimator for both vector-bas
   * Advisor: Jie (Jack) Chen, Weibin Ding
   * Developed deep neural network models for very early routability prediction even before the placement
 optimization. This is an early effort on routability estimation in the EDA industry.
-
-Teaching Experience
-======
-* **Instructor of ELEC 2350**, HKUST, 2023 
-    * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
-
-* **TA of ECE 586**, Duke University, 2021 
-    * ECE 586: Vector Space Methods with Applications. (Graduate) 
-
-* **TA of ECE 350**, Duke University, 2021 
-    * ECE 350: Digital Systems. (Undergraduate)
-
-* **EDA Supporter of ECE 532**, Duke University, 2021
-    * ECE 532: Analog Integrated Circuit Design. (Graduate) 
-
-* **EDA Supporter of ECE 539**, Duke University, 2021
-    * ECE 539: CMOS VLSI Design Methodologies. (Graduate) 
-
-
 
