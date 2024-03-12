@@ -48,6 +48,10 @@ Teaching Experience
 
 Work Experience
 ======
+* **Assistant Professor, HKUST**, 2022-now
+  * Electronic and Computer Engineering (ECE) Department.    
+  * PhD supervisor, Principal Investigator   
+
 * **Part-time EDA Administrator, Duke University**, 2020-2022
   * Purchasing and providing help on all EDA tools for teaching and research purposes at Duke University.
 
