@@ -33,6 +33,7 @@ Teaching Experience
 ======
 * **Instructor of ELEC 6910D**, HKUST, 2024 Spring 
     * ELEC 6910D: Electronic Design Automation for VLSI Design (Graduate)
+    * Course Developer, the 1st course on EDA algorithm in HKUST   
 
 * **Instructor of ELEC 2350**, HKUST, 2023 Spring and Fall
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
