@@ -37,6 +37,7 @@ Teaching Experience
 
 * **Instructor of ELEC 2350**, HKUST, 2023 Spring and Fall
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
+    * One of the four core (required) courses in ECE, enrollment > 100 students. 
 
 * **TA of ECE 586 and ECE350**, Duke University, 2021 
     * ECE 586: Vector Space Methods with Applications. (Graduate) 
