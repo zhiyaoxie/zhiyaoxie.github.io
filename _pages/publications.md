@@ -179,6 +179,8 @@ Media Coverage
 *HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper}   
 * <span style="font-size:95%">"AI Models Microprocessor Performance in Real-Time,"    
 *Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
+* <span style="font-size:95%">"Apollo: Made to measure,"    
+*Arm Research Articles*.</span> [News](https://community.arm.com/arm-research/b/articles/posts/apollo-made-to-measure){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Arm.pdf){: .btn--paper}    
 * <span style="font-size:95%">"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese),"     
 *AI Tech Review / AI 科技评论*, 2021.</span> [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
 * <span style="font-size:95%">"A New Power Modeling Method APOLLO (Chinese),"   

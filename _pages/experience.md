@@ -34,14 +34,14 @@ Teaching Experience
 * **Instructor of ELEC 6910D**, HKUST, 2024 Spring 
     * ELEC 6910D: Electronic Design Automation for VLSI Design (Graduate)
     * Course Developer, the 1st course on EDA algorithm in HKUST   
-    * Covers basic design flow, synthesis, floorplan, placement, routing, etc.  
+    * Covers VLSI design flow, synthesis, floorplan, placement, routing, etc.  
 
 * **Instructor of ELEC 2350**, HKUST, 2023 Spring and Fall
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
     * One of the four core (required) courses in ECE, enrollment > 100 students   
     * Covers basic number system, MIPS ISA, pipelined CPU architecture, cache, etc.   
-    * Evaluation 23'Fall (4.40 / 5.0, School All UG Course Mean = 4.03)
-    * Evaluation 23'Spring (4.24 / 5.0, School All UG Course Mean = 4.00) 
+    * Evaluation 23'Fall (4.40 / 5.0, All School UG Course Mean = 4.03)
+    * Evaluation 23'Spring (4.24 / 5.0, All School UG Course Mean = 4.00) 
 
 * **TA of ECE 586 and ECE350**, Duke University, 2021 
     * ECE 586: Vector Space Methods with Applications. (Graduate) 
@@ -61,24 +61,19 @@ Work Experience
   * Purchasing and providing help on all EDA tools for teaching and research purposes at Duke University.
 
 * **Research Intern, Arm**, June 2020 – Nov 2020
-  * Advisor: Xiaoqing Xu, Shidhartha Das, Brian Cline
   * Developed the first runtime on-chip power monitor that simultaneously achieves per-cycle resolution and less than 1% area overhead without compromising accuracy.
-  * The overall framework automatically generates training data, develops the model, and constructs the power monitor with minimum designer interference.
-  * It is verified on multiple industry-standard CPU cores including ARM Neoverse N1 and Cortex-A77. 
+  * The overall framework automatically generates training data, develops the model, and constructs the power monitor with minimum designer interference. Verified on multiple industry-standard CPU cores including ARM Neoverse N1 and Cortex-A77. 
 
 * **Software Engineer Intern, Synopsys**, May 2019 – Aug 2019
-  * Advisor: Anand Rajaram, Min Pan, Aiqun Cao
   * Developed a light-weighted linear model to estimate transition violation on the clock tree.
-  * The model is integrated into IC Compiler II and proves to improve clock tree quality by guiding CTS with early feedback.
+  * Model is integrated into IC Compiler II and proves to improve clock tree quality by guiding CTS with early feedback.
   
 * **Research Intern, Nvidia**, Sep 2018 – Dec 2018
-  * Advisor: Haoxing (Mark) Ren, Brucek Khailany
   * Developed a customized CNN model for IR drop prediction. By incorporating switching time into power
 map features, this is the first design-independent estimator for both vector-based and vectorless IR drop.
   * After integrating it into their in-house IR mitigation flow, hotspots in latest designs are reduced by 30%.
 
 * **Software Engineer Intern, Cadence**, June 2018 – Aug 2018
-  * Advisor: Jie (Jack) Chen, Weibin Ding
   * Developed deep neural network models for very early routability prediction even before the placement
 optimization. This is an early effort on routability estimation in the EDA industry.
 
