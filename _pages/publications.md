@@ -19,6 +19,10 @@ author_profile: true
 
 Peer Reviewed Publications
 ======
+* [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
+<span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
+<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>   
+
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span>   
