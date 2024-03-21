@@ -34,6 +34,7 @@ Ph.D. Student Recruitment
     * Fall'24, Spring'25, Fall'25 enrollments are all supported.   
     * We welcome students with both CS and EE background, especially students with strong algorithm & programming & deep learning background. 
     * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.
+    * We support RA or Master only if you intend to continue with a PhD in our team. 
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
     * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply. 
