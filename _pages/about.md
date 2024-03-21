@@ -31,8 +31,8 @@ Ph.D. Student Recruitment
 ======
 * <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
     * Please do check the [Recruitment](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details. 
-    * Currently we primarily target Fall 2024 semester. 
-    * We welcome students with both CS and EE background, especially students with strong algorithm & programming background. 
+    * Fall'24, Spring'25, Fall'25 enrollments are all supported.   
+    * We welcome students with both CS and EE background, especially students with strong algorithm & programming & deep learning background. 
     * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
