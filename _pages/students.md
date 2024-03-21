@@ -17,11 +17,9 @@ author_profile: true
 * **Jing Wang** <span style="color:DimGray; font-size:85%">(24'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
 
-* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span> (MPhil)
+* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span> (MPhil now)    
     * Bachelor in Tsinghua University
 
-Incoming Ph.D. Students Now Working with Me
-======
 * **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in NUAA, Master in HKUST (GZ)   
 
@@ -38,7 +36,10 @@ Alumni
 * **Tao Zhang**, MPhil, Graduate in 24'Spring  
 
 ----
+
 Consider joining us!!
+
+
 
 
 
