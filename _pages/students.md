@@ -35,7 +35,7 @@ Incoming Ph.D. Students Now Working with Me
 
 Alumni
 ======
-* **Tao Zhang**, MPhil Graduate from HKUST
+* **Tao Zhang**, MPhil, Graduate in 24'Spring  
 
 ----
 Consider joining us!!
