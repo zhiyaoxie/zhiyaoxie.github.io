@@ -14,10 +14,10 @@ author_profile: true
 * **Shang Liu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Beihang University
 
-* **Jing Wang** <span style="color:DimGray; font-size:85%">(23'Spring)</span>
+* **Jing Wang** <span style="color:DimGray; font-size:85%">(24'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
 
-* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(23'Spring)</span>
+* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span> (MPhil)
     * Bachelor in Tsinghua University
 
 Incoming Ph.D. Students Now Working with Me
@@ -35,7 +35,7 @@ Incoming Ph.D. Students Now Working with Me
 
 Alumni
 ======
-* **Tao Zhang**, Master Graduate from HKUST
+* **Tao Zhang**, MPhil Graduate from HKUST
 
 
 
