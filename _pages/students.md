@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current Ph.D. Students"
+title: "Current & Incoming Ph.D. Students"
 permalink: /students/
 author_profile: true
 ---
@@ -37,11 +37,7 @@ Alumni
 
 ----
 
-Consider joining us!!
-
-
-
-
+Please consider joining us!!
 
 
 
