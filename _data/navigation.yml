@@ -3,24 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-    #  - title: "Projects"
-    #url: /projects/    
-    
-  - title: "Experience"
-    url: /experience/
-    
-  - title: "Recruitment"
-    url: /recruitment/
-
   - title: "Photos"
     url: /photos/
 
   - title: "Students"
     url: /students/
 
+  - title: "Experience"
+    url: /experience/
+    
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Recruitment"
+    url: /recruitment/
+
+    #  - title: "Projects"
+    #url: /projects/    
+    
     #  - title: "ML4EDA"
     #url: /ml4eda/
 
