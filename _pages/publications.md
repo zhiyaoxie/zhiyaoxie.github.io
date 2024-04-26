@@ -171,7 +171,7 @@ Patent
 
 * [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>   
 <span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>  
-<span style="font-size:95%">US Patent US20220164511A1, published in 2022, pending</span> [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn--paper}
+<span style="font-size:95%">US Patent US11959950B2, granted in 2024</span> [Patent](https://patents.google.com/patent/US11959950B2/en){: .btn--paper}
 
 Media Coverage
 ======
