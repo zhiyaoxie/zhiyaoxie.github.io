@@ -22,7 +22,7 @@ Service
 * Technical Program Committee Member of MLCAD 2024
 * Technical Program Committee Member of LAD 2024
 * Financial Chair, IEEE CEDA Hong Kong, 2024  
-* Technical Program Committee Member of ICCAD 2023
+* Technical Program Committee Member of ICCAD 2023, 2024 
 * Technical Program Committee Member of ASP-DAC 2023
 * Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
