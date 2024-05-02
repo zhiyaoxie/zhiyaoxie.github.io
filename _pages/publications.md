@@ -8,7 +8,7 @@ author_profile: true
 
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
-<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>   
+<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>  [pdf](https://zhiyaoxie.github.io/files/TRETS24_FADO.pdf){: .btn--paper}     
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
