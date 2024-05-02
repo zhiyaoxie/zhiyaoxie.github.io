@@ -161,7 +161,7 @@ Patent
 <span style="font-size:95%">US Patent US11959950B2, granted in 2024</span> [Patent](https://patents.google.com/patent/US11959950B2/en){: .btn--paper}
 
 
-Peer Reviewed Publications
+Preprints 
 ======
 * <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>     
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
