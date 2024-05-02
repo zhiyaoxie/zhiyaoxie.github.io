@@ -1,24 +1,11 @@
 --- 
 layout: archive
-title: "Preprints"
+title: "Peer Reviewed Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-* <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>     
-<span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">arXiv 2023. </span> [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
 
-* <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>    
-<span style="color:DimGray; font-size:85%">Mengming Li, Wenji Fang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn--paper}   
-
-* <span style="color:DarkBlue">AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
-<span style="color:DimGray; font-size:85%">Wenji Fang, Mengming Li, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2402.00386.pdf){: .btn--paper}   
-
-Peer Reviewed Publications
-======
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
 <span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>   
@@ -172,6 +159,22 @@ Patent
 * [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>   
 <span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>  
 <span style="font-size:95%">US Patent US11959950B2, granted in 2024</span> [Patent](https://patents.google.com/patent/US11959950B2/en){: .btn--paper}
+
+
+Peer Reviewed Publications
+======
+* <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>     
+<span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">arXiv 2023. </span> [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
+
+* <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>    
+<span style="color:DimGray; font-size:85%">Mengming Li, Wenji Fang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn--paper}   
+
+* <span style="color:DarkBlue">AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
+<span style="color:DimGray; font-size:85%">Wenji Fang, Mengming Li, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2402.00386.pdf){: .btn--paper}   
+
 
 Media Coverage
 ======
