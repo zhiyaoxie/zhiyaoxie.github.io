@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<span style="color:DimGray; font-size:90%">    After joining HKUST:</span>   
 
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
