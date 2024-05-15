@@ -31,6 +31,7 @@ author_profile: true
 
 * **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in HIT (Shenzhen), Master in HKU   
+
 ----
 
 Alumni
