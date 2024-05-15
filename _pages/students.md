@@ -29,6 +29,8 @@ author_profile: true
 * **Mengming Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Master in Zhejiang University
 
+* **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
+    * Bachelor in HIT (Shenzhen), Master in HKU   
 ----
 
 Alumni
