@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * [ISLPED'24](https://www.islped.org/2024/index.php){: .btn} <span style="color:DarkBlue">Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</span>   
-<span style="color:DimGray; font-size:85%">Yao Lu, Qijun Zhang, **Zhiyao Xie**<span>     
+<span style="color:DimGray; font-size:85%">Yao Lu, Qijun Zhang, <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024.</span>    
 
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
