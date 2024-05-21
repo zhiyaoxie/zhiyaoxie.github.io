@@ -24,7 +24,8 @@ author_profile: true
     * Bachelor in NUAA, Master in HKUST (GZ)   
 
 * **ZheAn (Jay) Mok**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
-    * Bachelor in Columbia University, Master in UBC
+    * Bachelor in Columbia University, Master in UBC   
+    * Awarded Hong Kong PhD Fellowship Scheme (HKPFS)    
 
 * **Mengming Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Master in Zhejiang University
