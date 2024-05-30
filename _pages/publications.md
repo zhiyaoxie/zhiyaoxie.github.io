@@ -12,7 +12,7 @@ author_profile: true
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and        
 Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper}    
+<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}      
 <span style="font-size:90; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span>     
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
@@ -168,21 +168,6 @@ Patent
 * [Patent](https://patents.google.com/patent/US20220164511A1/en){: .btn} <span style="color:DarkBlue">Method and Apparatus for Power Measurement in Electronic Circuit Design and Analysis</span>   
 <span style="color:DimGray; font-size:85%">Xiaoqing Xu, <span style="color:black">**Zhiyao Xie**</span>, Shidhartha Das, Matthew James Walker, Kumara Guru Palaniswamy, and Matthew Paul Elwood</span>  
 <span style="font-size:95%">US Patent US11959950B2, granted in 2024</span> [Patent](https://patents.google.com/patent/US11959950B2/en){: .btn--paper}
-
-
-Preprints 
-======
-* <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>     
-<span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">arXiv 2023. </span> [arXiv](https://arxiv.org/pdf/2312.08617.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}   
-
-* <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>    
-<span style="color:DimGray; font-size:85%">Mengming Li, Wenji Fang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2401.13266.pdf){: .btn--paper}   
-
-* <span style="color:DarkBlue">AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
-<span style="color:DimGray; font-size:85%">Wenji Fang, Mengming Li, Min Li, Zhiyuan Yan, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">arXiv 2024. </span> [arXiv](https://arxiv.org/pdf/2402.00386.pdf){: .btn--paper}   
 
 
 Media Coverage
