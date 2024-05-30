@@ -9,10 +9,10 @@ author_profile: true
 <span style="color:DimGray; font-size:85%">Yao Lu, Qijun Zhang, <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
 
-* [LAD'24](https://www.islad.org/){: .btn}RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution <span style="color:DarkBlue"></span>   
+* [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution <span style="color:DarkBlue"></span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
-<span style="font-size:90">**Best Paper Nomination**</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span>     
+<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper}    
+<span style="font-size:90, color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span>     
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
@@ -78,7 +78,7 @@ author_profile: true
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
-<span style="font-size:90; color:red">**Best Paper Nomination**</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span>
+<span style="font-size:90; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span>
 
 * [ICCAD'22](https://iccad.com/){: .btn} <span style="color:DarkBlue">DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu</span>  
