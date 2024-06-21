@@ -33,7 +33,7 @@ Lightweight Solution</span>
 
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
-<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>  [pdf](https://zhiyaoxie.github.io/files/TRETS24_FADO.pdf){: .btn--paper}     
+<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>  [pdf](https://zhiyaoxie.github.io/files/TRETS24_FADO.pdf){: .btn--paper} 
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
@@ -78,7 +78,7 @@ Lightweight Solution</span>
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs</span>     
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>     
-<span style="font-size:95%">ACM International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper}
+<span style="font-size:95%">ACM International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper} [code](https://github.com/RipperJ/FADO){: .btn--code}      
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span>   
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>	  
