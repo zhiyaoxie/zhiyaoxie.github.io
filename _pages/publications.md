@@ -58,7 +58,7 @@ Lightweight Solution</span>
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search</span>     
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper}    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper} [code](https://github.com/afzalxo/PertNAS){: .btn--code}      
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator</span>   
 <span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
