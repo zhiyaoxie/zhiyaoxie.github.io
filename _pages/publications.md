@@ -156,7 +156,7 @@ Book Chapter
 <span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Erick Carvajal Barboza, and Jiang Hu</span>  
 <span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation, 2023.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}    
 
-Dissertation
+Ph.D. Dissertation
 ======
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
