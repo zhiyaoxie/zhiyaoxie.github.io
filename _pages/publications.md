@@ -21,7 +21,7 @@ author_profile: true
 Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--paper}      
-<span style="font-size:90; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_RTLCoder.png){: .btn--paper}    
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_RTLCoder.pdf){: .btn--paper}    
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
@@ -38,7 +38,7 @@ Lightweight Solution</span>
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. *(Acceptance rate=29%)*</span> [arXiv](https://arxiv.org/pdf/2308.05345.pdf){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}  [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--paper}   
-<span style="font-size:90; color:red">Trending CS Papers (Top 10 in Hardware Architecture 06/2024) </span> [record](https://zhiyaoxie.github.io/files/record_RTLLM.pdf){: .btn--paper}    
+<span style="font-size:90%; color:red">Trending CS Papers (Top 10 in Hardware Architecture, 06/2024) </span> [record](https://zhiyaoxie.github.io/files/record_RTLLM.pdf){: .btn--paper}    
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
 <span style="color:DimGray; font-size:85%">Tao Zhang, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
@@ -150,19 +150,19 @@ Book Chapter
 ======
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Rongjian Liang, Erick Carvajal Barboza, and Yiran Chen</span>    
-<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}</span>  
+<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation, 2023. [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_2){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_route.pdf){: .btn--paper}</span>   
 
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 3: Net-Based Machine Learning-Aided Approaches for Timing and Crosstalk Estimation</span>  
 <span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Erick Carvajal Barboza, and Jiang Hu</span>  
-<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}
+<span style="font-size:95%">In Book: Machine Learning Applications in Electronic Design Automation, 2023.</span> [Springer](https://link.springer.com/chapter/10.1007/978-3-031-13074-8_3){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/chapter_net.pdf){: .btn--paper}    
 
 Dissertation
 ======
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
-<span style="font-size:90; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span>   
-<span style="font-size:90; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span>   
+<span style="font-size:90; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span> [record](https://zhiyaoxie.github.io/images/SIGDA_photo.jpg){: .btn--paper}    
+<span style="font-size:90; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span> [record](https://zhiyaoxie.github.io/images/EDAA_photo.jpg){: .btn--paper}    
 
 Patent
 ======
