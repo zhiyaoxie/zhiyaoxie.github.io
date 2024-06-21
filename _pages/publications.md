@@ -17,8 +17,7 @@ author_profile: true
 <span style="color:DimGray; font-size:85%">Yao Lu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
 
-* [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and        
-Lightweight Solution</span>    
+* [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_RTLCoder.pdf){: .btn--orange}    
