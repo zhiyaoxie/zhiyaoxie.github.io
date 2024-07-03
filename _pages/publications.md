@@ -87,7 +87,7 @@ author_profile: true
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
-<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/images/record_Fully.pdf){: .btn--orange}  
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_Fully.pdf){: .btn--orange}  
 
 * [ICCAD'22](https://iccad.com/){: .btn} <span style="color:DarkBlue">DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu</span>  
