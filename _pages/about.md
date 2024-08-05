@@ -13,7 +13,7 @@ Zhiyao has received multiple prestigious awards, including the RGC HK Early Care
 
 Award & Honors
 ======
-* ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024    
+* ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024 (8 out of 167 submissions) 
 * IEEE LAD 2024 Best Paper Nomination, 2024 (6 out of 80 submissions)    
 * **RGC HK Early Career Award, 2023 (7 awardees out of 525 early-career faculties)**   
 * WAIC Yufan Award, 2023 (云帆奖, 10 Chinese AI researchers under age of 35)
