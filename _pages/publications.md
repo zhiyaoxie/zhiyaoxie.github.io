@@ -7,11 +7,11 @@ author_profile: true
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
 <span style="color:DimGray; font-size:85%">Shang Liu, Yao Lu, Wenji Fang, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024.</span>     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024.</span>      
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</span>    
 <span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span>  
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}    
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Data-pattern-based Predictive On-Chip Power Meter in DNN Accelerator</span>    
 <span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, Jingbo Jiang, Yipu Zhang, Zhe Lin, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>    
@@ -72,11 +72,11 @@ author_profile: true
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
 
-* [ISPD'23](https://ispd.cc/ispd2023/){: .btn} <span style="color:DarkBlue">Efficient Runtime Power Modeling with On-Chip Power Meters (Invited)</span>   
+* [ISPD'23](https://ispd.cc/ispd2023/){: .btn} <span style="color:DarkBlue">Efficient Runtime Power Modeling with On-Chip Power Meters <span style="font-size:90%">(Invited)</span></span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">International Symposium on Physical Design (ISPD), 2023.</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3569052.3578927){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
-* [ISQED'23](https://www.isqed.org/){: .btn} <span style="color:DarkBlue">Security and Reliability Challenges in Machine Learning for EDA: Latest Advances (Invited)</span>	     
+* [ISQED'23](https://www.isqed.org/){: .btn} <span style="color:DarkBlue">Security and Reliability Challenges in Machine Learning for EDA: Latest Advances <span style="font-size:90%">(Invited)</span></span>	     
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Tao Zhang, and Yifeng Peng</span>      
 <span style="font-size:95%">International Symposium on Quality Electronic Design (ISQED), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10129359){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}
 
@@ -126,7 +126,7 @@ author_profile: true
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASPDAC), 2021. *(Acceptance rate=34%)*</span> [IEEE](https://ieeexplore.ieee.org/abstract/document/9371657){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf){: .btn--paper}    
 
-* [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Fast IR Drop Estimation with Machine Learning (Invited)</span>   
+* [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Fast IR Drop Estimation with Machine Learning <span style="font-size:90%">(Invited)</span></span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Hai Li, Xiaoqing Xu, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
 
