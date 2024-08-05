@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-AidedDesign RTL Generation (Invited)</span>     
+<span style="color:DimGray; font-size:85%">Shang Liu, Yao Lu, Wenji Fang, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024.</span>     
+
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</span>    
 <span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span>  
