@@ -19,11 +19,11 @@ Education
 
 Service
 ======
+* Technical Program Committee Member of IEEE/ACM ICCAD 2023, 2024 
+* Technical Program Committee Member of ASP-DAC 2023, 2024  
 * Technical Program Committee Member of IEEE MLCAD 2024
 * Technical Program Committee Member of IEEE LAD 2024
 * Financial Chair, IEEE CEDA Hong Kong, 2024  
-* Technical Program Committee Member of IEEE/ACM ICCAD 2023, 2024 
-* Technical Program Committee Member of ASP-DAC 2023, 2024  
 * Seminar Chair, IEEE CEDA Hong Kong, 2023
 * Publicity Chair, IEEE CEDA Hong Kong, 2022
 * Reviewer of ACM TODAES (Distinguished Reviewer), ACM JETC, ACM TECS, Springer JCST, IEEE TCAD, IEEE TCAS-I, IEEE ESL, IEEE Design & Test, IEEE CAL, IEEE SPL, NeurIPS 
@@ -35,7 +35,7 @@ Teaching Experience
     * Course Developer, the 1st course on EDA algorithm in HKUST   
     * Covers VLSI design flow, synthesis, floorplan, placement, routing, etc.  
 
-* **Instructor of ELEC 2350**, HKUST, 2023 Spring and Fall
+* **Instructor of ELEC 2350**, HKUST, 23 Spring, 23 Fall, 24 Fall   
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
     * One of the four core (required) courses in ECE, enrollment > 100 students   
     * Covers basic number system, MIPS ISA, pipelined CPU architecture, cache, etc.   
