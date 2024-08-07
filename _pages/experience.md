@@ -19,8 +19,8 @@ Education
 
 Service
 ======
+* Technical Program Committee Member of ASP-DAC 2023, 2025  
 * Technical Program Committee Member of IEEE/ACM ICCAD 2023, 2024 
-* Technical Program Committee Member of ASP-DAC 2023, 2024  
 * Technical Program Committee Member of IEEE MLCAD 2024
 * Technical Program Committee Member of IEEE LAD 2024
 * Financial Chair, IEEE CEDA Hong Kong, 2024  
@@ -30,7 +30,7 @@ Service
 
 Teaching Experience
 ======
-* **Instructor of ELEC 6910D**, HKUST, 2024 Spring 
+* **Instructor of ELEC 6910D**, HKUST, 24 Spring 
     * ELEC 6910D: Electronic Design Automation for VLSI Design (Graduate)
     * Course Developer, the 1st course on EDA algorithm in HKUST   
     * Covers VLSI design flow, synthesis, floorplan, placement, routing, etc.  
@@ -39,8 +39,8 @@ Teaching Experience
     * ELEC 2350: Introduction to Computer Organization and Design (Undergraduate)
     * One of the four core (required) courses in ECE, enrollment > 100 students   
     * Covers basic number system, MIPS ISA, pipelined CPU architecture, cache, etc.   
-    * Evaluation 23'Fall (4.40 / 5.0, All School UG Course Mean = 4.03)
-    * Evaluation 23'Spring (4.24 / 5.0, All School UG Course Mean = 4.00) 
+    * Evaluation 23'Fall (4.40 / 5.0, School UG Course Mean = 4.03)
+    * Evaluation 23'Spring (4.24 / 5.0, School UG Course Mean = 4.00) 
 
 * **TA of ECE 586 and ECE350**, Duke University, 2021 
     * ECE 586: Vector Space Methods with Applications. (Graduate) 
