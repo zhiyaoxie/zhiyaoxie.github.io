@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Current & Incoming Ph.D. Students"
+title: "Current Ph.D. Students"
 permalink: /students/
 author_profile: true
 ---
 
 * **Qijun Zhang**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Tongji University
+    * Awarded HKUST RedBird PhD Scholarship     
 
 * **Yao Lu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Southeast University, Master in Fudan University
@@ -16,9 +17,6 @@ author_profile: true
 
 * **Jing Wang** <span style="color:DimGray; font-size:85%">(24'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
-
-* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span> (MPhil now)    
-    * Bachelor in Tsinghua University
 
 * **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in NUAA, Master in HKUST (GZ)   
@@ -35,9 +33,17 @@ author_profile: true
 
 ----
 
-Alumni
+Current MPhil Students  
 ======
-* **Tao Zhang**, MPhil, Graduate in 24'Spring  
+
+* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span>      
+    * Bachelor in Tsinghua University
+
+----
+
+Alumni   
+======
+* **Tao Zhang**, MPhil Graduate in 24'Spring, now PhD at Rugters       
 
 ----
 
