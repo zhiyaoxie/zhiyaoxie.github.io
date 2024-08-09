@@ -43,7 +43,9 @@ Current MPhil Students
 
 Alumni   
 ======
-* **Tao Zhang**, MPhil Graduate in 24'Spring, now PhD at Rugters       
+* **Tao Zhang**   
+    * MPhil Graduate in 24'Spring, enrolled in 22'Fall        
+    * Now PhD Student at Rutgers University     
 
 ----
 
