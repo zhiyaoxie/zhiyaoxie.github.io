@@ -15,10 +15,10 @@ Award & Honors
 ======
 * ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024 (8 out of 167 submissions) 
 * IEEE LAD 2024 Best Paper Nomination, 2024 (6 out of 80 submissions)    
-* **RGC HK Early Career Award, 2023 (7 awardees out of 525 early-career faculties)**   
-* WAIC Yufan ''Brilliant Star'' Award, 2023 (10 AI researchers under age of 35)
-* **ACM Outstanding Dissertation Award in EDA, 2023 (1 awardee worldwide per year)**
-* **EDAA Outstanding Dissertation Award, 2023 (4 awardees worldwide per year)**
+* **RGC HK Early Career Award, 2023 (7 awardees out of 525 early-career faculties)**     
+* **WAIC Yufan ''Brilliant Star'' Award, 2023 (Top 10 AI researchers under age of 35)**   
+* **ACM Outstanding Dissertation Award in EDA, 2023 (1 awardee worldwide per year)**  
+* **EDAA Outstanding Dissertation Award, 2023 (4 awardees worldwide per year)**   
 * **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328 submissions)**   
 * ASP-DAC 2023 Best Paper Nomination, 2023 (11 out of 328 submissions)  
 * ACM TODAES Distinguished Reviewer, 2022   
