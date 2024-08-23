@@ -13,21 +13,21 @@ Zhiyao has received multiple prestigious awards, including the RGC HK Early Care
 
 Award & Honors
 ======
-* ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024 (8 out of 167 submissions) 
-* IEEE LAD 2024 Best Paper Nomination, 2024 (6 out of 80 submissions)    
-* **RGC HK Early Career Award, 2023 (7 awardees out of 525 early-career faculties)**     
+* ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024 (8 out of 167) 
+* IEEE LAD 2024 Best Paper Nomination, 2024 (6 out of 80)    
+* **RGC HK Early Career Award, 2023 (7 out of 525 early-career faculties)**     
 * **WAIC Yufan ''Brilliant Star'' Award, 2023 (Top 10 AI researchers under age of 35)**   
 * **ACM Outstanding Dissertation Award in EDA, 2023 (1 awardee worldwide per year)**  
 * **EDAA Outstanding Dissertation Award, 2023 (4 awardees worldwide per year)**   
-* **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328 submissions)**   
-* ASP-DAC 2023 Best Paper Nomination, 2023 (11 out of 328 submissions)  
+* **ASP-DAC 2023 Best Paper Award, 2023 (2 out of 328)**   
+* ASP-DAC 2023 Best Paper Nomination, 2023 (11 out of 328)  
 * ACM TODAES Distinguished Reviewer, 2022   
 * **ACM SIGDA SRF Best Research Poster Award, 2022**   
-* **IEEE/ACM MICRO 2021 Best Paper Award, 2021 (1 out of 430 submissions)**
+* **IEEE/ACM MICRO 2021 Best Paper Award, 2021 (1 out of 430)**
 * ECE Ph.D. Fellowship, Duke University, 2018   
 * Dean’s List for all 8 UG Semesters, CityU HK, 2013-2017  
 * Outstanding Student Prize, CityU HK, 2016  
-* Full Scholarship for 4 Years, CityU HK, 2013-2017   
+* Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
 Ph.D. Student Recruitment
 ======
