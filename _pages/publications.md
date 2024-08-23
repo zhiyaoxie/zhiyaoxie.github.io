@@ -44,7 +44,7 @@ All conference publications below are full papers with oral presentations.
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Shang Liu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--code}   
-<span style="font-size:90%; color:red">Trending CS Papers (Top 10 in Hardware Architecture, 08/2024) </span> [record](https://zhiyaoxie.github.io/files/record_RTLLM.pdf){: .btn--orange}    
+<span style="font-size:90%; color:red">Trending CS Papers (Top 5 in Hardware Architecture, 08/2024) </span> [record](https://zhiyaoxie.github.io/files/record_RTLLM.pdf){: .btn--orange}    
 
 * [ASPDAC'24](https://aspdac.gabia.io/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
 <span style="color:DimGray; font-size:85%">Tao Zhang, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
