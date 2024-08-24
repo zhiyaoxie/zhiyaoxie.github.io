@@ -9,7 +9,7 @@ redirect_from:
 
 Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong University of Science and Technology (HKUST), where he joined in 2022 summer. His research focuses on electronic design automation (EDA) and AI for chip design. He completed his Ph.D. at Duke University in 2022 under the supervision of Prof. Yiran Chen and Prof. Hai (Helen) Li, following his B.Eng from CityU HK in 2017 with a full scholarship & first-class honours. During his Ph.D. studies, Zhiyao also worked as a research intern at leading IC design and electronic design automation (EDA) companies such as NVIDIA, Arm, Cadence, and Synopsys.   
 
-Zhiyao has received multiple prestigious awards, including the RGC HK Early Career Award 2023 (7 out of 525), ACM Outstanding Dissertation Award in EDA 2023 (one awardee per year), EDAA Outstanding Dissertation Award 2023, MICRO 2021 Best Paper Award, ACM SIGDA SRF 2022 Best Research Poster Award, ASP-DAC 2023 Best Paper Award, WAIC 2023 Yufan Award, and 3 more best paper nomitations. He serverd as TPC member of ICCAD, ASPDAC, MLCAD, LAD, a frequent reviewer of IEEE TCAD and ACM TODAES, and the Financial Chair of IEEE CEDA Hong Kong.   
+Zhiyao has received multiple prestigious awards, including the RGC HK Early Career Award 2023 (7 out of 525), ACM Outstanding Dissertation Award in EDA 2023 (one awardee per year), EDAA Outstanding Dissertation Award 2023, MICRO 2021 Best Paper Award, ACM SIGDA SRF 2022 Best Research Poster Award, ASP-DAC 2023 Best Paper Award, WAIC 2023 Yufan Award, and 3 more best paper nomitations. He serverd on the TPC of ICCAD, ASPDAC, MLCAD, LAD, and as the Financial Chair of IEEE CEDA Hong Kong.   
 
 Award & Honors
 ======
