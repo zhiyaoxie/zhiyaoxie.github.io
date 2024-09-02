@@ -11,12 +11,12 @@ All conference publications below are full papers with oral presentations.
 <span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
-* [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling </span>   
-<span style="color:DimGray; font-size:85%"> Qijun Zhang, Mengming Li, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
-
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage </span>   
 <span style="color:DimGray; font-size:85%"> Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
+
+* [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling </span>   
+<span style="color:DimGray; font-size:85%"> Qijun Zhang, Mengming Li, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations </span>   
