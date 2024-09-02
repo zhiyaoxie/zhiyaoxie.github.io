@@ -32,7 +32,7 @@ All conference publications below are full papers with oral presentations.
 <span style="color:DimGray; font-size:85%"> Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, Shang Liu, <span style="color:black">**Zhiyao Xie**</span>, and Hongce Zhang. </span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
-* [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> PRICING: Privacy-Preserving Circuit Data Sharing Framework for ML Applications </span>   
+* [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection</span>   
 <span style="color:DimGray; font-size:85%"> Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, Guanglei Zhou, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
