@@ -9,32 +9,32 @@ All conference publications below are full papers with oral presentations.
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks </span>   
 <span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling </span>   
 <span style="color:DimGray; font-size:85%"> Qijun Zhang, Mengming Li, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage </span>   
 <span style="color:DimGray; font-size:85%"> Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations </span>   
 <span style="color:DimGray; font-size:85%"> Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> SMART-GPO: Gate-Level Sensitivity Measurement with Accurate Estimation for Glitch Power Optimization </span>   
 <span style="color:DimGray; font-size:85%"> Yikang Ouyang, Yuchao Wu, Dongsheng Zuo, Subhendu Roy, Tinghuan Chen, <span style="color:black">**Zhiyao Xie**</span>, and Yuzhe Ma</span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span>     
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span>     
 <span style="font-size:90%; color:red">Best Paper Nomination</span>
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs </span>   
-<span style="color:DimGray; font-size:85%"> Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, Shang Liu, <span style="color:black">**Zhiyao Xie**</span>, Hongce Zhang. </span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
+<span style="color:DimGray; font-size:85%"> Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, Shang Liu, <span style="color:black">**Zhiyao Xie**</span>, and Hongce Zhang. </span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> PRICING: Privacy-Preserving Circuit Data Sharing Framework for ML Applications </span>   
 <span style="color:DimGray; font-size:85%"> Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, Guanglei Zhou, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. </span> 
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
 <span style="color:DimGray; font-size:85%">Shang Liu, Yao Lu, Wenji Fang, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>     
