@@ -23,14 +23,14 @@ All conference publications below are full papers with oral presentations.
 <span style="color:DimGray; font-size:85%"> Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
 
-* [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs </span>   
-<span style="color:DimGray; font-size:85%"> Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, Shang Liu, <span style="color:black">**Zhiyao Xie**</span>, Hongce Zhang. </span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
-
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> SMART-GPO: Gate-Level Sensitivity Measurement with Accurate Estimation for Glitch Power Optimization </span>   
 <span style="color:DimGray; font-size:85%"> Yikang Ouyang, Yuchao Wu, Dongsheng Zuo, Subhendu Roy, Tinghuan Chen, <span style="color:black">**Zhiyao Xie**</span>, and Yuzhe Ma</span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span>     
 <span style="font-size:90%; color:red">Best Paper Nomination</span>
+
+* [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs </span>   
+<span style="color:DimGray; font-size:85%"> Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, Shang Liu, <span style="color:black">**Zhiyao Xie**</span>, Hongce Zhang. </span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC) 2025. </span> 
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> PRICING: Privacy-Preserving Circuit Data Sharing Framework for ML Applications </span>   
 <span style="color:DimGray; font-size:85%"> Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, Guanglei Zhou, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>    
