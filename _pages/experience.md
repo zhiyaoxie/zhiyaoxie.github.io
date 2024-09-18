@@ -20,6 +20,7 @@ Education
 Service
 ======
 * Technical Program Committee Member of ASP-DAC 2023, 2025  
+* Technical Program Committee Member of DATE, 2025  
 * Technical Program Committee Member of IEEE/ACM ICCAD 2023, 2024 
 * Technical Program Committee Member of IEEE MLCAD 2024
 * Technical Program Committee Member of IEEE LAD 2024
