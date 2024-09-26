@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhiyao Xie"
+title: "Zhiyao Xie (谢知遥)" 
 author_profile: true
 redirect_from: 
   - /about/
