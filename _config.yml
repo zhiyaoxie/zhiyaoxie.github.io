@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhiyao Xie"
 description              : &description "Assistant Professor at HKUST"
