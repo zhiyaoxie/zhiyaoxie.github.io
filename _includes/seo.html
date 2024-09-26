@@ -9,7 +9,7 @@
 {% if page.title and page.author_profile != true %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% elsif page.title and page.author_profile == true %}
-  {% assign seo_title = "Zhiyao Xie" %}
+  {% assign seo_title = "Zhiyao Xie (谢知遥)" %}
 {% endif %}
 
 {% if seo_title %}
