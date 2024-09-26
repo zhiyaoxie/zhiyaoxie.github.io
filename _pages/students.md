@@ -2,7 +2,7 @@
 layout: archive
 title: "Current Ph.D. Students"
 permalink: /students/
-author_profile: false
+author_profile: true
 ---
 
 * **Qijun Zhang**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
