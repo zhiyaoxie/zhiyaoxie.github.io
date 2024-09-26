@@ -2,7 +2,7 @@
 layout: archive
 title: "Oral Presentations"
 permalink: /talks/
-author_profile: true
+author_profile: false
 ---
 
 * To be Updated ......

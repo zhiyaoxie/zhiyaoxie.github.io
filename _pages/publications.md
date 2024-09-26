@@ -2,7 +2,7 @@
 layout: archive
 title: "Peer-Reviewed Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 All conference publications below are full papers with oral presentations.   
