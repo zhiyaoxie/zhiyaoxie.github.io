@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Assistant Professor    
 *Hong Kong University of Science and Technology (HKUST)*
 
 Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong University of Science and Technology (HKUST), where he joined in 2022 Fall. His research focuses on electronic design automation (EDA) and AI for chip design. He completed his Ph.D. at Duke University in 2022 under the supervision of Prof. Yiran Chen and Prof. Hai (Helen) Li, following his B.Eng from CityU HK in 2017 with a full scholarship & first-class honours. During his Ph.D. studies, Zhiyao also worked as a research intern at leading IC and EDA companies (e.g., NVIDIA, Arm, Cadence, and Synopsys), where he was fortunate to work with Dr. Haoxing Ren, Dr. Brucek Khailany, Dr. Xiaoqing Xu, Dr. Shidhartha Das, and Prof. Jiang Hu.    
