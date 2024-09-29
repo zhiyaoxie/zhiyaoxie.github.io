@@ -50,7 +50,7 @@ All conference publications below are full papers with oral presentations.
 
 * [SCIS'24](https://link.springer.com/journal/11432){: .btn} <span style="color:DarkBlue">Large Circuit Models: Opportunities and Challenges</span>    
 <span style="color:DimGray; font-size:85%"> Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, Ru Huang, Yu Huang, Sadaf Khan, Min Li, Xingquan Li, Yu Li, Yun Liang, Jinwei Liu, Yi Liu, Yibo Lin, Guojie Luo, Hongyang Pan, Zhengyuan Shi, Guangyu Sun, Dimitrios Tsaras, Runsheng Wang, Ziyi Wang, Xinming Wei, <span style="color:black">**Zhiyao Xie**</span>, Qiang Xu, Chenhao Xue, Junchi Yan, Jun Yang, Bei Yu, Mingxuan Yuan, Evangeline F.Y. Young, Xuan Zeng, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Hui-Ling Zhen, Ziyang Zheng, Binwu Zhu, Keren Zhu, and Sunan Zou (alphabetical order)</span>    
-<span style="font-size:95%">Science China Information Sciences (SCIS), 2024.</span> [Springer](https://link.springer.com/article/10.1007/s11432-024-4155-7){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/SCIS24_LCM.pdf){: .btn--paper}    
+<span style="font-size:95%">Science China Information Sciences (SCIS), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/SCIS24_LCM.pdf){: .btn--paper}    
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</span>    
 <span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
