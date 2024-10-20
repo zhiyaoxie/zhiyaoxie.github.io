@@ -58,7 +58,7 @@ All conference publications below are full papers with oral presentations.
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Data-pattern-based Predictive On-Chip Power Meter in DNN Accelerator</span>    
 <span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, Jingbo Jiang, Yipu Zhang, Zhe Lin, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10247979){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/TCAD24_OPM.pdf){: .btn--paper}     
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10554667){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/TCAD24_OPM.pdf){: .btn--paper}     
 
 * [ISLPED'24](https://www.islped.org/2024/index.php){: .btn} <span style="color:DarkBlue">Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</span>   
 <span style="color:DimGray; font-size:85%">Yao Lu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>     
