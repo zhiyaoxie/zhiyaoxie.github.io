@@ -41,13 +41,6 @@ Current MPhil Students
 
 ----
 
-Alumni   
-======
-* **Tao Zhang**   
-    * MPhil Graduate in 24'Spring, enrolled in 22'Fall        
-    * Graduate placement: PhD Student at Rutgers University     
-
-----
 
 Please consider joining us!!
 
