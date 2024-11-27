@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current Ph.D. Students"
+title: "Ph.D. Students"
 permalink: /students/
 author_profile: true
 ---
@@ -33,7 +33,7 @@ author_profile: true
 
 ----
 
-Current MPhil Students  
+MPhil Students  
 ======
 
 * **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span>      
@@ -44,7 +44,7 @@ Current MPhil Students
 Alumni    
 ======
 
-Waiting for the graduation of our students ...   
+&nbsp;&nbsp;&nbsp;&nbsp; Looking forward to the graduation of our students ...   
 
 ----
 
