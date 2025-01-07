@@ -34,6 +34,16 @@ Selected Award & Honors
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
+Research Interest   
+======
+* AI-Driven Power and Timing Modeling 
+    * On-Chip Power Modeling: APOLLO [MICRO'21], DEEP [ICCAD'22]    
+    * RTL-Stage Timing Prediction: MasterRTL [ICCAD'23, TCAD'25], RTL-Timer [DAC'24]    
+    * Arch-Stage Power Prediction: PANDA [ICCAD'23, TCAD'25]   
+* Foundation AI Model for VLSI Design    
+    * RTLCoder [TCAD'25], RTLLM [ASP-DAC'25]     
+
+
 Selected Government Research Grants  
 ======
 * PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG)*, 06/2025 – 05/2028, HK$ 3,537,000.     
