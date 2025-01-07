@@ -36,10 +36,10 @@ Selected Award & Honors
 
 Selected Government Research Grants  
 ======
-* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG), 06/2025 – 05/2028, Amount: HK$ 3,537,000.     
-* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” Research Grants Council (RGC) General Research Fund (GRF), 01/2025 – 12/2027, Amount: HK$ 1,121,111.     
-* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” Research Grants Council (RGC) Early Career Scheme (ECS), 09/2023 – 08/2026. Amount: HK$ 1,156,155. (Early Career Award)    
-* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF), 01/2024 – 12/2026. Amount: HK$ 339,570.      
+* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG)*, 06/2025 – 05/2028, HK$ 3,537,000.     
+* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
+* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155. (Early Career Award)    
+* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
 
 Ph.D. Student Recruitment
 ======
