@@ -36,7 +36,7 @@ Selected Award & Honors
 
 Selected Research Directions
 ======
-* AI-Driven Early Power and Timing Modeling 
+* AI-Assisted Early Power and Timing Modeling 
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}     
     * RTL-Stage Cross-Design Timing Prediction:    
@@ -49,6 +49,10 @@ Selected Research Directions
       &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
     * Pseudo-Circuits Generation:     
       &ensp;&ensp; CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}      
+
+* AI-Assisted Layout Modeling 
+    * Routabitliy and IR drop Modeling: 
+      &ensp;&ensp; RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}, PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}, AutoDRC [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}     
 
 * CPU Prefetcher Design
     * Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
