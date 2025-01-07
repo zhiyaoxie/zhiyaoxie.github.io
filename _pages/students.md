@@ -18,6 +18,9 @@ author_profile: true
 * **Jing Wang** <span style="color:DimGray; font-size:85%">(24'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
 
+* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span>      
+    * Bachelor in Tsinghua University
+
 * **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in NUAA, Master in HKUST (GZ)   
 
@@ -30,14 +33,6 @@ author_profile: true
 
 * **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in HIT (Shenzhen), Master in HKU   
-
-----
-
-MPhil Students  
-======
-
-* **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span>      
-    * Bachelor in Tsinghua University
 
 ----
 
