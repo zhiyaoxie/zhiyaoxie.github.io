@@ -34,6 +34,14 @@ Selected Award & Honors
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
+Selected Government Research Grants  
+======
+* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG)*, 06/2025 – 05/2028, HK$ 3,537,000.     
+* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
+* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155.   
+(Early Career Award 2023, only 7 awardees)    
+* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
+
 Selected Research Directions
 ======
 * Foundation AI-Assisted Circuit Design    
@@ -58,14 +66,6 @@ Selected Research Directions
 
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
-
-Selected Government Research Grants  
-======
-* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG)*, 06/2025 – 05/2028, HK$ 3,537,000.     
-* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
-* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155.   
-(Early Career Award 2023, only 7 awardees)    
-* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
 
 Ph.D. Student Recruitment
 ======
