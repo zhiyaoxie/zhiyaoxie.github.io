@@ -34,14 +34,16 @@ Selected Award & Honors
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
-Research Interest   
+Selected Research Directions
 ======
 * AI-Driven Power and Timing Modeling 
     * On-Chip Power Modeling: APOLLO [MICRO'21], DEEP [ICCAD'22]    
     * RTL-Stage Timing Prediction: MasterRTL [ICCAD'23, TCAD'25], RTL-Timer [DAC'24]    
-    * Arch-Stage Power Prediction: PANDA [ICCAD'23, TCAD'25]   
+    * Arch-Stage Power Prediction: PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper}, [TCAD'25]   
 * Foundation AI Model for VLSI Design    
-    * RTLCoder [TCAD'25], RTLLM [ASP-DAC'25]     
+    * RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}     
+* CPU Architecture Design
+    * Alecto [HPCA'25]
 
 
 Selected Government Research Grants  
