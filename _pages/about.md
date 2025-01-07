@@ -37,13 +37,13 @@ Selected Award & Honors
 Selected Research Directions
 ======
 * AI-Driven Power and Timing Modeling 
-    * On-Chip Power Modeling: APOLLO [MICRO'21], DEEP [ICCAD'22]    
+    * On-Chip Power Modeling: APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper}    
     * RTL-Stage Timing Prediction: MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}, [AgileDev](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
     * Arch-Stage Power Prediction: PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper}, [TCAD'25]   
 * Foundation AI Model for VLSI Design    
-    * LLM-aided Design: RTLCoder ([TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}), RTLLM ([ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper})    
+    * LLM-Aided Design: RTLCoder ([TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}), RTLLM ([ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper})    
 * CPU Architecture Design
-    * Alecto [HPCA'25]
+    * CPU Prefetcher Design Alecto [HPCA'25]  
 
 Selected Government Research Grants  
 ======
