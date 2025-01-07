@@ -47,11 +47,11 @@ Selected Research Directions
 * Foundation AI Model for VLSI Design    
     * LLM-Aided Design Generation:         
       &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
-    * Pseudo-Circuits Generation:        
-      &ensp;&ensp; CircuitGen    
+    * Pseudo-Circuits Generation:     
+      &ensp;&ensp; CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}      
 
-* CPU Design
-    * CPU Prefetcher Design: Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
+* CPU Prefetcher Design
+    * Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
 
 Selected Government Research Grants  
 ======
