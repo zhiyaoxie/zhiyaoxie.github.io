@@ -50,7 +50,7 @@ Selected Research Directions
     * Pseudo-Circuits Generation:     
       &ensp;&ensp;   CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}      
 
-* AI-Assisted Early Power and Timing Modeling 
+* AI-Assisted Pre-Layout Power and Timing Modeling 
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}     
     * RTL-Stage Cross-Design Timing Prediction:    
