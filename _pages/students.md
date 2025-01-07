@@ -22,7 +22,8 @@ author_profile: true
     * Bachelor in Tsinghua University
 
 * **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
-    * Bachelor in NUAA, Master in HKUST (GZ)   
+    * Bachelor in NUAA, Master in HKUST (GZ)     
+    * Website: [Wenji](https://wenjifang.netlify.app/){: .btn--orange}    
 
 * **ZheAn (Jay) Mok**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in Columbia University, Master in UBC   
@@ -30,6 +31,7 @@ author_profile: true
 
 * **Mengming Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Master in Zhejiang University
+    * Website: [Mengming](https://limengming.github.io/){: .btn--orange}    
 
 * **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in HIT (Shenzhen), Master in HKU   
