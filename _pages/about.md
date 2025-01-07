@@ -54,7 +54,7 @@ Selected Research Directions
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}     
     * RTL-Stage Cross-Design Timing Prediction:    
-       &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}, Net2 [TCAD'22](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}    
+       &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}, Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper}     
     * Arch-Stage Power Prediction:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}     
 
