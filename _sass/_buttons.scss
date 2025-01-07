@@ -162,6 +162,24 @@
 
 }
 
+&--test5 {
+  display: inline-block;
+  margin-bottom: 0.25em;
+  margin-right: 0.15em;
+  padding: 0.125em 0.2em;
+  color: rgb(255, 255, 255) !important;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none !important;
+  background-color: #519a73;  
+  border: 0 !important;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+}
+
 
 &--orange {
   display: inline-block;
