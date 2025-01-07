@@ -14,7 +14,7 @@ Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong Universi
 
 Zhiyao has received multiple prestigious awards, including the RGC HK Early Career Award 2023 (7 out of 525), ACM Outstanding Dissertation Award in EDA 2023 (one awardee per year), EDAA Outstanding Dissertation Award 2023, MICRO 2021 Best Paper Award (1 out of 430), ASP-DAC 2023 Best Paper Award, WAIC Yufan Award (Brilliant Star) 2023, ACM SIGDA SRF 2022 Best Research Poster Award, and 4 more best paper nominations. He served on the TPC of ICCAD, DATE, ASPDAC, MLCAD, LAD, and as the Finance Chair of IEEE CEDA Hong Kong.   
 
-Award & Honors
+Selected Award & Honors
 ======
 * ASP-DAC 2025 Best Paper Nomination, 2025    
 * **Faculty Teaching Excellence Appreciation Award, ECE Department, 2023/24**   
@@ -33,6 +33,13 @@ Award & Honors
 * Dean’s List for all 8 UG Semesters, CityU HK, 2013-2017  
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
+
+Selected Government Research Grants  
+======
+* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG), 06/2025 – 05/2028, Amount: HK$ 3,537,000.     
+* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” Research Grants Council (RGC) General Research Fund (GRF), 01/2025 – 12/2027, Amount: HK$ 1,121,111.     
+* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” Research Grants Council (RGC) Early Career Scheme (ECS), 09/2023 – 08/2026. Amount: HK$ 1,156,155. (Early Career Award)    
+* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF), 01/2024 – 12/2026. Amount: HK$ 339,570.      
 
 Ph.D. Student Recruitment
 ======
