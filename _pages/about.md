@@ -36,7 +36,7 @@ Selected Award & Honors
 
 Selected Research Directions
 ======
-* Foundation AI for Circuit Design    
+* Foundation AI-Assisted Circuit Design    
     * LLM-Aided Design Generation:         
       &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASPDAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
     * Pseudo-Circuits Generation:     
@@ -56,8 +56,8 @@ Selected Research Directions
     * AI Model Reliablity:   
      &ensp;&ensp;    DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--paper}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper}     
 
-* CPU Prefetcher Design
-    * Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
+* CPU Prefetcher Design    
+    &ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
 
 Selected Government Research Grants  
 ======
