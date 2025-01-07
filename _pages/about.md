@@ -46,7 +46,7 @@ Selected Research Directions
 ======
 * Foundation AI for Circuit Design    
     * LLM-Aided Design Code Generation:         
-      &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASPDAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
+      &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
     * Pseudo-Circuits Generation:     
       &ensp;&ensp;   CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}      
 
@@ -56,7 +56,7 @@ Selected Research Directions
     * RTL-Stage Cross-Design Timing Prediction:    
        &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}, Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper}     
     * Arch-Stage Power Prediction:     
-       &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}     
+       &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_FirePower.pdf){: .btn--paper}     
 
 * AI-Assisted Layout Modeling 
     * Routabitliy and IR Drop Modeling:     
