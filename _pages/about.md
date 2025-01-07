@@ -37,8 +37,10 @@ Selected Award & Honors
 Selected Research Directions
 ======
 * AI-Driven Power and Timing Modeling 
-    * On-Chip Power Modeling: APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper}    
-    * RTL-Stage Timing Prediction: MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}, [AgileDev](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
+    * On-Chip Power Modeling: 
+       APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--paper}    
+    * RTL-Stage Timing Prediction: 
+       MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}, [AgileDev](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
     * Arch-Stage Power Prediction: PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper}, [TCAD'25]   
 * Foundation AI Model for VLSI Design    
     * LLM-Aided Design: RTLCoder ([TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}), RTLLM ([ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper})    
@@ -50,7 +52,7 @@ Selected Government Research Grants
 * PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Young Collaborative Research Grant (CRF-YCRG)*, 06/2025 – 05/2028, HK$ 3,537,000.     
 * PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
 * PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155.   
-(Early Career Award, 7 awardees in HK)    
+(Early Career Award 2023, only 7 awardees)    
 * PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
 
 Ph.D. Student Recruitment
