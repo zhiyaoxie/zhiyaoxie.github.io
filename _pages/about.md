@@ -44,15 +44,17 @@ Selected Research Directions
     * Arch-Stage Power Prediction:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}     
 
-* Foundation AI Model for VLSI Design    
+* Foundation AI for Circuit Design    
     * LLM-Aided Design Generation:         
-      &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASP-DAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
+      &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper}, RTLLM [ASPDAC'25](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}        
     * Pseudo-Circuits Generation:     
-      &ensp;&ensp; CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}      
+      &ensp;&ensp;   CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}      
 
 * AI-Assisted Layout Modeling 
-    * Routabitliy and IR drop Modeling: 
-      &ensp;&ensp; RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}, PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}, AutoDRC [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}     
+    * Routabitliy and IR Drop Modeling:     
+      &ensp;&ensp;   RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}, PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}, AutoDRC [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}     
+    * AI Model Reliablity:   
+     &ensp;&ensp;    DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper},    
 
 * CPU Prefetcher Design
     * Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}    
