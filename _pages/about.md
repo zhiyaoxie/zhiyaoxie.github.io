@@ -42,7 +42,7 @@ Selected Research Directions
     * RTL-Stage Cross-Design Timing Prediction:    
        &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper}    
     * Arch-Stage Power Prediction:     
-       &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}     
+       &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--paper}     
 
 * Foundation AI Model for VLSI Design    
     * LLM-Aided Design Generation:         
