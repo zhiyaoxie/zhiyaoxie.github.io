@@ -53,7 +53,7 @@ Selected Research Directions
 * AI-Assisted Pre-Layout Circuit Power and Timing Modeling 
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3}     
-    * RTL-Stage Cross-Design Timing Prediction:    
+    * RTL/Netlist-Stage Cross-Design Timing Prediction:    
        &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}, Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}     
     * Arch-Stage Power Prediction:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_FirePower.pdf){: .btn--test3}     
