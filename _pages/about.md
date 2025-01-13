@@ -67,13 +67,6 @@ Selected Research Directions
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
-Our Students   
-======
-Learn More about Some of My Supervised Students:   
-* Wenji Fang  [Wenji-Website](https://wenjifang.netlify.app/){: .btn--test1}   
-* Qijun Zhang  [Qijun-Website](https://zqj2333.github.io/){: .btn--code}    
-* Mengming Li [Mengming-Website](https://limengming.github.io/){: .btn--code}   
-
 
 Ph.D. Student Recruitment
 ======
