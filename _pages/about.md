@@ -70,9 +70,9 @@ Selected Research Directions
 Our Students   
 ======
 Learn More about My Supervised Students in HKUST: 
-* Wenji Fang [Wenji Fang](https://wenjifang.netlify.app/){: .btn--orange}
-* Qijun Zhang [Qijun Zhang](https://zqj2333.github.io/){: .btn--orange}
-* Mengming Li [Mengming Li](https://limengming.github.io/){: .btn--orange}
+* Wenji Fang  [Wenji-Website](https://wenjifang.netlify.app/){: .btn--test1}   
+* Qijun Zhang  [Qijun-Website](https://zqj2333.github.io/){: .btn--code}    
+* Mengming Li [Mengming-Website](https://limengming.github.io/){: .btn--code}   
 
 
 Ph.D. Student Recruitment
