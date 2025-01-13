@@ -67,6 +67,14 @@ Selected Research Directions
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
+Our Students   
+======
+Learn More about My Supervised Students in HKUST: 
+* Wenji Fang [Wenji Fang](https://wenjifang.netlify.app/){: .btn--orange}
+* Qijun Zhang [Qijun Zhang](https://zqj2333.github.io/){: .btn--orange}
+* Mengming Li [Mengming Li](https://limengming.github.io/){: .btn--orange}
+
+
 Ph.D. Student Recruitment
 ======
 * <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
