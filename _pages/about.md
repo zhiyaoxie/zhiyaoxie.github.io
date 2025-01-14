@@ -68,6 +68,15 @@ Selected Research Directions
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
 
+Meet Some of My Students  
+======
+* Qijun Zhang [Qijun-site](https://zqj2333.github.io/){: .btn--test5}    
+* Wenji Fang [Wenji-site](https://wenjifang.netlify.app/){: .btn--test5}   
+* Mengming Li  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
+
+The full list of our members is [here](https://zhiyaoxie.com/students/){: .btn--test5} 
+
+
 Ph.D. Student Recruitment
 ======
 * <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
