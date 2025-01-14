@@ -67,7 +67,7 @@ Selected Research Directions
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
-&ensp; The full list of publications is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
+&ensp;&ensp; The full publications list is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
 
 Meet Some of My Students  
 ======
