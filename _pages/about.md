@@ -67,7 +67,7 @@ Selected Research Directions
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
-&ensp;&ensp; The full publications list is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
+&ensp;&ensp;&ensp; The full publications list is [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
 
 Meet Some of My Students  
 ======
@@ -75,7 +75,7 @@ Meet Some of My Students
 * Wenji Fang <span style="color:DimGray; font-size:85%">(24'Fall)</span>  [Wenji-site](https://wenjifang.netlify.app/){: .btn--test5}   
 * Mengming Li <span style="color:DimGray; font-size:85%">(24'Fall)</span>  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
 
-&ensp; The full list of our group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
+&ensp;&ensp; The full list of our group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
 
 
 Ph.D. Student Recruitment
