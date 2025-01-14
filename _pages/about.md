@@ -71,9 +71,9 @@ Selected Research Directions
 
 Meet Some of My Students  
 ======
-* Qijun Zhang <span style="color:DimGray; font-size:85%">(23'Fall)</span>  [Qijun-site](https://zqj2333.github.io/){: .btn--test5}    
-* Wenji Fang <span style="color:DimGray; font-size:85%">(24'Fall)</span>  [Wenji-site](https://wenjifang.netlify.app/){: .btn--test5}   
-* Mengming Li <span style="color:DimGray; font-size:85%">(24'Fall)</span>  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
+* Qijun Zhang <span style="color:DimGray; font-size:85%">(Enrolled in 23'Fall)</span>  [Qijun-site](https://zqj2333.github.io/){: .btn--test5}    
+* Wenji Fang <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Wenji-site](https://wenjifang.netlify.app/){: .btn--test5}   
+* Mengming Li <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
 
 &ensp;&ensp;&ensp; The full list of our group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
 
