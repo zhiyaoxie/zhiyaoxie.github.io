@@ -15,6 +15,7 @@ author_profile: true
 
 * **Shang Liu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Beihang University
+    * Website: [Shang Liu](https://devinshang.github.io/github.io/){: .btn--orange}    
 
 * **Jing Wang** <span style="color:DimGray; font-size:85%">(24'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
