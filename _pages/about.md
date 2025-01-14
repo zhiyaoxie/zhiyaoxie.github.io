@@ -67,14 +67,15 @@ Selected Research Directions
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
+The full list of publications is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
 
 Meet Some of My Students  
 ======
-* Qijun Zhang [Qijun-site](https://zqj2333.github.io/){: .btn--test5}    
-* Wenji Fang [Wenji-site](https://wenjifang.netlify.app/){: .btn--test5}   
-* Mengming Li  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
+* Qijun Zhang <span style="color:DimGray; font-size:85%">(23'Fall)</span>  [Qijun-site](https://zqj2333.github.io/){: .btn--test5}    
+* Wenji Fang <span style="color:DimGray; font-size:85%">(24'Fall)</span>  [Wenji-site](https://wenjifang.netlify.app/){: .btn--test5}   
+* Mengming Li <span style="color:DimGray; font-size:85%">(24'Fall)</span>  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
 
-The full list of our members is [here](https://zhiyaoxie.com/students/){: .btn--test5} 
+The full list of our group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
 
 
 Ph.D. Student Recruitment
