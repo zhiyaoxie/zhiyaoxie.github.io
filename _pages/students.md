@@ -25,7 +25,7 @@ author_profile: true
 
 * **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in NUAA, Master in HKUST (GZ)     
-    * Website: [Wenji Fang](https://wenjifang.netlify.app/){: .btn--orange}    
+    * Website: [Wenji Fang](https://fangwenji.github.io/){: .btn--orange}    
 
 * **ZheAn (Jay) Mok**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in Columbia University, Master in UBC   
