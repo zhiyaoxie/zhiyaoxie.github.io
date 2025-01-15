@@ -82,15 +82,15 @@ Meet Some of My Students
 Ph.D. Student Recruitment
 ======
 * <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
-    * Please do check the [Recruitment](https://zhiyaoxie.github.io/recruitment/){: .btn--paper} for more details.   
-    * We still have multiple positions for Fall'25 enrollments. We are always hiring.     
-    * We welcome students with both CS and EE background, especially students with strong algorithm & programming & deep learning background. 
-    * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.
-    * We support RA or Master *only if* you intend to continue with a PhD in our team. 
+    * We still have multiple positions for Fall'25 and later enrollments. We are always hiring.     
+    * We welcome students with both CS and EE background.     
+    * We strongly prefer students that meet one of following criteria: 1) strong algorithm and programming background; 2) strong deep learning background; 3) strong computer architecture background; 4) rich research experience and/or publications.    
+    * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.     
+    * We support RA or Master *only if* you intend to continue with a PhD in our team.      
 
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
-    * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply. 
-    * No need to waste time writing a long email, just drop me your CV with grade.
+    * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply.   
+    * No need to waste time writing a long email, just drop me your CV with grade.    
 
 Why Joining Us?
 ======
