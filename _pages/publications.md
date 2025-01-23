@@ -9,7 +9,7 @@ All conference publications below are full (regular or invited) papers, not incl
 
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
 <span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Jing Wang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}        
+<span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span>   
 
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
 <span style="color:DimGray; font-size:85%"> Mengming Li, Qijun Zhang, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>    
