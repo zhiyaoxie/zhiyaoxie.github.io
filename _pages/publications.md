@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-All conference publications below are full (regular or invited) papers, not including extended abstract, late breaking results, student forumn papers, tutorials, etc.   
+All conference publications below are full (regular or invited) papers, not including extended abstract, late breaking results, student forumn papers/posters, tutorials, etc.   
 
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
 <span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Jing Wang, and <span style="color:black">**Zhiyao Xie**</span></span>    
