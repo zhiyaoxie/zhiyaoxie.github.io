@@ -76,21 +76,21 @@ Names of my supervised students in HKUST are underlined.
 
 * [ISLPED'24](https://www.islped.org/2024/index.php){: .btn} <span style="color:DarkBlue">Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</span>   
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
+<span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Newport Beach, CA, USA, 2024. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(8 nominees out of 167 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_Unleash.png){: .btn--orange}       
 
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
+<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), Almaden, CA, USA, 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_RTLCoder.pdf){: .btn--orange}    
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Timer){: .btn--code}
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2024. *(Acceptance rate=22%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Timer){: .btn--code}
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Accel-NASBench: Sustainable Benchmarking for Accelerator-Aware NAS</span>   
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, Linfeng Du, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC24_NASBench.pdf){: .btn--paper} [code](https://github.com/afzalxo/Accel-NASBench){: .btn--code}    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2024. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC24_NASBench.pdf){: .btn--paper} [code](https://github.com/afzalxo/Accel-NASBench){: .btn--code}    
 
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
