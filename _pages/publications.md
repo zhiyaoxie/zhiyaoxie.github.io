@@ -14,11 +14,11 @@ Names of my supervised students in HKUST are underlined.
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, NV, USA, 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
 
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
-<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, Jing Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">International Conference on Learning Representations (ICLR), Singapore, 2025. *(Acceptance rate=32%)*</span>   
 
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</span>    
-<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, Jing Wang, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10720939){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}        
 
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
@@ -134,7 +134,7 @@ Names of my supervised students in HKUST are underlined.
 <span style="font-size:95%">International Symposium on Physical Design (ISPD), 2023.</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3569052.3578927){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
 * [ISQED'23](https://www.isqed.org/){: .btn} <span style="color:DarkBlue">Security and Reliability Challenges in Machine Learning for EDA: Latest Advances <span style="font-size:90%">(Invited)</span></span>	     
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, <u>Tao Zhang<\u>, and <u>Yifeng Peng<\u></span>      
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, <u>Tao Zhang</u>, and <u>Yifeng Peng</u></span>      
 <span style="font-size:95%">International Symposium on Quality Electronic Design (ISQED), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10129359){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs</span>     
