@@ -7,13 +7,13 @@ author_profile: true
 
 All conference publications below are full (regular or invited) papers, not including extended abstract, late breaking results, student forumn papers/posters, tutorials, etc.   
 
-* [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
-<span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Jing Wang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span>   
-
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
 <span style="color:DimGray; font-size:85%"> Mengming Li, Qijun Zhang, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
+
+* [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
+<span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Jing Wang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span>   
 
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
@@ -29,32 +29,32 @@ All conference publications below are full (regular or invited) papers, not incl
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks </span>   
 <span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--paper}    
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage </span>   
 <span style="color:DimGray; font-size:85%"> Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitGen.pdf){: .btn--paper}   
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling </span>   
 <span style="color:DimGray; font-size:85%"> Qijun Zhang, Mengming Li, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_FirePower.pdf){: .btn--paper}   
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations </span>   
 <span style="color:DimGray; font-size:85%"> Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_Pointer.pdf){: .btn--paper}   
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> SMART-GPO: Gate-Level Sensitivity Measurement with Accurate Estimation for Glitch Power Optimization </span>   
 <span style="color:DimGray; font-size:85%"> Yikang Ouyang, Yuchao Wu, Dongsheng Zuo, Subhendu Roy, Tinghuan Chen, <span style="color:black">**Zhiyao Xie**</span>, and Yuzhe Ma</span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span>     
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_SMART.pdf){: .btn--paper}    
 <span style="font-size:90%; color:red">Best Paper Nomination</span>
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs </span>   
 <span style="color:DimGray; font-size:85%"> Zhiyuan Yan, Wenji Fang, Mengming Li, Min Li, Shang Liu, <span style="color:black">**Zhiyao Xie**</span>, and Hongce Zhang </span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_AssertLLM.pdf){: .btn--paper}    
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection</span>   
 <span style="color:DimGray; font-size:85%"> Chen-Chia Chang, Wan-Hsuan Lin, Jingyu Pan, Guanglei Zhou, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> 
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_PRICING.pdf){: .btn--paper}   
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
 <span style="color:DimGray; font-size:85%">Shang Liu, Yao Lu, Wenji Fang, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>     
