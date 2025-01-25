@@ -12,11 +12,11 @@ All conference publications below are full (regular or invited) papers, not incl
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, NV, USA, 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
 
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
-<span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Jing Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, Shang Liu, Jing Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span>   
 
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</span>    
-<span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Jing Wang, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10720939){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}        
 
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
