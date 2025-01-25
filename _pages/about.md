@@ -48,9 +48,9 @@ Selected Research Directions
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}        
     * Pseudo-Circuit Data Generation:     
-      &ensp;&ensp;   CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}      
+      &ensp;&ensp;   CircuitGen [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}      
     * General Circuit Encoder:     
-      &ensp;&ensp;   CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}          
+      &ensp;&ensp;   CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}          
 
 * AI-Assisted Pre-Layout Circuit Power and Timing Modeling 
     * RTL-Stage and On-Chip Power Modeling:    
