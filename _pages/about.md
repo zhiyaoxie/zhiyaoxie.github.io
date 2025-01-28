@@ -50,7 +50,7 @@ Selected Research Directions
     * General Circuit Encoder:     
       &ensp;&ensp;   CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}          
 
-* AI-Assisted Pre-Layout Circuit Power and Timing Modeling 
+* AI-Assisted Pre-Layout Circuit Modeling  
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3}     
     * RTL/Netlist-Stage Cross-Design Timing Prediction:    
