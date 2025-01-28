@@ -240,6 +240,8 @@ Patent
 
 Media Coverage
 ======
+* <span style="font-size:95%">"Three Professors Awarded HK$12.6 Million in RGC’s Collaborative Research Fund 2024/25"  
+*HKUST SENG Recognition*, 2025.</span> [News](https://seng.hkust.edu.hk/news/20250107/three-professors-awarded-hk126-million-rgcs-collaborative-research-fund-202425){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_CRF.pdf){: .btn--paper}   
 * <span style="font-size:95%">"SRC Computer Aided Test and Design Researchers Receive Big Awards,"  
 *SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [png](https://zhiyaoxie.github.io/files/media_SRC_CONNECTIONS.png){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
