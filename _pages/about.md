@@ -16,7 +16,7 @@ Zhiyao has received multiple prestigious awards, including the RGC HK Early Care
 
 Selected Award & Honors
 ======
-* ASP-DAC 2025 Best Paper Nomination, 2025    
+* ASP-DAC 2025 Best Paper Nomination, 2025 (13 out of 537)   
 * **Faculty Teaching Excellence Appreciation Award, ECE Department, 2023/24**   
 * ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024 (8 out of 167)   
 * IEEE LAD 2024 Best Paper Nomination, 2024 (6 out of 80)    
