@@ -7,6 +7,26 @@ author_profile: true
 
 All conference publications below are full (regular or invited) papers, not including extended abstract, late breaking results, student forumn papers/posters, tutorials, contests, etc.   
 
+* [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
+<span style="color:DimGray; font-size:85%">Qijun Zhang, Yao Lu, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>   
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>   
+
+* [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph</span>   
+<span style="color:DimGray; font-size:85%">Wenji Fang, Wenkai Li, Shang Liu, Yao Lu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>    
+
+* [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis</span>   
+<span style="color:DimGray; font-size:85%">Wenkai LI, Yao Lu, Wenji Fang, Jing WANG, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>    
+
+* [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits</span>   
+<span style="color:DimGray; font-size:85%">Shang Liu, Jing WANG, Wenji Fang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>    
+
+* [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ELF: Efficient Logic Synthesis by Pruning Redundancy in Refactoring</span>   
+<span style="color:DimGray; font-size:85%">Dimitrios Tsaras, Xing Li, Lei Chen, <span style="color:black">**Zhiyao Xie**</span></span>, and Mingxuan Yuan  
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>    
+
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
 <span style="color:DimGray; font-size:85%"> Mengming Li, Qijun Zhang, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
