@@ -24,7 +24,7 @@ All conference publications below are full (regular or invited) papers, not incl
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>    
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ELF: Efficient Logic Synthesis by Pruning Redundancy in Refactoring</span>   
-<span style="color:DimGray; font-size:85%">Dimitrios Tsaras, Xing Li, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>
+<span style="color:DimGray; font-size:85%">Dimitrios Tsaras, Xing Li, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025.</span>    
 
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
