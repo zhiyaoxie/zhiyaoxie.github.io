@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forumn papers/posters, short/brief papers, tutorials, contests, etc.   
+All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Yao Lu, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>   
