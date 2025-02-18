@@ -49,13 +49,13 @@ Selected Government Research Grants
 
 Selected Research Directions
 ======
-* Foundation AI Model for Circuit Design    
+Foundation AI Model for Circuit Design    
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}        
     * General Circuit Encoder:     
       &ensp;&ensp;   CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}          
 
-* AI-Assisted Pre-Layout Circuit Modeling  
+ AI-Assisted Pre-Layout Circuit Modeling  
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3}     
     * RTL/Netlist-Stage Cross-Design Timing Prediction:    
@@ -63,13 +63,13 @@ Selected Research Directions
     * Arch-Stage Power Prediction:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_FirePower.pdf){: .btn--test3}     
 
-* AI-Assisted Post-Layout Circuit Modeling 
+AI-Assisted Post-Layout Circuit Modeling 
     * Routabitliy and IR Drop Modeling:     
       &ensp;&ensp;   RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test2}, PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2}, AutoDRC [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test2}     
     * Reliablity and Security of AI Solutions:   
      &ensp;&ensp;    DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test2}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test2}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test2}     
 
-* CPU Prefetcher Design    
+CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
 &ensp;&ensp;&ensp; The full publications list is [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
