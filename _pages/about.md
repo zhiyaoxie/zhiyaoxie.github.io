@@ -51,7 +51,8 @@ Selected Research Directions
 ======
 * Foundation AI Model for Circuit Design    
     * LLM-Aided Circuit Design Generation:         
-      &ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}, RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4}     
+      &ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}, 
+      &ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a de facto standard benchmark)</span>   
     * General Circuit Encoder:     
       &ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
@@ -72,7 +73,7 @@ Selected Research Directions
 * AI-Assisted Post-Layout Circuit Modeling    
     * Routabitliy and IR Drop Modeling:     
       &ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test2} [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test2},       
-      &ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test2}   
+      &ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(100+ citations)</span>     
     * Reliablity and Security of AI-assisted Chip Design:   
      &ensp;&ensp;    DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test2}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test2}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test2},   
      &ensp;&ensp;   Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, FLNet [DAC'22](https://zhiyaoxie.com/files/DAC22_FL.pdf){: .btn--test2}     
