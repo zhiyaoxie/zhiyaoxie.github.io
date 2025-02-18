@@ -52,7 +52,7 @@ Selected Research Directions
 * Foundation AI Model for Circuit Design    
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4},    
-      &ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a de facto standard benchmark)</span>   
+      &ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, widely-adopted benchmark)</span>   
     * General Circuit Encoder:     
       &ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
@@ -60,14 +60,14 @@ Selected Research Directions
 
 * AI-Assisted Pre-Layout Circuit Modeling     
     * Arch-Stage Power Modeling:     
-       &ensp;&ensp;  <u>PANDA</u> [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, <u>AutoPower</u> [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
+       &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
     * RTL-Stage and On-Chip Power Modeling:    
-       &ensp;&ensp;  <u>APOLLO</u> [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, <u>DEEP</u> [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3},        
-       &ensp;&ensp;  <u>AgileDev</u> [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>, PROPHET [DAC'23](https://zhiyaoxie.com/files/DAC23_PROPHET.pdf){: .btn--test3} [TCAD'24](https://zhiyaoxie.com/files/TCAD24_OPM.pdf){: .btn--test3}     
+       &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3},        
+       &ensp;&ensp;  AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>, PROPHET [DAC'23](https://zhiyaoxie.com/files/DAC23_PROPHET.pdf){: .btn--test3} [TCAD'24](https://zhiyaoxie.com/files/TCAD24_OPM.pdf){: .btn--test3}     
     * RTL-Stage Timing Modeling:    
-       &ensp;&ensp;  <u>MasterRTL</u> [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, <u>RTL-Timer</u> [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}   
+       &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}   
     * Netlist-Stage Timing and Power Modeling:   
-       &ensp;&ensp;  <u>Net$^2$</u> [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, <u>ATLAS</u> [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3},   
+       &ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3},   
        &ensp;&ensp;  SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
 
 * AI-Assisted Post-Layout Circuit Modeling    
