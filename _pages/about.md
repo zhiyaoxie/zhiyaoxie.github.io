@@ -51,8 +51,8 @@ Selected Research Directions
 ======
 * Foundation AI Model for Circuit Design    
     * LLM-Aided Circuit Design Generation:         
-      &ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4},    
-      &ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a widely-adopted benchmark)</span>   
+      &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4},    
+      &ensp;&ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a widely-adopted benchmark)</span>   
     * General Circuit Encoder:     
       &ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
@@ -67,8 +67,7 @@ Selected Research Directions
     * RTL-Stage Timing Modeling:    
        &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}   
     * Netlist-Stage Timing and Power Modeling:   
-       &ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3},   
-       &ensp;&ensp;  SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
+       &ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}, SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
 
 * AI-Assisted Post-Layout Circuit Modeling    
     * Routabitliy and IR Drop Modeling:     
