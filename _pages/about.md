@@ -61,7 +61,7 @@ Selected Research Directions
     * Arch-Stage Power Modeling:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
     * RTL-Stage and On-Chip Power Modeling:    
-       &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3}     
+       &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3} (Best Paper), DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3} (Best Paper Nomination), PROPHET [DAC'23](https://zhiyaoxie.com/files/DAC23_PROPHET.pdf){: .btn--test3} [TCAD'24](https://zhiyaoxie.com/files/TCAD24_OPM.pdf){: .btn--test3}     
     * RTL-Stage Timing Modeling:    
        &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}   
     * Netlist-Stage Timing and Power Modeling:   
