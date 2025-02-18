@@ -49,13 +49,15 @@ Selected Government Research Grants
 
 Selected Research Directions
 ======
-Foundation AI Model for Circuit Design    
-* LLM-Aided Circuit Design Generation:         
-      &ensp;&ensp;   RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}        
-* General Circuit Encoder:     
-      &ensp;&ensp;   CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}          
+* Foundation AI Model for Circuit Design    
+    * LLM-Aided Circuit Design Generation:         
+      &ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}     
+    * General Circuit Encoder:     
+      &ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
+    * Synthetic Circuit Data Generation: 
+      &ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}    
 
-AI-Assisted Pre-Layout Circuit Modeling  
+** 2. AI-Assisted Pre-Layout Circuit Modeling**     
 * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3}     
 * RTL/Netlist-Stage Cross-Design Timing Prediction:    
@@ -63,7 +65,7 @@ AI-Assisted Pre-Layout Circuit Modeling
     * Arch-Stage Power Prediction:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, FirePower [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_FirePower.pdf){: .btn--test3}     
 
-AI-Assisted Post-Layout Circuit Modeling 
+AI-Assisted Post-Layout Circuit Modeling    
     * Routabitliy and IR Drop Modeling:     
       &ensp;&ensp;   RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test2}, PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2}, AutoDRC [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test2}     
     * Reliablity and Security of AI Solutions:   
