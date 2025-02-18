@@ -73,13 +73,13 @@ Selected Research Directions
     * Routabitliy and IR Drop Modeling:     
       &ensp;&ensp;   RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test2}, PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2}, AutoDRC [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test2}     
     * Reliablity and Security of AI-assisted Chip Design:   
-     &ensp;&ensp;    DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test2}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test2}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test2}     
-     &ensp;&ensp;   Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>
+     &ensp;&ensp;    DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test2}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test2}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test2},   
+     &ensp;&ensp;   Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>   
 
 * CPU Prefetcher Design    
     &ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}    
 
-&ensp;&ensp;&ensp; The full publications list is [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
+&ensp;&ensp;&ensp; Please check my full publications list [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
 
 Meet Some of My Students  
 ======
