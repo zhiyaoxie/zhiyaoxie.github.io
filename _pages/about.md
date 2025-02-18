@@ -67,7 +67,7 @@ Selected Research Directions
     * RTL-Stage Timing Modeling:    
        &ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}   
     * Netlist-Stage Timing and Power Modeling:   
-       &ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}, SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
+       &ensp;&ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}, SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
 
 * AI-Assisted Post-Layout Circuit Modeling    
     * Routabitliy and IR Drop Modeling:     
