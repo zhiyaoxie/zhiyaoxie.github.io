@@ -58,7 +58,7 @@ Selected Research Directions
       &ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}    
 
 * AI-Assisted Pre-Layout Circuit Modeling     
-    * Arch-Stage Power Prediction:     
+    * Arch-Stage Power Modeling:     
        &ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
     * RTL-Stage and On-Chip Power Modeling:    
        &ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3}, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3}     
