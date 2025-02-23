@@ -49,7 +49,7 @@ Selected Government Research Grants
 
 Selected Research Directions
 ======
-All our research works target one big goal: delivering better VLSI circuit design with lower NRE cost, less human effort, and shorter turn-around time.   
+All my research works target one big goal: delivering better VLSI circuit design with lower NRE cost, less human effort, and shorter turn-around time.   
 
 * Foundation AI Model for Circuit Design    
     * LLM-Aided Circuit Design Generation:         
