@@ -49,6 +49,8 @@ Selected Government Research Grants
 
 Selected Research Directions
 ======
+All our research works target one big goal: delivering better VLSI circuit design with lower NRE cost, less human effort, and shorter turn-around time.   
+
 * Foundation AI Model for Circuit Design    
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4},    
