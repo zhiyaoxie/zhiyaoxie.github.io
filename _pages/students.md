@@ -38,6 +38,7 @@ author_profile: true
 
 * **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in HIT (Shenzhen)   
+    * Website: [Wenkai Li](https://kevin333kevin.github.io/wenkaili.github.io/){: .btn--orange}    
 
 ----
 

@@ -90,6 +90,7 @@ Meet Some of My Students
 * Yao Lu <span style="color:DimGray; font-size:85%">(Enrolled in 23'Fall)</span>  [Yao-site](https://norayaolu.github.io/){: .btn--test5}    
 * Shang Liu <span style="color:DimGray; font-size:85%">(Enrolled in 23'Fall)</span> [Shang-site](https://devinshang.github.io/){: .btn--test5}   
 * Wenji Fang <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Wenji-site](https://fangwenji.github.io/){: .btn--test5}   
+* Wenkai Li <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Wenkai-site](https://kevin333kevin.github.io/wenkaili.github.io/){: .btn--test5}   
 * Mengming Li <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
 
 &ensp;&ensp;&ensp; The full list of our group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
