@@ -47,6 +47,10 @@ All conference publications below are full (regular or invited) papers, NOT incl
 <span style="color:DimGray; font-size:85%">Wenji Fang, Yao Lu, Shang Liu, Qijun Zhang, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10577671){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--code}     
 
+* [TODAES'25](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">LithoExp: Explainable Two-stage CNN-based Lithographic Hotspot Detection with Layout Defect Localization</span>    
+<span style="color:DimGray; font-size:85%">Cong Jiang, Haoyang Sun, Dan Feng, <span style="color:black">**Zhiyao Xie**</span></span>, Benjamin Tan, Kang Liu         
+<span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10577671){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TODAES25_LithoExp.pdf){: .btn--paper}     
+
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks </span>   
 <span style="color:DimGray; font-size:85%"> Wenji Fang, Shang Liu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--paper}    
