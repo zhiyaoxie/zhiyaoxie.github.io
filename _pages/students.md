@@ -12,6 +12,7 @@ author_profile: true
 
 * **Yao Lu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Southeast University, Master in Fudan University
+    * Website: [Yao Lu](https://norayaolu.github.io/){: .btn--orange}    
 
 * **Shang Liu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Beihang University
@@ -36,7 +37,7 @@ author_profile: true
     * Website: [Mengming Li](https://limengming.github.io/){: .btn--orange}    
 
 * **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
-    * Bachelor in HIT (Shenzhen), Master in HKU   
+    * Bachelor in HIT (Shenzhen)   
 
 ----
 
