@@ -7,6 +7,10 @@ author_profile: true
 
 All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
 
+* [ISCA'25](https://iscaconf.org/isca2025/){: .btn}Profile-Guided Temporal Prefetching<span style="color:DarkBlue"></span>   
+<span style="color:DimGray; font-size:85%">Mengming Li, Qijun Zhang, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>   
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2025. *(Acceptance rate=23%)*</span>   
+
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Yao Lu, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>   
