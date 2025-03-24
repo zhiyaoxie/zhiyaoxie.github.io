@@ -93,7 +93,7 @@ Meet Some of My Students
 * Wenkai Li <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Wenkai-site](https://kevin333kevin.github.io/wenkaili.github.io/){: .btn--test5}   
 * Mengming Li <span style="color:DimGray; font-size:85%">(Enrolled in 24'Fall)</span>  [Mengming-site](https://limengming.github.io/){: .btn--test5}   
 
-&ensp;&ensp;&ensp; The full list of our group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
+&ensp;&ensp;&ensp; The full list of our excellent group members is [here](https://zhiyaoxie.com/students/){: .btn--paper} 
 
 
 Ph.D. Student Recruitment
