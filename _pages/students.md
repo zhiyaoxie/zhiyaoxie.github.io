@@ -49,7 +49,7 @@ Alumni
 
 ----
 
-Please consider joining us!!
+I am fortunate to work with these excellent students. Please consider joining us!!
 
 
 
