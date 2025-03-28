@@ -1,9 +1,17 @@
 --- 
 layout: archive
-title: "Peer-Reviewed Publications"
+title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
+
+* <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
+<span style="color:DimGray; font-size:85%">Wenji Fang, Jing Wang, Yao Lu, Shang Liu, Yuchao Wu, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="font-size:95%">Preprint, March 2025.</span>   
+
+----
+
+Peer-Reviewed Publications
 
 All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
 
