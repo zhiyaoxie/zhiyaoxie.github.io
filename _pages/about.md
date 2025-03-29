@@ -52,6 +52,7 @@ Selected Research Directions
 Our Vision: Explore ground-breaking AI/EDA methods to deliver better VLSI circuit design with lower NRE cost, less human effort, and shorter turnaround time.   
 
 * Foundation AI Model for Circuit Design    
+    * A Survey of Circuit Foundation Model: Survey [Preprint'25](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--test4}, 
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4},    
       &ensp;&ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a widely-adopted benchmark)</span>   
