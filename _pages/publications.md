@@ -25,7 +25,7 @@ All conference publications below are full (regular or invited) papers, NOT incl
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis</span>   
-<span style="color:DimGray; font-size:85%">Wenkai LI, Yao Lu, Wenji Fang, Jing WANG, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="color:DimGray; font-size:85%">Wenkai Li, Yao Lu, Wenji Fang, Jing WANG, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>    
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph</span>   
