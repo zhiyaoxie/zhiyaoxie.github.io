@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
+* [Preprint](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Jing Wang, Yao Lu, Shang Liu, Yuchao Wu, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie**</span></span>    
-<span style="font-size:95%">Preprint (a 60-page survey on circuit foundation models, covering 130+ works), March 2025.</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper}    
+<span style="font-size:95%">Preprint (a 60-page survey on circuit foundation models, covering 130+ works), March 2025.</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}    
 
 ----
 
