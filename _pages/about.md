@@ -100,9 +100,8 @@ Meet Some of My Students
 Ph.D. Student Recruitment
 ======
 * <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
-    * We still have multiple positions for Fall'25 and later enrollments. We are always hiring.     
     * We welcome students with both CS and EE background.     
-    * We strongly prefer students that meet one of following criteria: 1) strong algorithm and programming background; 2) strong deep learning background; 3) strong computer architecture background; 4) rich research experience with publications.    
+    * We only take students that meet at least *one* of following criteria: 1) strong algorithm and programming background; 2) strong deep learning background; 3) strong computer architecture background; 4) rich research experience with publications.    
     * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.     
     * We support RA or Master *only if* you intend to continue with a PhD in our team.      
 
