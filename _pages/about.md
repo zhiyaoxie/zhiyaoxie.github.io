@@ -134,7 +134,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> Served as TPC member of DATE'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> Organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> 2 ICCAD'24 papers (OpenLLM-RTL) presented, 1 first-authored by Shang.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum in Shanghai.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum in Shanghai and LLM for Chip Design Forum by Southeast University.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Wenji, Mengming, Jay, and Wenkai joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> 1 ACM TRETS paper (FADO 2.0) accepted.</span>  
