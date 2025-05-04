@@ -110,18 +110,16 @@ Ph.D. Student Recruitment
     * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply.   
     * No need to waste time writing a long email, just drop me your CV with grade.    
 
-Why Joining Us?
-======
-* Our research topics are highly cross-disciplinary. You are expected to master deep knowledge on programming, data structure and algorithm, machine learning, EDA, VLSI design, etc. after you graduate. I believe many of these directions are in a very high demand in job market nowadays.  
-
-* HKUST is undoubtedly a top Asian university in science and engineering. Its world ranking was #34 in QS 2022, and #24 in QS 2022 Engineering & Technology. 
+* Why Joining Us?
+    * Our research topics are highly cross-disciplinary. You are expected to master deep knowledge on programming, data structure and algorithm, machine learning, EDA, VLSI design, etc. after you graduate. I believe many of these directions are in a very high demand in job market nowadays.  
+    * HKUST is undoubtedly a top Asian university in science and engineering. Its world ranking was #34 in QS 2022, and #24 in QS 2022 Engineering & Technology. 
 
 
 News
 ======
 [2025/03] 1 ISCA'25 paper (Prophet) accetped, first-authored by our student Mengming.    
 [2025/02] 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students. Congrats to Qijun, Wenkai, Wenji, Yao, Shang, and Dimi!    
-[2025/02] Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG lead by Zhiyao Xie is granted, securing HK$ 3,537,000. Thanks RGC!    
+[2025/02] Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG lead by Zhiyao Xie is granted, securing HK\$ 3,537,000. Thanks RGC!    
 [2025/01] 1 ICLR'25 paper (Alecto) accetped, first-authored by our student Wenji.       
 [2024/12] 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by our student Qijun.   
 [2024/10] 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by our student Shang.    
@@ -131,7 +129,7 @@ News
 [2024/08] 1 ISLPED'24 paper received Best Paper Nomintation, first-authored by our student Yao.     
 [2024/07] 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by our student Wenji.     
 [2024/06] 1 LAD'24 paper received Best Paper Nomintation, first-authored by our student Shang.     
-[2024/06] Research Grants Council (RGC) General Research Fund (GRF) lead by PI Zhiyao Xie is granted, securing HK$ 1,121,111. Thanks RGC!     
+[2024/06] Research Grants Council (RGC) General Research Fund (GRF) lead by PI Zhiyao Xie is granted, securing HK\$ 1,121,111. Thanks RGC!     
 [2024/06] 2 ICCAD'24 papers (OpenLLM-RTL) accepted, 1 first-authored by our student Shang.     
 [2024/02] 2 DAC'24 papers (RTL-Timer) accepted, 1 first-authored by our student Wenji.     
 [2024/01] Jing and Yugao joined HKUST as PhD students, welcome!     
@@ -145,5 +143,10 @@ News
 [2023/01] Zhiyao Xie received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.     
 [2022/06] 2 ICCAD'22 papers (DEEP, Robustify) accepted, 1 firsted-authored by Zhiyao.     
 [2022/06] Zhiyao Xie joined HKUST ECE as a tenure-track Assistant Professor.     
+
+
+
+
+
 
 
