@@ -117,9 +117,9 @@ Ph.D. Student Recruitment
 
 News
 ======
-* <span style="color:DimGray; font-size:85%">[2025/03]</span> 1 ISCA'25 paper (Prophet) accetped, first-authored by our student Mengming.    
-* <span style="color:DimGray; font-size:85%">[2025/02]</span> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students Qijun, Wenkai, Wenji, Yao, Shang, and Dimi.  
-* <span style="color:DimGray; font-size:85%">[2025/02]</span> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by PC Zhiyao Xie is granted, securing HKD 3,537,000. Thanks RGC!    
+* <span style="color:DimGray; font-size:85%">[2025/03] 1 ISCA'25 paper (Prophet) accetped, first-authored by our student Mengming. </span>   
+* <span style="color:DimGray; font-size:85%">[2025/02] 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students Qijun, Wenkai, Wenji, Yao, Shang, and Dimi. </span> 
+* <span style="color:DimGray; font-size:85%">[2025/02] Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by PC Zhiyao Xie is granted, securing HKD 3,537,000. Thanks RGC! </span>   
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> 1 ICLR'25 paper (Alecto) accetped, first-authored by our student Wenji.       
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by our student Qijun.   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by our student Shang.    
