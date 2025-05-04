@@ -123,7 +123,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> 1 ICLR'25 paper (Alecto) accetped, first-authored by our student Wenji.       
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by our student Qijun.   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by our student Shang.    
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> 7 ASP-DAC'25 paper accepted, 5 first-authored by our students. Congrats to Qijun, Wenji, Shang!     
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> 7 ASP-DAC'25 paper accepted, 5 first-authored by our students Qijun, Wenji, Shang.     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> Zhiyao Xie received the ECE Teaching Excellence Appreciation Award 2023-24.  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> Wenji, Mengming, ZheAn, and Wenkai joined HKUST as PhD students, welcome!   
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> 1 ISLPED'24 paper received Best Paper Nomintation, first-authored by our student Yao.   
