@@ -129,7 +129,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 1 ASP-DAC'25 Best Paper Nomination.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 7 ASP-DAC'25 paper presented (CircuitGen, CircuitEncoder, FirePower, AssertLLM, Pointer, SMART-GPO, PRICING), 5 first-authored by our students: Qijun, Wenji, Shang.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by Qijun.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:93%"> Delivered a guest UG lecture about "AI for EDA" for Peking University.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:93%"> Delivered a guest UG lecture "Introduction to AI-Assisted EDA" for Peking University.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by Shang.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> Served as TPC member of DATE'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> Organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
