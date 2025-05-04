@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Oral Presentations"
+title: "Invited Oral Presentations"
 permalink: /talks/
 author_profile: false
 ---
 
-Invited Oral Presentations
-======
 * **Introduction to AI-Assisted EDA: Prediction and Generation**
     * Guest Lecture in Peking University (PKU), 2024.   
 
