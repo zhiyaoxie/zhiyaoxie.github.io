@@ -124,7 +124,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> Zhiyao served as TPC track (Power and Timing Track) co-chair of ISEDA'25</span>  
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students: Qijun, Wenkai, Wenji, Yao, Shang, and Dimi.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by PC Zhiyao is granted, securing HKD 3,537,000. Thanks RGC! </span>    
-* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:90%"> 1 ASP-DAC'25 paper received Best Paper Nomintation.</span>        
+* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:90%"> 1 ASP-DAC'25 paper received Best Paper Nomination.</span>        
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:90%"> 1 ICLR'25 paper (Alecto) accetped, first-authored by Wenji.</span>          
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by Qijun.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by Shang.</span>      
@@ -133,10 +133,10 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> Zhiyao received the ECE Teaching Excellence Appreciation Award 2023-24.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> Wenji, Mengming, ZheAn, and Wenkai joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> 1 ACM TRETS paper accepted.</span>      
-* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> 1 ISLPED'24 paper received Best Paper Nomintation, first-authored by Yao.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ASPDAC'25 and joined in-person TPC meeting.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> 1 ISLPED'24 paper (AgileDev) received Best Paper Nomination, first-authored by Yao.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ASPDAC'25 and attended in-person TPC meeting.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by Wenji.</span>      
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 1 LAD'24 paper (RTL-Coder) received Best Paper Nomintation, first-authored by Shang.</span>      
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 1 LAD'24 paper (RTL-Coder) received Best Paper Nomination, first-authored by Shang.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> Research Grants Council (RGC) General Research Fund (GRF) led by PI Zhiyao is granted, securing HKD 1,121,111. Thanks RGC!</span>        
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 2 ICCAD'24 papers (OpenLLM-RTL) accepted, 1 first-authored by Shang.</span> 
@@ -157,7 +157,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:90%"> Zhiyao received the EDAA Outstanding Disseration Award 2023, at DATE'23 in Antwerp, Belgium.</span>         
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:90%"> 2 DAC'23 papers (PROPHET, PertNAS) accepted.</span>         
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:90%"> Zhiyao received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>   
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, firsted-authored by Zhiyao.</span>  
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by Zhiyao.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 FPGA'23 paper (FADO) accepted.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ASPDAC'23.</span>    
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation" </span>     
