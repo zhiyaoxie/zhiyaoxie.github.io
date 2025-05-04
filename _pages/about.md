@@ -146,7 +146,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>     
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 2 DAC'24 papers (RTL-Timer) presented, 1 first-authored by Wenji.</span>       
-* <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:90%"> I served as TPC member of ICCAD'24.</span>         
+* <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:90%"> I served as TPC member of ICCAD'24, MLCAD'24, and LAD'24.</span>         
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:90%"> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. Thanks! </span>    
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:90%"> 2 ASPDAC'24 papers (RTLLM, APPLE) presented, both first-authored by our students: Yao and Tao.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:90%"> Jing and Yugao formally joined HKUST as PhD students, welcome!</span>    
