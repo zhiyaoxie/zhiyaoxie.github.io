@@ -163,7 +163,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:93%"> Received the ACM Outstanding Disseration Award in EDA 2023, at DAC'23 in San Francisco, USA.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:93%"> Served as TPC member of ICCAD'23.</span>       
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:93%"> Received the EDAA Outstanding Disseration Award 2023, at DATE'23 in Antwerp, Belgium.</span>   
-* <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:93%"> 1 FPGA'23 paper (FADO) presented.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:93%"> 1 FPGA'23 paper (FADO) presented.</span>    
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:93%"> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by me.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 2 ICCAD'22 papers (DEEP, Robustify) presented, 1 first-authored by me.</span>      
