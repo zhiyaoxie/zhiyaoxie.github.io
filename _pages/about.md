@@ -117,11 +117,9 @@ Ph.D. Student Recruitment
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ICCAD'25.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> 1 ISCA'25 paper (Prophet) accetped, first-authored by Mengming.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:90%"> Zhiyao served as PhD Forum Co-Chair at DAC'25.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> Zhiyao served as TPC track (Computer-Aided Design Track) chair of GLSVLSI'25</span>  
-* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> Zhiyao served as TPC track (Power and Timing Track) co-chair of ISEDA'25</span>  
+* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> Zhiyao served as TPC track (Computer-Aided Design Track) chair of GLSVLSI'25 and TPC track (Power and Timing Track) co-chair of ISEDA'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students: Qijun, Wenkai, Wenji, Yao, Shang, and Dimi.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by PC Zhiyao is granted, securing HKD 3,537,000. Thanks RGC! </span>    
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:90%"> 1 ASP-DAC'25 paper received Best Paper Nomination.</span>        
