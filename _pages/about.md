@@ -49,9 +49,9 @@ Selected Government Research Grants
 
 Selected Research Directions
 ======
-Our lab explores ground-breaking data-driven EDA methods to deliver better VLSI circuit design with lower NRE cost, less human effort, and shorter turnaround time. We view *circuit* as a special data type and utilize its unique properties.   
+Our lab explores ground-breaking data-driven EDA methods to deliver better VLSI circuit design with lower NRE cost, less human effort, and shorter turnaround time. We view *circuit* as a special data type, then explore and utilize its unique data properties.   
 
-We are especially experienced in early-stage circuit *power* modeling, circuit *timing* modeling, and automated circuit *generation*.   
+We are especially experienced in early-stage circuit *power* modeling, circuit *timing* modeling, automated *circuit generation*, and CPU prefetcher design.  
 
 * Foundation AI Model for Circuit Design    
     * A Comprehensive Survey of Circuit Foundation Model in 2025: [Survey-CFM](https://zhiyaoxie.github.io/files/Survey_CFM.pdf){: .btn--test4}   
