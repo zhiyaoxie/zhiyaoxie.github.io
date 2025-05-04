@@ -148,12 +148,12 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:93%"> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:93%"> 2 DAC'24 papers (RTL-Timer) presented, 1 first-authored by *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:93%"> Served as TPC member of ICCAD'24, MLCAD'24, and LAD'24.</span>     
-* <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:93%"> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. Thanks! </span>    
+* <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:93%"> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. </span>    
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:93%"> 2 ASPDAC'24 papers (RTLLM, APPLE) presented, both first-authored by our students: *Yao* and *Tao*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:93%"> Jing and Yugao formally joined HKUST as PhD students, welcome!</span>   
-* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,603,950. Thanks!</span>   
-* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,087,200. Thanks!</span>    
-* <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,370,000. Thanks!</span>   
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,603,950. </span>   
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,087,200. </span>    
+* <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,370,000. </span>   
 * <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:93%"> 2 ICCAD'23 papers (MasterRTL, PANDA) presented, both first-authored by our students: *Qijun* and *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:93%"> Received the RGC HK Early Career Award 2023 (7 out of 525 early-career faculties), at RGC Award Presentation Ceremony, Hong Kong.</span>     
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> <span style="font-size:93%"> *Qijun*, *Yao*, and *Shang* formally joined HKUST as PhD students, welcome!</span>        
