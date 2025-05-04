@@ -111,7 +111,7 @@ Ph.D. Student Recruitment
     * No need to waste time writing a long email, just drop me your CV with grade.    
 
 * Why Joining Us?
-    * Our research topics are highly cross-disciplinary. You are expected to master deep knowledge on programming, data structure and algorithm, machine learning, EDA, VLSI design, etc. after you graduate. I believe many of these directions are in a very high demand in job market nowadays.  
+    * Our research is highly cross-disciplinary. You are expected to master deep knowledge on programming, data structure and algorithm, machine learning, EDA, VLSI design, etc. I believe these directions are in a very high demand in job market nowadays.  
     * HKUST is undoubtedly a top Asian university in science and engineering. Its world ranking was #34 in QS 2022, and #24 in QS 2022 Engineering & Technology. 
 
 
