@@ -58,10 +58,10 @@ We are especially experienced in 1) early-stage circuit *power* modeling, 2) ear
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations)</span>, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}    
       &ensp;&ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a widely-adopted benchmark)</span>   
-    * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
-      &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
       &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
+    * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
+      &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
 
 * Circuit Power and Timing Modeling     
     * Arch-Stage Power Modeling:     
