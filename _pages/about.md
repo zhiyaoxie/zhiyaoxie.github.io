@@ -149,6 +149,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:93%"> 2 DAC'24 papers (RTL-Timer) presented, 1 first-authored by *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:93%"> Served as TPC member of ICCAD'24, MLCAD'24, and LAD'24.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:93%"> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. </span>    
+* <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:93%"> Delivered invited talk about "AI-assisted EDA" at seminars of CUHK and CityU HK.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:93%"> 2 ASPDAC'24 papers (RTLLM, APPLE) presented, both first-authored by our students: *Yao* and *Tao*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:93%"> Jing and Yugao formally joined HKUST as PhD students, welcome!</span>   
 * <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,603,950. </span>   

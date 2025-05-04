@@ -20,6 +20,10 @@ author_profile: false
 * **AI-Assisted EDA: Predictive and Generative**
     * TPC Meeting Workshop of ASP-DAC, 2024.  
 
+* **Intelligent Digital Design and Implementation with ML in EDA**   
+    * Seminar, CSE Department, CUHK, 2024  
+    * Seminar, CityU HK, 2024
+
 * **Circuit Generation Based on Large Language Models**
     * CCF Chip Rising Star Forum, 2024  
 
