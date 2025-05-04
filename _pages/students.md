@@ -40,6 +40,10 @@ author_profile: true
     * Bachelor in HIT (Shenzhen)   
     * Website: [Wenkai Li](https://kevin333kevin.github.io/wenkaili.github.io/){: .btn--orange}    
 
+* **Dimitrios Tsaras**  <span style="color:DimGray; font-size:85%">(Part-Time, Co-Supervised)</span>
+    * Master in HKUST     
+
+
 ----
 
 Alumni    
