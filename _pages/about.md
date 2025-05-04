@@ -123,11 +123,11 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:93%"> Organized a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:93%"> Served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:93%"> 1 ICLR'25 paper (CircuitFusion) presented, first-authored by Wenji.</span>     
-* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:93%"> Served as TPC track (Computer-Aided Design Track) chair of GLSVLSI'25 and TPC track (Power and Timing Track) co-chair of ISEDA'25.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:93%"> Served as TPC track chair (Computer-Aided Design Track) of GLSVLSI'25 and TPC track co-chair (Power and Timing Track) of ISEDA'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:93%"> 1 HPCA'25 paper (Alecto) presented, first-authored by Mengming.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:93%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC! </span>  
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 1 ASP-DAC'25 Best Paper Nomination.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 7 ASP-DAC'25 paper presented (FirePower, CircuitGen, CircuitEncoder, Pointer, AssertLLM, SMART-GPO, PRICING), 5 first-authored by our students: Qijun, Wenji, Shang.</span>   
+* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 7 ASP-DAC'25 paper presented (CircuitGen, CircuitEncoder, FirePower, AssertLLM, Pointer, SMART-GPO, PRICING), 5 first-authored by our students: Qijun, Wenji, Shang.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by Qijun.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:93%"> Delivered a guest UG lecture about "AI for EDA" for Peking University.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by Shang.</span>   
