@@ -173,6 +173,8 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> Added to ACM TODAES Distinguished Reviewer Board.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:93%"> Joined HKUST ECE as a tenure-track Assistant Professor.</span>   
+* <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:93%"> Received Ph.D. Degree in Computer Engineering from Duke University.</span>   
+
 
 
 
