@@ -72,18 +72,17 @@ We are especially experienced in early power modeling, timing modeling, and circ
        &ensp;&ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}   
     * Netlist-Stage Power and Timing  Modeling:   
        &ensp;&ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}, SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
+    * Layout-Stage IR Drop Modeling:   
+      &ensp;&ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(100+ citations)</span>     
 
-
-* Circuit Routabitliy and IR Drop Modeling    
-     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test2} [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test2},       
-      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test2} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(100+ citations)</span>     
-
-* Reliablity and Security of AI-assisted Chip Design   
-     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test2}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test2}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test2},   
+* Other Directions   
+    * Circuit Routabitliy and IR Drop Modeling    
+     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test2} [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test2},       
+    * Reliablity and Security of AI-assisted Chip Design   
+     &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test2}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test2}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test2},   
      &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test2} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, FLNet [DAC'22](https://zhiyaoxie.com/files/DAC22_FL.pdf){: .btn--test2}     
-
-* CPU Prefetcher Design    
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;   Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}    
+    * CPU Prefetcher Design    
+    &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}    
 
 &ensp;&ensp;&ensp; Please check my full publications list [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
 
