@@ -155,7 +155,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,087,200. Thanks!</span>    
 * <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:93%"> An industrial project led by me is granted, securing HKD 1,370,000. Thanks!</span>   
 * <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:93%"> 2 ICCAD'23 papers (MasterRTL, PANDA) presented, both first-authored by our students: *Qijun* and *Wenji*.</span>   
-* <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:93%"> Received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.</span>        
+* <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:93%"> Received the RGC HK Early Career Award 2023 (7 out of 525 early-career faculties), at RGC Award Presentation Ceremony, Hong Kong.</span>     
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> <span style="font-size:93%"> *Qijun*, *Yao*, and *Shang* formally joined HKUST as PhD students, welcome!</span>        
 * <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:93%"> National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by me is granted, securing HKD 339,570. Thanks NSFC!</span>    
 * <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:93%"> Delivered invited talk about "power and timing modeling" at HiSilicon CPU Summit, HKUST-ICDC Symposium, and EDA Forum at HKUST (GZ).</span>    
@@ -171,7 +171,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by me.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 2 ICCAD'22 papers (DEEP, Robustify) presented, 1 first-authored by me.</span>      
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> Served as TPC member of ASPDAC'23.</span>  
-* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> Added to ACM TODAES Distinguished Reviewer Board.</span>  
+* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> Recognized by ACM TODAES Distinguished Reviewer Board.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:93%"> Joined HKUST ECE as a tenure-track Assistant Professor.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:93%"> Received Ph.D. Degree in Computer Engineering from Duke University.</span>   
