@@ -134,7 +134,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> Served as TPC member of DATE'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> Organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:93%"> 2 ICCAD'24 papers (OpenLLM-RTL) presented, 1 first-authored by Shang.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum in Shanghai.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> Wenji, Mengming, Jay, and Wenkai joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:93%"> 1 ACM TRETS paper (FADO 2.0) accepted.</span>  
@@ -157,7 +157,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:93%"> Received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.</span>        
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> <span style="font-size:93%"> Qijun, Yao, and Shang formally joined HKUST as PhD students, welcome!</span>        
 * <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:93%"> National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by me is granted, securing HKD 339,570. Thanks NSFC!</span>    
-* <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:93%"> Delivered invited talk about "power and timing modeling" in HiSilicon CPU Summit, HKUST-ICDC Symposium, and EDA Forum at HKUST (GZ).</span>    
+* <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:93%"> Delivered invited talk about "power and timing modeling" at HiSilicon CPU Summit, HKUST-ICDC Symposium, and EDA Forum at HKUST (GZ).</span>    
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:93%"> Research Grants Council (RGC) Early Career Scheme (ECS) led by me is granted, securing HKD 1,156,155. I am also awarded the RGC Early Career Award 2023, only 7 awardees in Hong Kong. Thanks RGC!</span>     
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:93%"> 2 DAC'23 papers (PROPHET, PertNAS) presented.</span>     
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:93%"> Received the ACM Outstanding Disseration Award in EDA 2023, at DAC'23 in San Francisco, USA.</span>   
