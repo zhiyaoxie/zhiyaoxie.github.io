@@ -56,7 +56,7 @@ We are especially experienced in early-stage circuit *power* modeling, circuit *
 * Foundation AI Model for Circuit Design    
     * A Comprehensive Survey of Circuit Foundation Model in 2025: [Survey-CFM](https://zhiyaoxie.github.io/files/Survey_CFM.pdf){: .btn--test4}   
     * LLM-Aided Circuit Design Generation:         
-      &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4},    
+      &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations)</span>, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}    
       &ensp;&ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a widely-adopted benchmark)</span>   
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
       &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
@@ -66,7 +66,7 @@ We are especially experienced in early-stage circuit *power* modeling, circuit *
 * Circuit Power and Timing Modeling     
     * Arch-Stage Power Modeling:     
        &ensp;&ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
-    * RTL-Stage and On-Chip Power and Timing Modeling:    
+    * RTL-Stage or On-Chip Power and Timing Modeling:    
        &ensp;&ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}          
        &ensp;&ensp;&ensp;  AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>, PROPHET [DAC'23](https://zhiyaoxie.com/files/DAC23_PROPHET.pdf){: .btn--test3} [TCAD'24](https://zhiyaoxie.com/files/TCAD24_OPM.pdf){: .btn--test3}     
        &ensp;&ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test3}    
@@ -75,13 +75,13 @@ We are especially experienced in early-stage circuit *power* modeling, circuit *
     * Layout-Stage IR Drop Modeling:   
       &ensp;&ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test3} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(100+ citations)</span>     
 
-* Other EDA & Design Directions   
+* Other EDA & Chip Design Directions   
     * Layout-Stage Routabitliy Modeling:   
      &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test1} [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test1},       
-    * Reliablity and Security of AI-assisted Chip Design:    
+    * Reliablity and Security of AI-assisted EDA Methods:    
      &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test1}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test1}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test1},   
      &ensp;&ensp;&ensp;  Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, FLNet [DAC'22](https://zhiyaoxie.com/files/DAC22_FL.pdf){: .btn--test1}     
-    * CPU Prefetcher Design:    
+    * Designing Cutting-Edge CPU Prefetchers:    
     &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}    
 
 &ensp;&ensp;&ensp; Please check my full publications list [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
