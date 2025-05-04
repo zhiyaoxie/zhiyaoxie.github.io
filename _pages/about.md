@@ -134,10 +134,11 @@ News
 [2024/02] 2 DAC'24 papers (RTL-Timer) accepted, 1 first-authored by our student Wenji.     
 [2024/01] Jing and Yugao formally joined HKUST as PhD students, welcome!     
 [2023/10] Zhiyao Xie received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.     
-[2023/09] 2 ASPDAC'24 papers (RTLLM, Apple) accepted, both first-authored by our students Yao and Tao.   
+[2023/09] 2 ASPDAC'24 papers (RTLLM, APPLE) accepted, both first-authored by our students Yao and Tao.   
 [2023/09] Qijun, Yao, and Shang formally joined HKUST as PhD students, welcome!     
+[2023/08] National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by PI Zhiyao Xie is granted, securing HK\$339,570. Thanks NSFC!    
 [2023/06] 2 ICCAD'23 papers (MasterRTL, PANDA) accepted, both first-authored by our student Qijun and Wenji.     
-[2023/06] Research Grants Council (RGC) Early Career Scheme (ECS) lead by PI Zhiyao Xie is granted, securing HK$ 1,156,155. Zhiyao also received the RGC Early Career Award 2023, only 7 awardees in HK. Thanks RGC!     
+[2023/06] Research Grants Council (RGC) Early Career Scheme (ECS) lead by PI Zhiyao Xie is granted, securing HK\$ 1,156,155. Zhiyao also received the RGC Early Career Award 2023, only 7 awardees in HK. Thanks RGC!     
 [2023/06] Zhiyao Xie received the ACM Outstanding Disseration Award in EDA 2023, at DAC'23 in San Francisco, USA.     
 [2023/03] Zhiyao Xie received the EDAA Outstanding Disseration Award 2023, at DATE'23 in Antwerp, Belgium.     
 [2023/02] 2 DAC'23 papers (PROPHET, PertNAS) accepted.     
