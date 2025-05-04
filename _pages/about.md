@@ -119,7 +119,7 @@ News
 ======
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> 1 ISCA'25 paper (Prophet) accetped, first-authored by our student Mengming.    
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students Qijun, Wenkai, Wenji, Yao, Shang, and Dimi.  
-* <span style="color:DimGray; font-size:85%">[2025/02]</span> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG lead by Zhiyao Xie is granted, securing HKD 3,537,000. Thanks RGC!    
+* <span style="color:DimGray; font-size:85%">[2025/02]</span> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by PC Zhiyao Xie is granted, securing HKD 3,537,000. Thanks RGC!    
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> 1 ICLR'25 paper (Alecto) accetped, first-authored by our student Wenji.       
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by our student Qijun.   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by our student Shang.    
@@ -128,17 +128,19 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> Wenji, Mengming, ZheAn, and Wenkai joined HKUST as PhD students, welcome!   
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> 1 ISLPED'24 paper received Best Paper Nomintation, first-authored by our student Yao.   
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by our student Wenji.   
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> 1 LAD'24 paper received Best Paper Nomintation, first-authored by our student Shang.   
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> Research Grants Council (RGC) General Research Fund (GRF) lead by PI Zhiyao Xie is granted, securing HKD 1,121,111. Thanks RGC!     
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> 1 LAD'24 paper (RTL-Coder) received Best Paper Nomintation, first-authored by our student Shang.   
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> Research Grants Council (RGC) General Research Fund (GRF) led by PI Zhiyao Xie is granted, securing HKD 1,121,111. Thanks RGC!     
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> 2 ICCAD'24 papers (OpenLLM-RTL) accepted, 1 first-authored by our student Shang.     
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> 2 DAC'24 papers (RTL-Timer) accepted, 1 first-authored by our student Wenji.     
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> Jing and Yugao formally joined HKUST as PhD students, welcome!     
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> An industrial projects led PI Zhiyao Xie is granted, securing HKD 1,087,200. Thanks our supports! 
+* <span style="color:DimGray; font-size:85%">[2023/11]</span> An industrial projects led PI Zhiyao Xie is granted, securing HKD 1,370,000. Thanks our supports! 
 * <span style="color:DimGray; font-size:85%">[2023/10]</span> Zhiyao Xie received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.     
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> 2 ASPDAC'24 papers (RTLLM, APPLE) accepted, both first-authored by our students Yao and Tao.   
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> Qijun, Yao, and Shang formally joined HKUST as PhD students, welcome!     
 * <span style="color:DimGray; font-size:85%">[2023/08]</span> National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by PI Zhiyao Xie is granted, securing HKD 339,570. Thanks NSFC!    
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> 2 ICCAD'23 papers (MasterRTL, PANDA) accepted, both first-authored by our student Qijun and Wenji.     
-* <span style="color:DimGray; font-size:85%">[2023/06]</span> Research Grants Council (RGC) Early Career Scheme (ECS) lead by PI Zhiyao Xie is granted, securing HKD 1,156,155. Zhiyao also received the RGC Early Career Award 2023, only 7 awardees in HK. Thanks RGC!     
+* <span style="color:DimGray; font-size:85%">[2023/06]</span> Research Grants Council (RGC) Early Career Scheme (ECS) led by PI Zhiyao Xie is granted, securing HKD 1,156,155. Zhiyao also received the RGC Early Career Award 2023, only 7 awardees in Hong Kong. Thanks RGC!     
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> Zhiyao Xie received the ACM Outstanding Disseration Award in EDA 2023, at DAC'23 in San Francisco, USA.     
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> Zhiyao Xie received the EDAA Outstanding Disseration Award 2023, at DATE'23 in Antwerp, Belgium.     
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> 2 DAC'23 papers (PROPHET, PertNAS) accepted.     
