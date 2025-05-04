@@ -125,7 +125,8 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:93%"> 1 ICLR'25 paper (CircuitFusion) presented, first-authored by Wenji.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:93%"> Served as TPC track chair (Computer-Aided Design Track) of GLSVLSI'25 and TPC track co-chair (Power and Timing Track) of ISEDA'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:93%"> 1 HPCA'25 paper (Alecto) presented, first-authored by Mengming.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:93%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC! </span>  
+* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:93%"> Released a comprehensive 60-page survey about foundation AI model for chip design (circuit foundation model), covering 130+ recent works.</span>   
+* <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:93%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC and our Co-PIs! </span>  
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 1 ASP-DAC'25 Best Paper Nomination.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:93%"> 7 ASP-DAC'25 paper presented (CircuitGen, CircuitEncoder, FirePower, AssertLLM, Pointer, SMART-GPO, PRICING), 5 first-authored by our students: Qijun, Wenji, Shang.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by Qijun.</span>   
