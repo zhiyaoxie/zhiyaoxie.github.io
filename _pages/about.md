@@ -117,10 +117,10 @@ Ph.D. Student Recruitment
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:90%"> I organized a tutorial about "foundation AI model for EDA" at DAC'25.</span>       
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:90%"> I organized a tutorial about "foundation AI model for EDA" at DAC'25, Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>       
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:90%"> 1 ISCA'25 paper (Prophet) presented, first-authored by Mengming.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:90%"> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented, all 5 first-authored by our students: Qijun, Wenkai, Wenji, Yao, Shang, and Dimi.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:90%"> I organized a panel about "foundation AI model for EDA" at ISEDA'25.</span>       
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:90%"> I organized a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:90%"> I served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:90%"> 1 ICLR'25 paper (CircuitFusion) presented, first-authored by Wenji.</span>          
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> I served as TPC track (Computer-Aided Design Track) chair of GLSVLSI'25 and TPC track (Power and Timing Track) co-chair of ISEDA'25.</span>     
@@ -131,11 +131,11 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by Qijun.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by Shang.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> I served as TPC member of DATE'25.</span>    
-* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> I organized a special session about "open-source circuit data" at ICCAD'24.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> I organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> 2 ICCAD'24 papers (OpenLLM-RTL) presented, 1 first-authored by Shang.</span> 
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> I received the ECE Teaching Excellence Appreciation Award 2023-24.</span>     
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> Wenji, Mengming, ZheAn, and Wenkai joined HKUST as PhD students, welcome!</span>  
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> 1 ACM TRETS paper accepted.</span>      
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> Wenji, Mengming, Jay, and Wenkai joined HKUST as PhD students, welcome!</span>  
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> 1 ACM TRETS paper (FADO 2.0) accepted.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> 1 ISLPED'24 (AgileDev) Best Paper Nomination, first-authored by Yao.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> I served as TPC member of ASPDAC'25 and attended in-person TPC meeting.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:90%"> I hosted the HKUST-HKUST(GZ) Joint EDA workshop.</span>      
@@ -165,7 +165,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by me.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 2 ICCAD'22 papers (DEEP, Robustify) presented, 1 first-authored by me.</span>         
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> I served as TPC member of ASPDAC'23.</span>    
-* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation" </span>     
+* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me </span>     
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:90%"> I joined HKUST ECE as a tenure-track Assistant Professor.</span>        
 
 
