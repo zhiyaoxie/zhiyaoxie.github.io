@@ -117,50 +117,51 @@ Ph.D. Student Recruitment
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:90%"> I served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> 1 ISCA'25 paper (Prophet) accetped, first-authored by Mengming.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> Zhiyao served as TPC track (Computer-Aided Design Track) chair of GLSVLSI'25 and TPC track (Power and Timing Track) co-chair of ISEDA'25.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:90%"> I served as TPC track (Computer-Aided Design Track) chair of GLSVLSI'25 and TPC track (Power and Timing Track) co-chair of ISEDA'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) accepted, all 5 first-authored by our students: Qijun, Wenkai, Wenji, Yao, Shang, and Dimi.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by PC Zhiyao is granted, securing HKD 3,537,000. Thanks RGC! </span>    
+* <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:90%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC! </span>    
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:90%"> 1 ASP-DAC'25 paper received Best Paper Nomination.</span>        
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:90%"> 1 ICLR'25 paper (Alecto) accetped, first-authored by Wenji.</span>          
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by Qijun.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by Shang.</span>      
-* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> Zhiyao served as TPC member of DATE'25.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> I served as TPC member of DATE'25.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:90%"> I organized a special session about "open-source circuit data" at ICCAD'24.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> 7 ASP-DAC'25 paper accepted, 5 first-authored by our students: Qijun, Wenji, Shang.</span>        
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> Zhiyao received the ECE Teaching Excellence Appreciation Award 2023-24.</span>     
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> I received the ECE Teaching Excellence Appreciation Award 2023-24.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> Wenji, Mengming, ZheAn, and Wenkai joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:90%"> 1 ACM TRETS paper accepted.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> 1 ISLPED'24 paper (AgileDev) received Best Paper Nomination, first-authored by Yao.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ASPDAC'25 and attended in-person TPC meeting.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:90%"> I served as TPC member of ASPDAC'25 and attended in-person TPC meeting.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by Wenji.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 1 LAD'24 paper (RTL-Coder) received Best Paper Nomination, first-authored by Shang.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> Research Grants Council (RGC) General Research Fund (GRF) led by PI Zhiyao is granted, securing HKD 1,121,111. Thanks RGC!</span>        
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>        
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:90%"> 2 ICCAD'24 papers (OpenLLM-RTL) accepted, 1 first-authored by Shang.</span> 
-* <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ICCAD'24.</span>         
+* <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:90%"> I served as TPC member of ICCAD'24.</span>         
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:90%"> 2 DAC'24 papers (RTL-Timer) accepted, 1 first-authored by Wenji.</span>       
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:90%"> Jing and Yugao formally joined HKUST as PhD students, welcome!</span>    
-* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:90%"> An industrial projects led PI Zhiyao is granted, securing HKD 1,603,950. Thanks!</span>    
-* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:90%"> An industrial projects led PI Zhiyao is granted, securing HKD 1,087,200. Thanks!</span>    
-* <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:90%"> An industrial projects led PI Zhiyao is granted, securing HKD 1,370,000. Thanks!</span>    
-* <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:90%"> Zhiyao received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.</span>        
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:90%"> An industrial projects led by me is granted, securing HKD 1,603,950. Thanks!</span>    
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:90%"> An industrial projects led by me is granted, securing HKD 1,087,200. Thanks!</span>    
+* <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:90%"> An industrial projects led by me is granted, securing HKD 1,370,000. Thanks!</span>    
+* <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:90%"> I received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.</span>        
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> <span style="font-size:90%"> 2 ASPDAC'24 papers (RTLLM, APPLE) accepted, both first-authored by our students: Yao and Tao.</span>      
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> <span style="font-size:90%"> Qijun, Yao, and Shang formally joined HKUST as PhD students, welcome!</span>        
-* <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:90%"> National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by PI Zhiyao is granted, securing HKD 339,570. Thanks NSFC!</span>    
+* <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:90%"> National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by me is granted, securing HKD 339,570. Thanks NSFC!</span>    
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:90%"> 2 ICCAD'23 papers (MasterRTL, PANDA) accepted, both first-authored by our students: Qijun and Wenji.</span>     
-* <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:90%"> Research Grants Council (RGC) Early Career Scheme (ECS) led by PI Zhiyao is granted, securing HKD 1,156,155. Zhiyao also received the RGC Early Career Award 2023, only 7 awardees in Hong Kong. Thanks RGC!</span>     
-* <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:90%"> Zhiyao received the ACM Outstanding Disseration Award in EDA 2023, at DAC'23 in San Francisco, USA.</span>   
-* <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ICCAD'23.</span>               
-* <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:90%"> Zhiyao received the EDAA Outstanding Disseration Award 2023, at DATE'23 in Antwerp, Belgium.</span>         
+* <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:90%"> Research Grants Council (RGC) Early Career Scheme (ECS) led by me is granted, securing HKD 1,156,155. I also received the RGC Early Career Award 2023, only 7 awardees in Hong Kong. Thanks RGC!</span>     
+* <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:90%"> I received the ACM Outstanding Disseration Award in EDA 2023, at DAC'23 in San Francisco, USA.</span>   
+* <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:90%"> I served as TPC member of ICCAD'23.</span>               
+* <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:90%"> I received the EDAA Outstanding Disseration Award 2023, at DATE'23 in Antwerp, Belgium.</span>         
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:90%"> 2 DAC'23 papers (PROPHET, PertNAS) accepted.</span>         
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:90%"> Zhiyao received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>   
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by Zhiyao.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:90%"> I received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>   
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by me.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:90%"> 1 FPGA'23 paper (FADO) accepted.</span>  
-* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> Zhiyao served as TPC member of ASPDAC'23.</span>    
+* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> I served as TPC member of ASPDAC'23.</span>    
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:90%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation" </span>     
-* <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:90%"> 2 ICCAD'22 papers (DEEP, Robustify) accepted, 1 firsted-authored by Zhiyao.</span>         
-* <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:90%"> Zhiyao joined HKUST ECE as a tenure-track Assistant Professor.</span>        
+* <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:90%"> 2 ICCAD'22 papers (DEEP, Robustify) accepted, 1 first-authored by me.</span>         
+* <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:90%"> I joined HKUST ECE as a tenure-track Assistant Professor.</span>        
 
 
 
