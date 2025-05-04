@@ -123,18 +123,18 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> 1 ICLR'25 paper (Alecto) accetped, first-authored by our student Wenji.       
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> 1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by our student Qijun.   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by our student Shang.    
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> 7 ASP-DAC'25 paper accepted, 5 first-authored by our students. Congrats to Qijun, Wenji, Shang!      
- [2024/09] Zhiyao Xie received the ECE Teaching Excellence Appreciation Award 2023-24.     
- [2024/09] Wenji, Mengming, ZheAn, and Wenkai formally joined HKUST as PhD students, welcome!     
- [2024/08] 1 ISLPED'24 paper received Best Paper Nomintation, first-authored by our student Yao.     
- [2024/07] 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by our student Wenji.     
- [2024/06] 1 LAD'24 paper received Best Paper Nomintation, first-authored by our student Shang.     
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> 7 ASP-DAC'25 paper accepted, 5 first-authored by our students. Congrats to Qijun, Wenji, Shang!     
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> Zhiyao Xie received the ECE Teaching Excellence Appreciation Award 2023-24.  
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> Wenji, Mengming, ZheAn, and Wenkai joined HKUST as PhD students, welcome!   
+* <span style="color:DimGray; font-size:85%">[2024/08]</span> 1 ISLPED'24 paper received Best Paper Nomintation, first-authored by our student Yao.   
+* <span style="color:DimGray; font-size:85%">[2024/07]</span> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by our student Wenji.   
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> 1 LAD'24 paper received Best Paper Nomintation, first-authored by our student Shang.   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> Research Grants Council (RGC) General Research Fund (GRF) lead by PI Zhiyao Xie is granted, securing HKD 1,121,111. Thanks RGC!     
-* [2024/06] 2 ICCAD'24 papers (OpenLLM-RTL) accepted, 1 first-authored by our student Shang.     
-* [2024/02] 2 DAC'24 papers (RTL-Timer) accepted, 1 first-authored by our student Wenji.     
-* [2024/01] Jing and Yugao formally joined HKUST as PhD students, welcome!     
-* [2023/10] Zhiyao Xie received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.     
-* [2023/09] 2 ASPDAC'24 papers (RTLLM, APPLE) accepted, both first-authored by our students Yao and Tao.   
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> 2 ICCAD'24 papers (OpenLLM-RTL) accepted, 1 first-authored by our student Shang.     
+* <span style="color:DimGray; font-size:85%">[2024/02]</span> 2 DAC'24 papers (RTL-Timer) accepted, 1 first-authored by our student Wenji.     
+* <span style="color:DimGray; font-size:85%">[2024/01]</span> Jing and Yugao formally joined HKUST as PhD students, welcome!     
+* <span style="color:DimGray; font-size:85%">[2023/10]</span> Zhiyao Xie received the RGC HK Early Career Award 2023, at RGC Award Presentation Ceremony, Hong Kong.     
+* <span style="color:DimGray; font-size:85%">[2023/09]</span> 2 ASPDAC'24 papers (RTLLM, APPLE) accepted, both first-authored by our students Yao and Tao.   
 * [2023/09] Qijun, Yao, and Shang formally joined HKUST as PhD students, welcome!     
 * [2023/08] National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF) led by PI Zhiyao Xie is granted, securing HKD 339,570. Thanks NSFC!    
 * [2023/06] 2 ICCAD'23 papers (MasterRTL, PANDA) accepted, both first-authored by our student Qijun and Wenji.     
