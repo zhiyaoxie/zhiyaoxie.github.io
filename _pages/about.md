@@ -178,7 +178,7 @@ News
 
 ----
 
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (AI for EDA security) published, first-authored by me.</span>  
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 1 IEEE TCAD'25 paper (security of AI for EDA) published, first-authored by me.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:93%"> 2 ICCAD'22 papers (DEEP, Robustify) presented, 1 first-authored by me.</span>      
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> Served as TPC member of ASPDAC'23.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> Recognized by ACM TODAES Distinguished Reviewer Board.</span>  
