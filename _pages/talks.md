@@ -2,7 +2,7 @@
 layout: archive
 title: "Invited Oral Presentations"
 permalink: /talks/
-author_profile: false
+author_profile: true
 ---
 
 * **Introduction to AI-Assisted EDA: Prediction and Generation**
