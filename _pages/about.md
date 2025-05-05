@@ -171,9 +171,9 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/07]</span> <span style="font-size:93%"> 2 DAC'23 papers (PROPHET, PertNAS) presented.</span>     
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:93%"> Research Grants Council (RGC) Early Career Scheme (ECS) led by me is granted, securing HKD 1,156,155. Also awarded the RGC Early Career Award 2023. Thanks RGC!</span>   
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:93%"> Served as TPC member of ICCAD'23.</span>       
-* <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:93%"> Received the EDAA Outstanding Disseration Award 2023 (4 awardee worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
+* <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:93%"> Received the EDAA Outstanding Disseration Award 2023 (4 awardees worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:93%"> 1 FPGA'23 paper (FADO) presented.</span>    
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:93%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master students.</span>   
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:93%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:93%"> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
 
 ----
@@ -185,7 +185,5 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:93%"> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:93%"> Joined HKUST ECE as a tenure-track Assistant Professor.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:93%"> Received Ph.D. Degree from Duke University.</span>   
-
-
 
 
