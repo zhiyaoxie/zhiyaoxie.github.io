@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "Zhiyao Xie (谢知遥)" 
 author_profile: true
 redirect_from: 
