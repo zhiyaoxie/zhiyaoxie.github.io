@@ -127,7 +127,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> 1 HPCA'25 paper (Alecto) presented, first-authored by *Mengming*.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> Released a comprehensive 60-page survey about foundation AI model for chip design (circuit foundation model), covering 130+ recent works.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:95%"> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC and our Co-PIs! </span>  
-* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:95%"> 1 ASP-DAC'25 Best Paper Nomination.</span>   
+* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:95%"> 1 ASP-DAC'25 Best Paper Nomination (SMART-GPO).</span>   
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:95%"> 7 ASP-DAC'25 paper presented (CircuitGen, CircuitEncoder, FirePower, AssertLLM, Pointer, SMART-GPO, PRICING), 5 first-authored by our students: *Qijun*, *Wenji*, *Shang*.</span>   
 
 ----
@@ -142,11 +142,11 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> *Wenji*, *Mengming*, *Jay*, and *Wenkai* joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> 1 ACM TRETS paper (FADO 2.0) accepted.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> 1 ISLPED'24 (AgileDev) Best Paper Nomination, first-authored by *Yao*.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> 1 ISLPED'24 Best Paper Nomination (AgileDev), first-authored by *Yao*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> Served as TPC member of ASPDAC'25 and attended in-person TPC meeting.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> Organized HKUST-HKUST(GZ) Joint EDA workshop.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by *Wenji*.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> 1 LAD'24 (RTL-Coder) Best Paper Nomination, first-authored by *Shang*.</span>      
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> 1 LAD'24 Best Paper Nomination (RTL-Coder), first-authored by *Shang*.</span>      
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> 2 DAC'24 papers (RTL-Timer) presented, 1 first-authored by *Wenji*.</span>   
