@@ -51,9 +51,9 @@ Selected Research Directions
 ======
 My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLSI circuit design with lower NRE cost, less human effort, and shorter turnaround time. We view *circuit* as a special data type, then explore and utilize its unique data properties.    
 
-We are especially experienced in 1) early-stage circuit *power* modeling, 2) early-stage circuit *timing* modeling, 3) automated *circuit generation*, and 4) CPU prefetcher design.    
+We are especially experienced in 1) early-stage circuit *power* evaluation, 2) early-stage circuit *timing* evaluation, 3) automated *circuit generation*, and 4) CPU prefetcher design.    
 
-* Foundation AI Model for Circuit Design    
+* Foundation AI Model for Circuit Generation and Evaluation   
     * A Comprehensive Survey of Circuit Foundation Model in 2025: [Survey-CFM](https://zhiyaoxie.github.io/files/Survey_CFM.pdf){: .btn--test4}   
     * LLM-Aided Circuit Design Generation:         
       &ensp;&ensp;&ensp;  RTLCoder [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations)</span>, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}    
@@ -63,7 +63,7 @@ We are especially experienced in 1) early-stage circuit *power* modeling, 2) ear
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
       &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
 
-* Circuit Power and Timing Modeling     
+* Circuit Power and Timing Evaluation   
     * Arch-Stage Power Modeling:     
        &ensp;&ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
     * RTL-Stage or On-Chip Power and Timing Modeling:    
