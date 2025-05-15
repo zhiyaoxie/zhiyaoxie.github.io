@@ -14,7 +14,7 @@ Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong Universi
 
 Zhiyao has received multiple prestigious awards, including the RGC HK Early Career Award 2023 (7 out of 525), ACM Outstanding Dissertation Award in EDA 2023 (1 awardee per year), EDAA Outstanding Dissertation Award 2023 (4 awardees per year), MICRO 2021 Best Paper Award (1st-author, 1 out of 430), ASP-DAC 2023 Best Paper Award (2 out of 328), WAIC Yufan Award (Brilliant Star) 2023, ACM SIGDA SRF 2022 Best Research Poster Award, and 4 more best paper nominations. He also received Faculty Teaching Excellence Appreciation Award 2023/24 for his computer architecture course. He has published 50+ refereed papers, more than half in top EDA venues (DAC, ICCAD, IEEE TCAD) and some others in top computer architecture venues (MICRO, ISCA, HPCA).   
 
-He served as the conference TPC Member/TPC Track Chair/Student Forum Chair of DAC, ICCAD, DATE, ASPDAC, MLCAD, LAD, ISEDA, GLSVLSI; the journal reviewer of IEEE TCAD, ACM TODAES (Distinguished Reviewer), IEEE TCAS-I, IEEE TVLSI, IEEE ESL, IEEE Design & Test, IEEE CAL, IEEE SPL, ACM JETC, ACM TECS, Springer JCST; and as the Chair of IEEE CEDA Hong Kong.   
+He served as the conference TPC Member/TPC Track Chair/Student Forum Chair of DAC, ICCAD, DATE, ASPDAC, MLCAD, LAD, ISEDA, GLSVLSI; the journal reviewer of IEEE TCAD, ACM TODAES (Distinguished Reviewer), IEEE TCAS-I, IEEE TVLSI, IEEE ESL, IEEE Design & Test, IEEE CAL, IEEE SPL, ACM JETC, ACM TECS, Springer JCST; and as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.   
 
 
 Selected Award & Honors
