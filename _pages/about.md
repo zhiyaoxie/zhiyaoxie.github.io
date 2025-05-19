@@ -118,8 +118,10 @@ Ph.D. Student Recruitment
 News
 ====== 
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> Organized a 3-hour tutorial about "foundation AI model and its applications in EDA" at DAC'25. Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> Served as the PhD Forum Co-Chair and a Session Chair at DAC'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> 1 ISCA'25 paper (Prophet) presented, first-authored by *Mengming*.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented, all 5 first-authored by our students: *Qijun*, *Wenkai*, *Wenji*, *Yao*, *Shang*, and *Dimi*.</span>   
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Served as ISEDA'25 Session Chair. Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at ISEDA'25 special session.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> Served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>   
