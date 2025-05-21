@@ -94,7 +94,7 @@ All conference publications below are full (regular or invited) papers, NOT incl
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_PRICING.pdf){: .btn--paper}   
 
 * [ISEDA'25](https://www.eda2.com/iseda/index.html){: .btn} <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>   
-<span style="color:DimGray; font-size:85%"> Mengming Li, <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> Mengming Li, Wenji Fang, Qijun Zhang, <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
