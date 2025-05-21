@@ -27,6 +27,9 @@ author_profile: true
 * **Circuit Generation Based on Large Language Models**
     * CCF Chip Rising Star Forum, 2024  
 
+* **RTLCoder: Design RTL Generation with Open-Source LLM Solution**    
+    * HKUST-HKUST (GZ) Joint EDA Workshop, 2024   
+
 * **Early Timing and Power Evaluation for VLSI Design**
     * HKUST Integrated Circuit Design Center (ICDC) Annual Symposium, 2023. 
     * Huawei HiSilicon CPU Summit, 2023
