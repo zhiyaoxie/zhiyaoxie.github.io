@@ -106,7 +106,7 @@ All conference publications below are full (regular or invited) papers, NOT incl
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024. *(Acceptance rate=24%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD24_EDALearn.pdf){: .btn--paper}     
 
 * [SCIS'24](https://link.springer.com/journal/11432){: .btn} <span style="color:DarkBlue">Large Circuit Models: Opportunities and Challenges</span>    
-<span style="color:DimGray; font-size:85%"> Lei Chen, Yiqi Chen, Zhufei Chu, Wenji Fang, Tsung-Yi Ho, Ru Huang, Yu Huang, Sadaf Khan, Min Li, Xingquan Li, Yu Li, Yun Liang, Jinwei Liu, Yi Liu, Yibo Lin, Guojie Luo, Hongyang Pan, Zhengyuan Shi, Guangyu Sun, Dimitrios Tsaras, Runsheng Wang, Ziyi Wang, Xinming Wei, <span style="color:black">**Zhiyao Xie**</span>, Qiang Xu, Chenhao Xue, Junchi Yan, Jun Yang, Bei Yu, Mingxuan Yuan, Evangeline F.Y. Young, Xuan Zeng, Haoyi Zhang, Zuodong Zhang, Yuxiang Zhao, Hui-Ling Zhen, Ziyang Zheng, Binwu Zhu, Keren Zhu, and Sunan Zou (alphabetical order)</span>    
+<span style="color:DimGray; font-size:85%"> One of the 40+ authors in alphabetical order</span>    
 <span style="font-size:95%">Science China Information Sciences (SCIS), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/SCIS24_LCM.pdf){: .btn--paper}    
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Data-pattern-based Predictive On-Chip Power Meter in DNN Accelerator</span>    
