@@ -40,6 +40,18 @@ author_profile: true
     * Bachelor in HIT (Shenzhen)   
     * Website: [Wenkai Li](https://kevin333kevin.github.io/wenkaili.github.io/){: .btn--orange}    
 
+* **Yuchao Wu**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
+    * Bachelor in HUST, Master in HKUST (GZ)    
+
+* **Buqing Xu**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
+    * Bachelor in Southeast University, Master in Tsinghua University        
+
+* **Ziyan Guo**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
+    * Bachelor in HIT (GZ)  
+
+* **Zhicheng Guo**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
+    * Master in Xidian University    
+
 * **Dimitrios Tsaras**  <span style="color:DimGray; font-size:85%">(Part-Time Student)</span>
     * Master in HKUST     
 
