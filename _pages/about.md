@@ -144,7 +144,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> 2 ICCAD'24 papers (OpenLLM-RTL) presented, 1 first-authored by *Shang*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum in Shanghai and LLM for Chip Design Forum by Southeast University.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> *Wenji*, *Mengming*, *Jay*, and *Wenkai* joined HKUST as PhD students, welcome!</span>  
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> *Wenji*, *Mengming*, *Jay*, and *Wenkai* formally joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> 1 ACM TRETS paper (FADO 2.0) accepted.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> 1 ISLPED'24 Best Paper Nomination (AgileDev), first-authored by *Yao*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> Served as TPC member of ASPDAC'25 and attended in-person TPC meeting.</span>   
@@ -158,7 +158,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. </span>    
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> Delivered invited talk about "AI-assisted EDA" at seminars of CUHK and CityU HK.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> 2 ASPDAC'24 papers (RTLLM, APPLE) presented, both first-authored by our students: *Yao* and *Tao*.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> Jing and Yugao formally joined HKUST as PhD students, welcome!</span>   
+* <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> *Jing* and *Yugao* formally joined HKUST as PhD students, welcome!</span>   
 
 ----
 
@@ -179,7 +179,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> 1 FPGA'23 paper (FADO) presented.</span>    
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> 2 ASPDAC'23 papers presented. 1 won the Best Paper Award, the other 1 received Best Paper Nomination.</span>  
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student.</span>   
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student. Later on they joined my group as PhD student.</span>   
 
 ----
 
