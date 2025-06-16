@@ -177,8 +177,9 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:95%"> Served as TPC member of ICCAD'23.</span>       
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:95%"> Received the EDAA Outstanding Disseration Award 2023 (4 awardees worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> 1 FPGA'23 paper (FADO) presented.</span>    
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> 2 ASPDAC'23 papers presented. 1 won the Best Paper Award, the other 1 received Best Paper Nomination.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student.</span>   
 
 ----
 
