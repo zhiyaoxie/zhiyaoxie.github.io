@@ -16,13 +16,13 @@ Peer-Reviewed Publications
 
 All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
 
+* [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
+<span style="color:DimGray; font-size:85%">Wenji Fang, Jing Wang, Yao Lu, Shang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2504.09485){: .btn--paper}     
+
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
 <span style="color:DimGray; font-size:85%">Jing Wang, Shang Liu, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span>   
-
-* [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
-<span style="color:DimGray; font-size:85%">Wenji Fang, Jing Wang, Yao Lu, Shang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/pdf/2504.09485){: .btn--paper}     
 
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%">Mengming Li, Qijun Zhang, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>   
@@ -38,7 +38,7 @@ All conference publications below are full (regular or invited) papers, NOT incl
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Wenkai Li, Shang Liu, Yao Lu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://arxiv.org/abs/2504.09260){: .btn--paper}     
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits</span>   
 <span style="color:DimGray; font-size:85%">Shang Liu, Jing Wang, Wenji Fang, and <span style="color:black">**Zhiyao Xie**</span></span>	   

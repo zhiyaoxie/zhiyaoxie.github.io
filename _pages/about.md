@@ -61,7 +61,8 @@ We are especially experienced in 1) early-stage circuit *power* evaluation, 2) e
     * Synthetic Circuit Data Generation:      
       &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
-      &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
+      &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4},  
+      &ensp;&ensp;&ensp;  CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
 
 * Circuit Power and Timing Evaluation   
     * Arch-Stage Power Modeling:     
