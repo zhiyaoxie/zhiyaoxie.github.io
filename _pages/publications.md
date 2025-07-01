@@ -16,6 +16,14 @@ Peer-Reviewed Publications
 
 All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
 
+* [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
+<span style="color:DimGray; font-size:85%">Jing Wang, Shang Liu, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [Arxiv](https://arxiv.org/pdf/2504.09485){: .btn--paper}     
+
+* [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
+<span style="color:DimGray; font-size:85%">Wenji Fang, Jing Wang, Yao Lu, Shang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [Arxiv](https://arxiv.org/pdf/2504.09485){: .btn--paper}     
+
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%">Mengming Li, Qijun Zhang, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>   
 <span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2025. *(Acceptance rate=23%)*</span>   
