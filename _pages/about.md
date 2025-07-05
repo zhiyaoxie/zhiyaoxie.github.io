@@ -78,16 +78,6 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
 
 
 
-Selected Government Research Grants  
-======
-* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Collaborative Research Fund (CRF) YCRG*, 06/2025 – 05/2028, HK$ 3,537,000.     
-* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
-* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155.   
-(RGC Early Career Award 2023, only 7 awardees in HK)    
-* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
-
-
-
 Meet Some of My Students  
 ======
 * Qijun Zhang <span style="color:DimGray; font-size:85%">(Enrolled in 23'Fall)</span>  [Qijun-site](https://zqj2333.github.io/){: .btn--test5}    
@@ -181,6 +171,17 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:95%"> Joined HKUST ECE as a tenure-track Assistant Professor.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:95%"> Received Ph.D. Degree from Duke University.</span>   
+
+
+
+Selected Government Research Grants  
+======
+* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Collaborative Research Fund (CRF) YCRG*, 06/2025 – 05/2028, HK$ 3,537,000.     
+* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
+* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155.   
+(RGC Early Career Award 2023, only 7 awardees in HK)    
+* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
+
 
 
 
