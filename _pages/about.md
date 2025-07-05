@@ -103,10 +103,10 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at Synopsys (Shanghai), the 5th ACCESS Symposium, and the ISEDA'25 special session.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as ISEDA'25 Session Chair.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC track co-chair (Power and Timing Track) and a Session Chair of ISEDA'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'25.</span>    
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ICLR'25 paper (CircuitFusion) presented in Singapore, first-authored by my student *Wenji*.</span>     
-* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC track chair (Computer-Aided Design Track) of GLSVLSI'25 and TPC track co-chair (Power and Timing Track) of ISEDA'25.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC track chair (Computer-Aided Design Track) of GLSVLSI'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 HPCA'25 paper (Alecto) presented in Las Vegas, first-authored by my student *Mengming*.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> Released a comprehensive 60-page survey about foundation AI model for chip design (circuit foundation model), covering 130+ recent works.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC and our Co-PIs! </span>  
@@ -157,18 +157,18 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) Early Career Scheme (ECS) led by me is granted, securing HKD 1,156,155. Thanks RGC!</span>   
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'23.</span>       
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the EDAA Outstanding Disseration Award 2023 (4 awardees worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
-* <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 FPGA'23 paper (FADO) presented.</span>    
+* <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 FPGA'23 paper (FADO) presented in Monterey, US.</span>    
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'23 papers presented in Tokyo. 1 won the Best Paper Award, the other 1 received Best Paper Nomination.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student. Later on they joined my group as PhD student.</span>   
 
 ----
 
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (security of AI for EDA) published, first-authored by me.</span>  
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'22 papers (DEEP, Robustify) presented in San Diego, 1 first-authored by me.</span>      
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (security of AI for EDA) published, first-authored by myself.</span>  
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'22 papers (DEEP, Robustify) presented in San Diego, 1 first-authored by myself.</span>      
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ASPDAC'23.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Recognized by ACM TODAES Distinguished Reviewer Board.</span>  
-* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me.</span>   
+* <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:95%"> Joined HKUST ECE as a tenure-track Assistant Professor.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:95%"> Received Ph.D. Degree from Duke University.</span>   
 
