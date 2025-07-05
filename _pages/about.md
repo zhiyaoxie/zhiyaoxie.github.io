@@ -101,9 +101,9 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the PhD Forum Co-Chair and a Session Chair at DAC'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented in San Francisco, all 5 first-authored by my students: *Qijun*, *Wenkai*, *Wenji*, *Yao*, *Shang*, and *Dimi*.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for Synopsys (Shanghai) and at the 5th ACCESS Symposium.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at Synopsys (Shanghai), the 5th ACCESS Symposium, and the ISEDA'25 special session.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as ISEDA'25 Session Chair. Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at ISEDA'25 special session.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as ISEDA'25 Session Chair.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'25.</span>    
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ICLR'25 paper (CircuitFusion) presented in Singapore, first-authored by my student *Wenji*.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC track chair (Computer-Aided Design Track) of GLSVLSI'25 and TPC track co-chair (Power and Timing Track) of ISEDA'25.</span>  
@@ -138,14 +138,14 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'24, MLCAD'24, and LAD'24.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. </span>    
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered invited talk about "AI-assisted EDA" at CUHK and CityU HK.</span>    
-* <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'24 papers (RTLLM, APPLE) presented in , both first-authored by my students: *Yao* and *Tao*.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'24 papers (RTLLM, APPLE) presented in Incheon, Korea, both first-authored by my students: *Yao* and *Tao*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> *Jing* and *Yugao* formally joined HKUST as PhD students, welcome!</span>   
 
 ----
 
 * <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> An industrial project led by me is granted, securing HKD 1,603,950. </span>   
 * <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> An industrial project led by me is granted, securing HKD 1,087,200. </span>    
-* <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'23 papers (MasterRTL, PANDA) presented, both first-authored by my students: *Qijun* and *Wenji*.</span>   
+* <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'23 papers (MasterRTL, PANDA) presented in San Francisco, both first-authored by my students: *Qijun* and *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> An industrial project led by me is granted, securing HKD 1,370,000. </span>   
 * <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span>  Received the RGC HK Early Career Award 2023 (only 7 out of 525 early-career faculties), at RGC Award Presentation Ceremony in Hong Kong.</span>     
 * <span style="color:DimGray; font-size:85%">[2023/09]</span> <span style="font-size:95%"> *Qijun*, *Yao*, and *Shang* formally joined HKUST as PhD students, welcome!</span>        
@@ -153,19 +153,19 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/08]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered invited talk about "power and timing modeling" at HiSilicon CPU Summit, HKUST-ICDC Symposium, and EDA Forum at HKUST (GZ).</span>    
 * <span style="color:DimGray; font-size:85%">[2023/07]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ACM Outstanding Disseration Award in EDA 2023 (1 awardee worldwide per year), at DAC'23 in San Francisco, USA.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/07]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the WAIC Yufan "Brilliant Star" Award 2023 (10 excellent AI researchers under age of 35) in Shanghai.</span>   
-* <span style="color:DimGray; font-size:85%">[2023/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 DAC'23 papers (PROPHET, PertNAS) presented.</span>     
+* <span style="color:DimGray; font-size:85%">[2023/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 DAC'23 papers (PROPHET, PertNAS) presented in San Francisco.</span>     
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) Early Career Scheme (ECS) led by me is granted, securing HKD 1,156,155. Thanks RGC!</span>   
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'23.</span>       
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the EDAA Outstanding Disseration Award 2023 (4 awardees worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 FPGA'23 paper (FADO) presented.</span>    
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'23 papers presented. 1 won the Best Paper Award, the other 1 received Best Paper Nomination.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'23 papers presented in Tokyo. 1 won the Best Paper Award, the other 1 received Best Paper Nomination.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student. Later on they joined my group as PhD student.</span>   
 
 ----
 
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (security of AI for EDA) published, first-authored by me.</span>  
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'22 papers (DEEP, Robustify) presented, 1 first-authored by me.</span>      
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'22 papers (DEEP, Robustify) presented in San Diego, 1 first-authored by me.</span>      
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ASPDAC'23.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Recognized by ACM TODAES Distinguished Reviewer Board.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by me.</span>   
