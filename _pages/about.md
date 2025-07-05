@@ -38,7 +38,7 @@ Selected Award & Honors
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
 
-Selected Onging Government Research Grants  
+Selected Government Research Grants  
 ======
 * PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Collaborative Research Fund (CRF) YCRG*, 06/2025 – 05/2028, HK$ 3,537,000.     
 * PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
@@ -119,11 +119,11 @@ Ph.D. Student Recruitment
 News
 ====== 
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for the Summer School about LLM for Chip Design in Beijing.</span>    
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. Thanks RGC!</span>  
-* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> Organized a 3-hour tutorial about "foundation AI model and its applications in EDA" at DAC'25. Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:DimGray">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. Thanks RGC!</span>  
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Blue">(Talk)</span> Organized a 3-hour tutorial about "foundation AI model and its applications in EDA" at DAC'25. Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> Served as the PhD Forum Co-Chair and a Session Chair at DAC'25.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> 1 ISCA'25 paper (Prophet) presented, first-authored by *Mengming*.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented, all 5 first-authored by my students: *Qijun*, *Wenkai*, *Wenji*, *Yao*, *Shang*, and *Dimi*.</span>   
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISCA'25 paper (Prophet) presented, first-authored by *Mengming*.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented, all 5 first-authored by my students: *Qijun*, *Wenkai*, *Wenji*, *Yao*, *Shang*, and *Dimi*.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for Synopsys (Shanghai) and at the 5th ACCESS Symposium.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
