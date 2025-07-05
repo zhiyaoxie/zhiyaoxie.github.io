@@ -103,8 +103,9 @@ Meet Some of My Students
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School about "LLM for Chip Design" in Beijing.</span>    
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. Thanks RGC!</span>  
+* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'25 papers (GenEDA, HLSDebugger) to be presented in Nov, both first-authored by my students: *Wenji* and *Jing*.</span>   
+* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School about "LLM for Chip Design" in Beijing.</span>    
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISCA'25 paper (Prophet) presented, first-authored by *Mengming*.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized a 3-hour tutorial about "Foundation AI model and its applications in EDA" at DAC'25. Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the PhD Forum Co-Chair and a Session Chair at DAC'25.</span>  
