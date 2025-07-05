@@ -118,15 +118,15 @@ Ph.D. Student Recruitment
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for the Summer School about LLM for Chip Design in Beijing.</span>    
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for the Summer School about LLM for Chip Design in Beijing.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Blue">(Service)</span> Organized a 3-hour tutorial about "foundation AI model and its applications in EDA" at DAC'25. Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:SkyBlue">[Service]</span> Served as the PhD Forum Co-Chair and a Session Chair at DAC'25.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">[Service]</span> Served as the PhD Forum Co-Chair and a Session Chair at DAC'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISCA'25 paper (Prophet) presented, first-authored by *Mengming*.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented, all 5 first-authored by my students: *Qijun*, *Wenkai*, *Wenji*, *Yao*, *Shang*, and *Dimi*.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:LightBlue">[Service]</span> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for Synopsys (Shanghai) and at the 5th ACCESS Symposium.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" for Synopsys (Shanghai) and at the 5th ACCESS Symposium.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">[Service]</span> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> Served as ISEDA'25 Session Chair. Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at ISEDA'25 special session.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> Served as TPC member of ICCAD'25 and PhD Forum Co-Chair at DAC'25.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ICLR'25 paper (CircuitFusion) presented, first-authored by *Wenji*.</span>     
@@ -134,19 +134,19 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 HPCA'25 paper (Alecto) presented, first-authored by *Mengming*.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> Released a comprehensive 60-page survey about foundation AI model for chip design (circuit foundation model), covering 130+ recent works.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/02]</span> <span style="font-size:95%"> <span style="color:Crimson">[Grant]</span> Research Grants Council (RGC) Collaborative Research Fund (CRF)-YCRG led by me is granted, securing HKD 3,537,000. Thanks RGC and our Co-PIs! </span>  
-* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'25 Best Paper Nomination (SMART-GPO).</span>   
+* <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:95%"> <span style="color:DarkOrange">(Award)</span> 1 ASP-DAC'25 Best Paper Nomination (SMART-GPO).</span>   
 * <span style="color:DimGray; font-size:85%">[2025/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 7 ASP-DAC'25 paper presented (CircuitGen, CircuitEncoder, FirePower, AssertLLM, Pointer, SMART-GPO, PRICING), 5 first-authored by my students: *Qijun*, *Wenji*, *Shang*.</span>   
 
 ----
 
-* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Green">[Paper]</span>1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by *Qijun*.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span>1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by *Qijun*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> Delivered a guest UG lecture "Introduction to AI-Assisted EDA" for Peking University.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by *Shang*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> Served as TPC member of DATE'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> Organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> 2 ICCAD'24 papers (OpenLLM-RTL) presented, 1 first-authored by *Shang*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum in Shanghai and LLM for Chip Design Forum by Southeast University.</span>    
-* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
+* <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> <span style="color:DarkOrange">(Award)</span> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> *Wenji*, *Mengming*, *Jay*, and *Wenkai* formally joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> 1 ACM TRETS paper (FADO 2.0) accepted.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> 1 ISLPED'24 Best Paper Nomination (AgileDev), first-authored by *Yao*.</span>  
@@ -165,8 +165,8 @@ News
 
 ----
 
-* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:95%"> An industrial project led by me is granted, securing HKD 1,603,950. </span>   
-* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:95%"> An industrial project led by me is granted, securing HKD 1,087,200. </span>    
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> An industrial project led by me is granted, securing HKD 1,603,950. </span>   
+* <span style="color:DimGray; font-size:85%">[2023/12]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> An industrial project led by me is granted, securing HKD 1,087,200. </span>    
 * <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:95%"> 2 ICCAD'23 papers (MasterRTL, PANDA) presented, both first-authored by my students: *Qijun* and *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/11]</span> <span style="font-size:95%"> An industrial project led by me is granted, securing HKD 1,370,000. </span>   
 * <span style="color:DimGray; font-size:85%">[2023/10]</span> <span style="font-size:95%"> Received the RGC HK Early Career Award 2023 (only 7 out of 525 early-career faculties), at RGC Award Presentation Ceremony in Hong Kong.</span>     
