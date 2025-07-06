@@ -135,10 +135,12 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 DAC'24 papers (RTL-Timer) presented in San Francisco, 1 first-authored by my student *Wenji*.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'24, MLCAD'24, and LAD'24.</span>     
+* <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'24.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. </span>    
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered invited talk about "AI-assisted EDA" at CUHK and CityU HK.</span>    
+* <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of MLCAD'24 and LAD'24.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'24 papers (RTLLM, APPLE) presented in Incheon, Korea, both first-authored by my students: *Yao* and *Tao*.</span>  
+* <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Start to serve as the Treasurer of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> *Jing* and *Yugao* formally joined HKUST as PhD students, welcome!</span>   
 
 ----
