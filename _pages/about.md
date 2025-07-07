@@ -136,7 +136,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 DAC'24 papers (RTL-Timer) presented in San Francisco, 1 first-authored by my student *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'24.</span>     
-* <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> HKUST-HKUST (GZ) project is granted, securing HKD 500,000 for my share. </span>    
+* <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> HKUST-HKUST (GZ) project is granted. The project at HK-side is led by me, securing HKD 500,000 for my share. </span>    
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered invited talk about "AI-assisted EDA" at CUHK and CityU HK.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/02]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of MLCAD'24 and LAD'24.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'24 papers (RTLLM, APPLE) presented in Incheon, Korea, both first-authored by my students: *Yao* and *Tao*.</span>  
@@ -173,18 +173,6 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/06]</span> <span style="font-size:95%"> Joined HKUST ECE as a tenure-track Assistant Professor.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:95%"> Received Ph.D. Degree from Duke University.</span>   
-
-
-
-Selected Government Research Grants  
-======
-* PC, “Intelligent and Agile Integrated Circuit Design Methodologies Based on Circuit Foundation Models,” *Research Grants Council (RGC) Collaborative Research Fund (CRF) YCRG*, 06/2025 – 05/2028, HK$ 3,537,000.     
-* PI, “Register-Transfer Level Early Timing Prediction and Optimization by Machine Learning in Electronic Design Automation,” *Research Grants Council (RGC) General Research Fund (GRF)*, 01/2025 – 12/2027, HK$ 1,121,111.     
-* PI, “Reliable Machine Learning Techniques for Electronic Design Automation: Understanding Circuit Layouts from Data Perspective,” *Research Grants Council (RGC) Early Career Scheme (ECS)*, 09/2023 – 08/2026, HK$ 1,156,155.   
-(RGC Early Career Award 2023, only 7 awardees in HK)    
-* PI, “Early-Design-Stage Power Estimation and Runtime On-Chip Power Monitoring for VLSI Design,” *National Natural Science Foundation of China (NSFC) Young Scientists Fund (YSF)*, 01/2024 – 12/2026, HK$ 339,570.      
-
-
 
 
 Ph.D. Student Recruitment
