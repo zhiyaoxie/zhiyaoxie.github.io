@@ -94,7 +94,7 @@ Meet Some of My Students
 News
 ====== 
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'25 papers (GenEDA, HLSDebugger) to be presented in Nov in Munich, both first-authored by my students: *Wenji* and *Jing*.</span>   
-* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School about "LLM for Chip Design" in Beijing.</span>    
+* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a keynote "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School about "LLM for Processor Design" in Beijing, hosted by ICT, CAS.</span>    
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the Student Research Forum Chair, TPC Member, and Organizing Committee Member of ASPDAC'26.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISCA'25 paper (Prophet) presented in Tokyo, first-authored by my student *Mengming*.</span>  
