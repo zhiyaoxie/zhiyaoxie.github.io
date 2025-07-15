@@ -128,7 +128,7 @@ All conference publications below are full (regular or invited) papers, NOT incl
 
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%">Shang Liu, Wenji Fang, Yao Lu, Qijun Zhang, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
+<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691788){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [pdf2](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_RTLCoder.pdf){: .btn--orange}    
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
