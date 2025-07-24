@@ -126,12 +126,12 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> *Wenji*, *Mengming*, *Jay*, and *Wenkai* formally joined HKUST as PhD students, welcome!</span>  
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ACM TRETS paper (FADO 2.0) accepted.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> ISLPED'24 Best Paper Nomination, first-author is my student *Yao*.</span> 
+* <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> ISLPED'24 Best Paper Nomination (8 out of 167), first-author is my student *Yao*.</span> 
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISLPED'24 paper presented (AgileDev) in Newport Beach, US, first-authored by my student *Yao*. Acceptance rate=23%.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member and Session Chair of ASPDAC'25. </span>   
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized HKUST-HKUST(GZ) Joint EDA workshop as the Chair. Speakers inlcude Prof Yuzhe Ma, Prof Hongce Zhang, Prof Zhe Lin, Prof Xingquan Li, Prof Yangdi Lyu, and myself.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by my student *Wenji*.</span>   
-* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> LAD'24 Best Paper Nomination, first-author is my student *Shang*.</span> 
+* <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> LAD'24 Best Paper Nomination (6 out of 50), first-author is my student *Shang*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 LAD'24 Paper (RTL-Coder) presented in San Jose, US, first-authored by my student *Shang*.</span>          
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,121,111. Thanks RGC!</span>  
@@ -160,15 +160,15 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> Research Grants Council (RGC) Early Career Scheme (ECS) led by me is granted, securing HKD 1,156,155. Thanks RGC!</span>   
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'23.</span>       
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the EDAA Outstanding Disseration Award 2023 (4 awardees worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
-* <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 FPGA'23 paper (FADO) presented in Monterey, US.</span>    
+* <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 FPGA'23 paper (FADO) presented in Monterey, US. Acceptance rate=28%.</span>    
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'23 papers presented in Tokyo. 1 won the Best Paper Award, the other 1 received Best Paper Nomination.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'23 papers presented in Tokyo. 1 won the Best Paper Award (2 out of 328), the other 1 received Best Paper Nomination (11 out of 328). Acceptance rate=31%.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student. Later on they joined my group as PhD student.</span>   
 
 ----
 
 * <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (security of AI for EDA) published, first-authored by myself.</span>  
-* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'22 papers (DEEP, Robustify) presented in San Diego, 1 first-authored by myself.</span>      
+* <span style="color:DimGray; font-size:85%">[2022/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'22 papers (DEEP, Robustify) presented in San Diego, 1 first-authored by myself. Acceptance rate=22.5%.</span>   
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ASPDAC'23.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Recognized by ACM TODAES Distinguished Reviewer Board.</span>  
 * <span style="color:DimGray; font-size:85%">[2022/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 Book Chapters published in Springer Book: "Machine Learning Applications in Electronic Design Automation", 1 first-authored by myself.</span>   
