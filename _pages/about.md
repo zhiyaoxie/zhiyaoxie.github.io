@@ -176,14 +176,14 @@ News
 * <span style="color:DimGray; font-size:85%">[2022/05]</span> <span style="font-size:95%"> Received Ph.D. Degree from Duke University.</span>   
 
 
-Ph.D. Student Recruitment
+Student Recruitment
 ======
-* <span style="color:red">**I am looking for motivated students to join my lab as Ph.D. students in HKUST!**</span> 
+* <span style="color:red">**I am looking for motivated Ph.D. students and also Post-Docs in HKUST!**</span> 
     * We welcome students with both CS and EE background.     
     * We only take students that meet at least *one* of following criteria: 1) strong algorithm and programming background; 2) strong deep learning background; 3) strong computer architecture background; 4) rich research experience with publications.    
     * Learn more about ML for EDA in [Chinese](https://zhiyaoxie.github.io/files/ml4eda.pdf){: .btn--paper}.     
     * We support RA or Master *only if* you intend to continue with a PhD in our team.      
-
+    * We have position for Post-Doc applicants. We need you to have publications on top AI/EDA/Arch conference/journals. Graduation from top 100 school (any mainstream rank) is a big plus.       
 * Do not hesitate to [email](mailto:eezhiyao@ust.hk){: .btn--code} me (eezhiyao@ust.hk) if you are interested!  
     * Please do excuse me for not being able to reply every email... Also please do not be discouraged if you do not receive a reply.   
     * No need to waste time writing a long email, just drop me your CV with grade.    
