@@ -39,7 +39,7 @@ Selected Award & Honors
 
 
 
-Selected Research Directions & Works   
+Selected Research Works   
 ======
 My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLSI circuit design with lower NRE cost, less human effort, and shorter turnaround time. We view *circuit* as a special data type, then explore and utilize its unique data properties. We are especially experienced in 1) early-stage circuit *power* evaluation, 2) early-stage circuit *timing* evaluation, 3) automated *circuit generation*, and 4) CPU prefetcher design:    
 * Foundation AI Model for Circuit Generation and Evaluation   
@@ -52,7 +52,6 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
       &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
       &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4},  
-      &ensp;&ensp;&ensp;  CircuitEncoder [ASPDAC'25](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--test4}     
 
 * Circuit Power and Timing Evaluation   
     * Arch-Stage Power Modeling:     
