@@ -39,7 +39,7 @@ Selected Award & Honors
 
 
 
-Selected Research Directions
+Selected Research Directions & Works   
 ======
 My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLSI circuit design with lower NRE cost, less human effort, and shorter turnaround time. We view *circuit* as a special data type, then explore and utilize its unique data properties. We are especially experienced in 1) early-stage circuit *power* evaluation, 2) early-stage circuit *timing* evaluation, 3) automated *circuit generation*, and 4) CPU prefetcher design:    
 * Foundation AI Model for Circuit Generation and Evaluation   
