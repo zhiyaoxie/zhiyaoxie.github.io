@@ -45,8 +45,9 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
 * Foundation AI Model for Circuit Generation and Evaluation   
     * A Comprehensive Survey of Circuit Foundation Model in 2025: [Survey-CFM](https://zhiyaoxie.github.io/files/Survey_CFM.pdf){: .btn--test4}   
     * LLM-Aided Circuit Design Generation:         
-      &ensp;&ensp;&ensp;  RTLCoder [LAD'25](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--test4}[TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations)</span>, OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}    
-      &ensp;&ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(100+ citations, a widely-adopted benchmark)</span>   
+      &ensp;&ensp;&ensp;  RTLLM [ASPDAC'24](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--test4} <span style="color:DimGray; font-size:85%">(200+ citations, a pioneering \& widely-adopted benchmark)</span>   
+      &ensp;&ensp;&ensp;  RTLCoder [LAD'25](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--test4}[TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations, 200+ Github stars)</span> 
+      &ensp;&ensp;&ensp;  OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}, HLSDebugger [ICCAD'25](https://arxiv.org/abs/2507.21485v1){: .btn--test4}        
     * Synthetic Circuit Data Generation:      
       &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
