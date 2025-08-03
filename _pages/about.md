@@ -68,10 +68,9 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
 
 * Other EDA & Chip Design Directions   
     * Layout-Stage Routabitliy Modeling:   
-     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test1} [TCAD'24](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--test1},       
-    * Reliablity and Security of AI-assisted EDA Methods:    
-     &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test1}, Robustify [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_Robust.pdf){: .btn--test1}, APPLE [ASPDAC'24](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--test1},   
-     &ensp;&ensp;&ensp;  Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, FLNet [DAC'22](https://zhiyaoxie.com/files/DAC22_FL.pdf){: .btn--test1}     
+     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test1}    
+    * Reliability and Security of AI-assisted EDA Methods:    
+     &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test1}, Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>    
     * Designing Cutting-Edge CPU Prefetchers:    
     &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}    
 
