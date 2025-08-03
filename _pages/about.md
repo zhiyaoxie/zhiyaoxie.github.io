@@ -67,8 +67,8 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
       &ensp;&ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test3} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(100+ citations)</span>     
 
 * Other EDA & Chip Design Directions   
-    * Layout-Stage Routabitliy Modeling:   
-     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(200+ citations)</span>, AutoDRC [ICCAD'21](https://zhiyaoxie.com/files/ICCAD21_NAS.pdf){: .btn--test1}    
+    * Layout-Stage Routability Modeling:   
+     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(200+ citations, a pioneering routability predictor)</span>    
     * Reliability and Security of AI-assisted EDA Methods:    
      &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test1}, Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>    
     * Designing Cutting-Edge CPU Prefetchers:    
