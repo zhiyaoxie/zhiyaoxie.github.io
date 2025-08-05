@@ -22,7 +22,7 @@ All conference publications below are full (regular or invited) papers, NOT incl
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
 <span style="color:DimGray; font-size:85%">Jing Wang, Shang Liu, Yao Lu, and <span style="color:black">**Zhiyao Xie**</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span>   
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/pdf/2507.21485){: .btn--paper}   
 
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%">Mengming Li, Qijun Zhang, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>   
@@ -30,19 +30,19 @@ All conference publications below are full (regular or invited) papers, NOT incl
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
 <span style="color:DimGray; font-size:85%">Qijun Zhang, Yao Lu, Mengming Li, and <span style="color:black">**Zhiyao Xie**</span></span>   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>   
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--paper}   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis</span>   
 <span style="color:DimGray; font-size:85%">Wenkai Li, Yao Lu, Wenji Fang, Jing Wang, Qijun Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_ATLAS.pdf){: .btn--paper}    
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph</span>   
 <span style="color:DimGray; font-size:85%">Wenji Fang, Wenkai Li, Shang Liu, Yao Lu, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://arxiv.org/abs/2504.09260){: .btn--paper}     
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://arxiv.org/abs/2504.09260){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--paper}    
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits</span>   
 <span style="color:DimGray; font-size:85%">Shang Liu, Jing Wang, Wenji Fang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--paper}     
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--paper}   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ELF: Efficient Logic Synthesis by Pruning Redundancy in Refactoring</span>   
 <span style="color:DimGray; font-size:85%">Dimitrios Tsaras, Xing Li, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    

@@ -49,7 +49,7 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
       &ensp;&ensp;&ensp;  RTLCoder [LAD'25](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--test4}[TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations, 200+ Github stars)</span>    
       &ensp;&ensp;&ensp;  OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}, HLSDebugger [ICCAD'25](https://arxiv.org/abs/2507.21485v1){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
-      &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
+      &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
       &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4},  
 
