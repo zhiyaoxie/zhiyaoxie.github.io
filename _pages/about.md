@@ -55,13 +55,13 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
 
 * Circuit Power and Timing Evaluation   
     * Arch-Stage Power Modeling:     
-       &ensp;&ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
+       &ensp;&ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--test3}     
     * RTL-Stage or On-Chip Power and Timing Modeling:    
        &ensp;&ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}          
        &ensp;&ensp;&ensp;  AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>, PROPHET [DAC'23](https://zhiyaoxie.com/files/DAC23_PROPHET.pdf){: .btn--test3} [TCAD'24](https://zhiyaoxie.com/files/TCAD24_OPM.pdf){: .btn--test3}     
        &ensp;&ensp;&ensp;  MasterRTL [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--test3}, CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test3}    
     * Netlist-Stage Power and Timing  Modeling:   
-       &ensp;&ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}, SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
+       &ensp;&ensp;&ensp;  Net$^2$ [TCAD'22](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--test3}, ATLAS [DAC'25](https://zhiyaoxie.github.io/files/DAC25_ATLAS.pdf){: .btn--test3}, SMART-GPO [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_SMART.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>    
     * Layout-Stage IR Drop Modeling:   
       &ensp;&ensp;&ensp;  PowerNet [ASPDAC'20](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--test3} [ICCAD'20](https://zhiyaoxie.com/files/ICCAD20_IR.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(100+ citations)</span>     
 
@@ -71,7 +71,7 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
     * Reliability and Security of AI-assisted EDA Methods:    
      &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test1}, Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>    
     * Designing Cutting-Edge CPU Prefetchers:    
-    &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}    
+    &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--test1}    
 
 &ensp;&ensp;&ensp; Please check my full publications list [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
 
