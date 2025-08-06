@@ -51,7 +51,7 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
     * Synthetic Circuit Data Generation:      
       &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
-      &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4},  
+      &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4}   
 
 * Circuit Power and Timing Evaluation   
     * Arch-Stage Power Modeling:     
