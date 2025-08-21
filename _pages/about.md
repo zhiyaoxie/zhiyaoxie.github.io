@@ -49,7 +49,7 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
       &ensp;&ensp;&ensp;  RTLCoder [LAD'24](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--test4}[TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(100+ citations, 200+ Github stars)</span>    
       &ensp;&ensp;&ensp;  OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}, HLSDebugger [ICCAD'25](https://arxiv.org/abs/2507.21485v1){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
-      &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
+      &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--test4}, SynC-LLM [EMNLP'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}, CircuitGen [ASPDAC'25](https://zhiyaoxie.com/files/ASPDAC25_CircuitGen.pdf){: .btn--test4}       
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
       &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4}   
 
@@ -92,6 +92,7 @@ Meet Some of My Students
 
 News
 ====== 
+* <span style="color:DimGray; font-size:85%">[2025/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 EMNLP'25 paper (SynC-LLM) to be presented in Nov in Suzhou, first-authored by my student *Shang*. Acceptance rate=22%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'25 papers (GenEDA, HLSDebugger) to be presented in Nov in Munich, both first-authored by my students: *Wenji* and *Jing*. Acceptance rate=25%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a keynote "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School about "LLM for Processor Design" in Beijing, hosted by Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS).</span>  
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the Student Research Forum Chair, TPC Member, and Organizing Committee Member of ASPDAC'26.</span>  

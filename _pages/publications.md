@@ -14,7 +14,11 @@ author_profile: true
 Peer-Reviewed Publications
 ======
 
-All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
+All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, findings, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
+
+* [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
+<span style="color:DimGray; font-size:85%">Shang Liu, Yao Lu, Wenji Fang, Jing Wang, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="font-size:95%">Empirical Methods in Natural Language Processing (EMNLP), 2025. *(Acceptance rate=22%)*</span>     
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
 <span style="color:DimGray; font-size:85%">Wenji Fang, Jing Wang, Yao Lu, Shang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>     
