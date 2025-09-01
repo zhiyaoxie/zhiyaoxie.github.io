@@ -16,7 +16,7 @@ Peer-Reviewed Publications
 
 All conference publications below are full (regular or invited) papers, NOT including extended abstract, late breaking results, findings, student forum papers/posters, short/brief papers, tutorials, contests, etc.   
 
-My supervised students in HKUST are highlighted with underline. 
+My supervised students in HKUST are highlighted with <u>underline</u>. 
 
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
@@ -155,7 +155,7 @@ My supervised students in HKUST are highlighted with underline.
 <span style="font-size:90%; color:red">Trending CS Papers (Top 5 in Hardware Architecture, 08/2024) </span> [record](https://zhiyaoxie.github.io/files/record_RTLLM.pdf){: .btn--orange}    
 
 * [ASPDAC'24](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
-<span style="color:DimGray; font-size:85%">Tao Zhang, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"><u>Tao Zhang</u>, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--code}  
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
@@ -187,7 +187,7 @@ My supervised students in HKUST are highlighted with underline.
 <span style="font-size:95%">International Symposium on Physical Design (ISPD), 2023.</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3569052.3578927){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
 
 * [ISQED'23](https://www.isqed.org/){: .btn} <span style="color:DarkBlue">Security and Reliability Challenges in Machine Learning for EDA: Latest Advances <span style="font-size:90%">(Invited)</span></span>	     
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Tao Zhang, and Yifeng Peng</span>      
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, <u>Tao Zhang</u>, and <u>Yifeng Peng</u></span>      
 <span style="font-size:95%">International Symposium on Quality Electronic Design (ISQED), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10129359){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs</span>     
