@@ -126,7 +126,6 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Data-pattern-based Predictive On-Chip Power Meter in DNN Accelerator</span>    
 <span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, Jingbo Jiang, Yipu Zhang, Zhe Lin, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10554667){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/TCAD24_OPM.pdf){: .btn--paper}     
-
 * [ISLPED'24](https://www.islped.org/2024/index.php){: .btn} <span style="color:DarkBlue">Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</span>   
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
@@ -158,9 +157,9 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%"><u>Tao Zhang</u>, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--code}  
 
-* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
+* [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span>  [pdf](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}   
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10310247){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}   
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie**</span></span>    
