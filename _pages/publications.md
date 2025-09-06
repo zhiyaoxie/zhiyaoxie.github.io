@@ -18,6 +18,8 @@ All publications below are full (regular or invited) papers, NOT including short
 
 My supervised students in HKUST are highlighted with <u>underline</u>. 
 
+<span style="color:DimGray; font-size:95%">    In 2026:</span>   
+
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span>     
