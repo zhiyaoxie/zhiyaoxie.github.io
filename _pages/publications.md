@@ -14,19 +14,17 @@ author_profile: true
 Peer-Reviewed Publications
 ======
 
-All publications below are full (regular or invited) papers, NOT including short/brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc.   
-
-My supervised students in HKUST are highlighted with <u>underline</u>. 
+All publications below are full (regular or invited) papers, NOT including short/brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc. My supervised students in HKUST are highlighted with <u>underline</u>. 
 
 <span style="color:DimGray; font-size:95%">    In 2026:</span>   
-
+<span style="color:DimGray; font-size:40%">     </span>    
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span>     
 <span style="font-size:90%; color:red">Rank Second in the Track</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2025:</span>   
-
+<span style="color:DimGray; font-size:40%">     </span>     
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. *(Acceptance rate=22%)*</span>     
