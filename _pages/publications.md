@@ -23,6 +23,8 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span>     
 <span style="font-size:90%; color:red">Rank Second in the Track</span>  
 
+<span style="color:DimGray; font-size:90%">    2025:</span>   
+
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. *(Acceptance rate=22%)*</span>     
@@ -104,6 +106,8 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
 
+<span style="color:DimGray; font-size:90%">    2024:</span>   
+
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10816030){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}   
@@ -162,6 +166,8 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%"><u>Tao Zhang</u>, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--code}  
 
+<span style="color:DimGray; font-size:90%">    2023:</span>   
+
 * [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10310247){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}   
@@ -207,6 +213,8 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_Fully.pdf){: .btn--orange}  
+
+<span style="color:DimGray; font-size:90%">    2022:</span>   
 
 * [ICCAD'22](https://iccad.com/){: .btn} <span style="color:DarkBlue">DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu</span>  
