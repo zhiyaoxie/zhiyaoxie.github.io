@@ -116,9 +116,9 @@ News
 
 ----
 
-* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span>1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by my student *Qijun*.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span>1 IEEE TCAD'24 paper (PANDA-extension) accepted, first-authored by my student *Qijun*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a guest undergraduate lecture entitled "Introduction to AI-Assisted EDA" for the Peking University.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by my student *Shang*.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'24 paper (RTL-Coder) accepted, first-authored by my student *Shang*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of DATE'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'24 papers (OpenLLM-RTL) presented in New Jersey, 1 first-authored by my student *Shang*. Acceptance rate=24%.</span>   
@@ -130,7 +130,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISLPED'24 paper presented (AgileDev) in Newport Beach, US, first-authored by my student *Yao*. Acceptance rate=23%.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/08]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member and Session Chair of ASPDAC'25. </span>   
 * <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized HKUST-HKUST(GZ) Joint EDA workshop as the Chair. Speakers inlcude Prof Yuzhe Ma, Prof Hongce Zhang, Prof Zhe Lin, Prof Xingquan Li, Prof Yangdi Lyu, and myself.</span>    
-* <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (MasterRTL-extension) accepted, first-authored by my student *Wenji*.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'24 paper (MasterRTL-extension) accepted, first-authored by my student *Wenji*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> LAD'24 Best Paper Nomination (6 out of 50), first-author is my student *Shang*.</span>  
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 LAD'24 Paper (RTL-Coder) presented in San Jose, US, first-authored by my student *Shang*.</span>          
 * <span style="color:DimGray; font-size:85%">[2024/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (PROPHET-extension) accepted.</span>   
