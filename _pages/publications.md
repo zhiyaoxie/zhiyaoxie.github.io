@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * [Preprint](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
-<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">Preprint (a 60-page survey on circuit foundation models, covering 130+ works), March 2025.</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}    
 
 ----
@@ -75,19 +75,19 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025.</span> [ACM](https://dl.acm.org/doi/10.1145/3721129){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TODAES25_LithoExp.pdf){: .btn--paper}     
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks </span>   
-<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitEncoder.pdf){: .btn--paper}    
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage </span>   
-<span style="color:DimGray; font-size:85%"> <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_CircuitGen.pdf){: .btn--paper}   
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling </span>   
-<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Mengming Li</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Mengming Li</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_FirePower.pdf){: .btn--paper}   
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations </span>   
-<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_Pointer.pdf){: .btn--paper}   
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> SMART-GPO: Gate-Level Sensitivity Measurement with Accurate Estimation for Glitch Power Optimization </span>   
@@ -96,7 +96,7 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:90%; color:red">Best Paper Nomination</span>
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs </span>   
-<span style="color:DimGray; font-size:85%"> Zhiyuan Yan, <u>Wenji Fang</u>, <u>Mengming Li</u>, Min Li, <u>Shang Liu</u>, <span style="color:black">**Zhiyao Xie**</span>, and Hongce Zhang </span>    
+<span style="color:DimGray; font-size:85%"> Zhiyuan Yan, <u>Wenji Fang</u>, <u>Mengming Li</u>, Min Li, <u>Shang Liu</u>, <span style="color:black">**Zhiyao Xie***</span>, and Hongce Zhang* </span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_AssertLLM.pdf){: .btn--paper}    
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection</span>   
@@ -104,21 +104,21 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_PRICING.pdf){: .btn--paper}   
 
 * [ISEDA'25](https://www.eda2.com/iseda/index.html){: .btn} <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>   
-<span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
 
 <span style="color:DimGray; font-size:95%">    In 2024:</span>   
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
-<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10816030){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}   
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</span>    
-<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10720939){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2312.08617v4){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}        
 
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</span>    
-<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10577671){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--code}     
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
