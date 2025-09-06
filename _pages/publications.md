@@ -20,42 +20,42 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 
 
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
-<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span>     
 <span style="font-size:90%; color:red">Rank Second in the Track</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2025:</span>   
 
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
-<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie***</span></span>     
 <span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. *(Acceptance rate=22%)*</span>     
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
-<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2504.09485){: .btn--paper}     
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
-<span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
+<span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/pdf/2507.21485){: .btn--paper}   
 
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
-<span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>   
+<span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie***</span></span>   
 <span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://www.arxiv.org/abs/2506.15985){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--paper}   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
-<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie**</span></span>   
+<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie***</span></span>   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--paper}   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis</span>   
-<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_ATLAS.pdf){: .btn--paper}    
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph</span>   
-<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://arxiv.org/abs/2504.09260){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC25_NetTAG.pdf){: .btn--paper}    
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits</span>   
-<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Jing Wang</u>, <u>Wenji Fang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>	   
+<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Jing Wang</u>, <u>Wenji Fang</u>, and <span style="color:black">**Zhiyao Xie***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--paper}   
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ELF: Efficient Logic Synthesis by Pruning Redundancy in Refactoring</span>   
@@ -63,11 +63,11 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_ELF.pdf){: .btn--paper}    
 
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
-<span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Qijun Zhang</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Qijun Zhang</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
 
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
-<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>    
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie***</span></span>    
 <span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--paper}     
 
 * [TODAES'25](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">LithoExp: Explainable Two-stage CNN-based Lithographic Hotspot Detection with Layout Defect Localization</span>    
