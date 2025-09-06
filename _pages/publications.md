@@ -25,7 +25,7 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:90%; color:red">Rank Second in the Track</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2025:</span>   
-<span style="color:DimGray; font-size:10%">     </span>     
+
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie**</span></span>     
 <span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025. *(Acceptance rate=22%)*</span>     
@@ -108,7 +108,7 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
 
 <span style="color:DimGray; font-size:95%">    In 2024:</span>   
-<span style="color:DimGray; font-size:10%">     test</span>     
+
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie**</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10816030){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}   
