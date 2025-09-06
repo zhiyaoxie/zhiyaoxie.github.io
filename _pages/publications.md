@@ -14,7 +14,7 @@ author_profile: true
 Peer-Reviewed Publications
 ======
 
-All publications below are full (regular or invited) papers, NOT including short/brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc. 
+All publications below are full-length (regular or invited) papers, NOT including short papers, brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc.   
 
 My supervised students in HKUST are highlighted with <u>underline</u>. 
 
