@@ -5,6 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Foundation AI model and its applications in EDA**   
+    * Tutorial, ACM/IEEE Design Automation Conference (DAC), 2025.     
+
+* **AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model**   
+    * Special Session, International Symposium of EDA (ISEDA), 2025   
+    * ACCESS Technology Symposium on Frontiers of AI Accelerators, 2025.    
+    * ACCESS-CEDA Seminar Series, 2025   
+    * Summer School, Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS), 2025.   
+    * Synopsys, 2025.   
+
 * **Introduction to AI-Assisted EDA: Prediction and Generation**
     * Guest Lecture in Peking University (PKU), 2024.   
 
@@ -95,6 +105,9 @@ Oral Presentations of Referred Papers
 * **PRICING: Privacy-Preserving Circuit Data Sharing Framework for Lithographic Hotspot Detection**
     * Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. 
 
+* **OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation**   
+    * International Conference on Computer Aided Design (ICCAD), 2024. (Invited Paper)   
+
 * **RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution**
     * 1st IEEE International Workshop on LLM-Aided Design (LAD), Best Paper Cadidate, 2024. 
 
@@ -102,39 +115,39 @@ Oral Presentations of Referred Papers
     * ACM/IEEE Design Automation Conference (DAC), 2023. 
 
 * **DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters** [slides](https://zhiyaoxie.github.io/files/22_DEEP.pdf){: .btn--paper} [poster](https://zhiyaoxie.github.io/files/22_DEEP_poster.pdf){: .btn--paper}
-    * In International Conference on Computer Aided Design (ICCAD), 2022. (Pre-Recorded)
+    * International Conference on Computer Aided Design (ICCAD), 2022. (Pre-Recorded)
 
 * **APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors.** [slides](https://zhiyaoxie.github.io/files/21_APOLLO.pdf){: .btn--paper}     
-    * In International Symposium on Microarchitecture (MICRO), 2021.
+    * IEEE/ACM International Symposium on Microarchitecture (MICRO), 2021.
 
 * **Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation.** [slides](https://zhiyaoxie.github.io/files/21_Net2.pdf){: .btn--paper}     
-    * In Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
+    * Asia and South Pacific Design Automation Conference (ASPDAC), 2021.
 
 * **Fast IR Drop Estimation with Machine Learning.** [slides](https://zhiyaoxie.github.io/files/20_IR_drop.pdf){: .btn--paper}    
-    * In International Conference on Computer Aided Design (ICCAD), 2020.
+    * International Conference on Computer Aided Design (ICCAD), 2020.
 
 * **PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network.** [slides](https://zhiyaoxie.github.io/files/20_PowerNet.pdf){: .btn--paper}     
-    * In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
-    * In Workshop on Machine Learning for CAD (MLCAD), 2019.
+    * Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
+    * Workshop on Machine Learning for CAD (MLCAD), 2019.
 
 * **FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning.** [slides](https://zhiyaoxie.github.io/files/20_FIST.pdf){: .btn--paper}    
-    * In Semiconductor Research Corporation (SRC) TECHCON, 2020.
-    * In Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
-    * In Workshop on Machine Learning for CAD (MLCAD), 2019.
+    * Semiconductor Research Corporation (SRC) TECHCON, 2020.
+    * Asia and South Pacific Design Automation Conference (ASPDAC), 2020.
+    * Workshop on Machine Learning for CAD (MLCAD), 2019.
 
 * **RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network.** [slides](https://zhiyaoxie.github.io/files/18_RouteNet.pdf){: .btn--paper}   
-    * In International Conference on Computer Aided Design (ICCAD), 2018.
+    * IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018.
 
 
 Poster
 ======
 * **Intelligent Circuit Design and Implementation with Machine Learning in Design Automation.** [poster](https://zhiyaoxie.github.io/files/poster_DACforum.pdf){: .btn--paper}
-    * In Design, Automation and Test in Europe Conference (DATE) Ph.D. forum, 2022.
-    * In ACM SIGDA Student Research Forum at ASP-DAC, 2022. <span style="color:red">**(Best Research Poster Award)**</span>
-    * In Design Automation Conference (DAC) Ph.D. forum, 2021.
+    * Design, Automation and Test in Europe Conference (DATE) Ph.D. forum, 2022.
+    * ACM SIGDA Student Research Forum at ASP-DAC, 2022. <span style="color:red">**(Best Research Poster Award)**</span>
+    * Design Automation Conference (DAC) Ph.D. forum, 2021.
 
 * **Machine Learning for High-Fidelity Design Prediction and Automatic Tuning.** [poster](https://zhiyaoxie.github.io/files/poster_SRC19.pdf){: .btn--paper}
-    * In SRC CADT Annual Review Poster Session, 2019.
+    * SRC CADT Annual Review Poster Session, 2019.
 
 
 
