@@ -14,7 +14,7 @@ Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong Universi
 
 Zhiyao has received multiple prestigious awards, including the RGC HK Early Career Award 2023 (7 out of 525 HK faculty), ACM Outstanding Dissertation Award in EDA 2023 (1 awardee worldwide per year), EDAA Outstanding Dissertation Award 2023 (4 awardees worldwide per year), MICRO 2021 Best Paper Award (1st-author, 1 out of 430), ASP-DAC 2023 Best Paper Award (2 out of 328), WAIC Yufan Award (Brilliant Star) 2023, ACM SIGDA SRF 2022 Best Research Poster Award, and 4 more best paper nominations. He also received Faculty Teaching Excellence Appreciation Award 2023/24 for his computer architecture course. He has published 50+ refereed papers, more than half in top EDA venues (DAC, ICCAD, IEEE TCAD) and some others in top computer architecture venues (MICRO, ISCA, HPCA).   
 
-He has served as the TPC Member/TPC Track Chair/Student Forum Chair of all major EDA conferences: DAC, ICCAD, DATE, ASPDAC, MLCAD, ICLAD, ISEDA, and GLSVLSI. He served as the reviewer of 10+ IEEE/ACM journals. He also served as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.  
+He has served as the TPC Member/TPC Track Chair/Student Forum Chair of all major EDA conferences: DAC, ICCAD, DATE, ASPDAC, MLCAD, ICLAD, ISEDA, and GLSVLSI. He served as the Associate Editor of ACM TODAES, as well as the reviewer of 10+ IEEE/ACM journals. He also served as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.  
 
 
 Selected Award & Honors
@@ -92,6 +92,8 @@ Meet Some of My Students
 
 News
 ====== 
+* <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span>My student Wenji Fang won the 2nd Place in the highly competitive ACM SIGDA Student Research Competition (SRC) at ICCAD'25 in Munich. He is awarded for his research entitled "Advancing AI for EDA: From Task-Specific Supervised Learning to Circuit Foundation Model".</span>    
+* <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASPDAC'25 paper (ReadyPower) to be presented in Dec in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/09]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 NeurIPS'25 paper (ArchPower) to be presented in Dec in San Diego, first-authored by my student *Qijun*. Acceptance rate=24.9%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/08]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 EMNLP'25 paper (SynC-LLM) to be presented in Nov in Suzhou, first-authored by my student *Shang*. Acceptance rate=22%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/08]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at ASPDAC TPC workshop in Kyoto.</span>   
