@@ -92,6 +92,7 @@ Meet Some of My Students
 
 News
 ====== 
+* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Chaired and hosted IEEE CEDA EDAthon (EDA programming contest) 2025 at HKUST.</span>    
 * <span style="color:DimGray; font-size:85%">[2025/11]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> My student *Wenji* won the Inaugural IEEE LAD (LLM-aided design) Fellowship, with a cash award of US$ 10,000. He is also the only LAD Fellow outside the US.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 EMNLP'25 paper (SynC-LLM) presented in Nov in Suzhou, first-authored by my student *Shang*. Acceptance rate=22%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> My student *Wenji* won the 2nd Place in the highly competitive ACM SIGDA Student Research Competition (SRC) at ICCAD'25 in Munich.</span>    
