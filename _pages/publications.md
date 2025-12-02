@@ -22,6 +22,10 @@ My supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
 <span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate<20%)*</span> 
 
+* [HPCA'26](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems</span>    
+<span style="color:DimGray; font-size:85%"> Chen Zhang, <u>Qijun Zhang</u>, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, <span style="color:black">**Zhiyao Xie**</span>, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng, and Minyi Guo</span>    
+<span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. *(Acceptance rate=22%)*</span>  
+
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
 <span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2026. *(Acceptance rate=25%)*</span> 
