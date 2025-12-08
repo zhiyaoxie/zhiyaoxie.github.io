@@ -39,11 +39,11 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [NeurIPS'25](https://neurips.cc/){: .btn} <span style="color:DarkBlue">ArchPower: Dataset for Architecture-Level Power Modeling of Modern CPU Design</span>     
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">Advances in Neural Information Processing Systems (NeurIPS), D&B Track, 2025. *(Acceptance rate=24.9%)*</span>   
+<span style="font-size:95%">Advances in Neural Information Processing Systems (NeurIPS), D&B Track, 2025. *(Acceptance rate=24.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/NeurIPS25_ArchPower.pdf){: .btn--paper}      
 
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), Main, 2025. *(Acceptance rate=22%)*</span>     
+<span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), Main, 2025. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/EMNLP25_SynC-LLM.pdf){: .btn--paper}       
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     

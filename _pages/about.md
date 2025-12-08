@@ -49,13 +49,13 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
       &ensp;&ensp;&ensp;  RTLCoder [LAD'24](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--test4}[TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--test4}  <span style="color:DimGray; font-size:85%">(200+ citations, 200+ Github stars)</span>    
       &ensp;&ensp;&ensp;  OpenLLM-RTL [ICCAD'24](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--test4}, HLSDebugger [ICCAD'25](https://arxiv.org/abs/2507.21485v1){: .btn--test4}     
     * Synthetic Circuit Data Generation:      
-      &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--test4}, SynC-LLM [EMNLP'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test4}          
+      &ensp;&ensp;&ensp;  SynCircuit [DAC'25](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--test4}, SynC-LLM [EMNLP'25](https://zhiyaoxie.github.io/files/EMNLP25_SynC-LLM.pdf){: .btn--test4}          
     * General Circuit Encoder for Timing, Power, and Functionality Modeling:     
       &ensp;&ensp;&ensp;  CircuitFusion [ICLR'25](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--test4}, NetTAG [DAC'25](https://arxiv.org/abs/2504.09260){: .btn--test4}, GenEDA [ICCAD'25](https://arxiv.org/abs/2504.09485){: .btn--test4}   
 
 * Circuit Power and Timing Evaluation   
     * Arch-Stage Power Modeling:     
-       &ensp;&ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--test3}, ArchPower [NeurIPS'25](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}     
+       &ensp;&ensp;&ensp;  PANDA [ICCAD'23](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--test3} [TCAD'25](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--test3}, AutoPower [DAC'25](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--test3}, ArchPower [NeurIPS'25](https://zhiyaoxie.github.io/files/NeurIPS25_ArchPower.pdf){: .btn--test3}     
     * RTL-Stage or On-Chip Power and Timing Modeling:    
        &ensp;&ensp;&ensp;  APOLLO [MICRO'21](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, DEEP [ICCAD'22](https://zhiyaoxie.github.io/files/ICCAD22_DEEP.pdf){: .btn--test3}, RTL-Timer [DAC'24](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--test3}          
        &ensp;&ensp;&ensp;  AgileDev [ISLPED'24](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--test3} <span style="color:DimGray; font-size:85%">(Best Paper Nomination)</span>, PROPHET [DAC'23](https://zhiyaoxie.com/files/DAC23_PROPHET.pdf){: .btn--test3} [TCAD'24](https://zhiyaoxie.com/files/TCAD24_OPM.pdf){: .btn--test3}     
