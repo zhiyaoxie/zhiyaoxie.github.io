@@ -118,19 +118,21 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
 
+* [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
+<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10816030){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}   
+
+* [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</span>    
+<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10720939){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2312.08617v4){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}        
+
+* [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</span>    
+<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10577671){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--code}     
+
+
 <span style="color:DimGray; font-size:95%">    In 2024:</span>   
 
-* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
-<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10816030){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}   
-
-* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</span>    
-<span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10720939){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_RTLCoder.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2312.08617v4){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}        
-
-* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</span>    
-<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10577671){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--code}     
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
