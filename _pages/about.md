@@ -92,7 +92,7 @@ Meet Some of My Students
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) presented in Dec in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
+* <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) presented in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
 
 ----
 
