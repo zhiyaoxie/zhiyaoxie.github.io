@@ -92,12 +92,15 @@ Meet Some of My Students
 
 News
 ====== 
+* <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) presented in Dec in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
+
+----
+
 * <span style="color:DimGray; font-size:85%">[2025/12]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 NeurIPS'25 paper (ArchPower) presented in San Diego, first-authored by my student *Qijun*. Acceptance rate=24.9%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/12]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Chaired and hosted IEEE CEDA EDAthon (EDA programming contest) 2025 at HKUST.</span>    
 * <span style="color:DimGray; font-size:85%">[2025/11]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> My student *Wenji* won the Inaugural IEEE LAD (LLM-aided design) Fellowship, with a cash award of US$ 10,000. He is also the only LAD Fellow outside the US.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/11]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 EMNLP'25 paper (SynC-LLM) presented in Nov in Suzhou, first-authored by my student *Shang*. Acceptance rate=22%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> My student *Wenji* won the 2nd Place in the highly competitive ACM SIGDA Student Research Competition (SRC) at ICCAD'25 in Munich.</span>    
-* <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) to be presented in Dec in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'25 papers (GenEDA, HLSDebugger) presented in Munich, both first-authored by my students: *Wenji* and *Jing*. Acceptance rate=25%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/08]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at ASPDAC TPC workshop in Kyoto.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a keynote "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School hosted by ICT, CAS in Beijing.</span>  
@@ -109,7 +112,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 5 DAC'25 papers (NetTAG, AutoPower, ATLAS, SynCircuit, ELF) presented in San Francisco, all 5 first-authored by my students: *Qijun*, *Wenkai*, *Wenji*, *Yao*, *Shang*, and *Dimi*. Acceptance rate=23%.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Start to serve as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered an invited talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at Synopsys, ACCESS Symposium, and ISEDA'25 special session.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Organized and hosted a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
+* <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Organized and chaired a panel about "foundation AI model for EDA" at ISEDA'25. Speakers include Prof Qiang Xu, Prof Cheng Zhuo, Prof Huawei Li, Prof Fan Yang, and Dr Mingxuan Yuan.</span>     
 * <span style="color:DimGray; font-size:85%">[2025/05]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC track co-chair (Power and Timing Track) and a Session Chair of ISEDA'25.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'25.</span>    
 * <span style="color:DimGray; font-size:85%">[2025/04]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ICLR'25 paper (CircuitFusion) presented in Singapore, first-authored by my student *Wenji*. Acceptance rate=32%.</span>     
@@ -122,11 +125,11 @@ News
 
 ----
 
-* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span>1 IEEE TCAD'24 paper (PANDA-extension) accepted, first-authored by my student *Qijun*.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span>1 IEEE TCAD'25 paper (PANDA-extension) accepted, first-authored by my student *Qijun*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/12]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a guest undergraduate lecture entitled "Introduction to AI-Assisted EDA" for the Peking University.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'24 paper (RTL-Coder) accepted, first-authored by my student *Shang*.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'25 paper (RTL-Coder) accepted, first-authored by my student *Shang*.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of DATE'25.</span>  
-* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
+* <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized and chaired a special session about "open-source circuit data" at ICCAD'24. Speakers include Prof Hai Li, Prof Sachin Sapatnekar, Prof Vidya Chhabria, Prof Keren Zhu, and myself.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'24 papers (OpenLLM-RTL) presented in New Jersey, 1 first-authored by my student *Shang*. Acceptance rate=24%.</span>   
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered invited talk about "LLM-aided Chip Generation" at CCF-Chip Rising Star Forum in Shanghai and LLM for Chip Design Forum by Southeast University.</span>    
 * <span style="color:DimGray; font-size:85%">[2024/09]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the Teaching Excellence Appreciation Award 2023-24 by ECE.</span>     
