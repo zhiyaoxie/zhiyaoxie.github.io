@@ -18,6 +18,10 @@ All publications below are full-length (regular or invited) papers, NOT includin
 
 My own supervised students in HKUST are highlighted with <u>underline</u>. 
 
+* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
+<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Yugao Zhu</u>, <u>Ziyan Guo</u>, <u>Jing Wang</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access.   
+
 * [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, Yanzhen Zhu, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access.    
