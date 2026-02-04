@@ -36,7 +36,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span>     
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC26_ReadyPower.pdf){: .btn--paper}     
 <span style="font-size:90%; color:red">Rank Second in the Track</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2025:</span>   
