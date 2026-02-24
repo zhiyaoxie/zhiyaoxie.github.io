@@ -19,39 +19,39 @@ All publications below are full-length (regular or invited) papers, NOT includin
 My own supervised students in HKUST are highlighted with <u>underline</u>. 
 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span>    
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Zhicheng Guo</u>, <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
-
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning</span> 
+ 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Yuchao Wu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">IMPart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">IMPart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning</span>     
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span>    
 <span style="color:DimGray; font-size:85%"><u>Ziyan Guo</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision</span>    
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</span>    
 <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, Chen Zhang, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ShortCircuit: AlphaZero-Driven Generative Circuit Design</span> 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ShortCircuit: AlphaZero-Driven Generative Circuit Design</span>     
 <span style="color:DimGray; font-size:85%"><u>Dimitrios Tsaras</u>, Antoine Frederic Grosnit, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, Haitham Bou Ammar, and Mingxuan Yuan</span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
