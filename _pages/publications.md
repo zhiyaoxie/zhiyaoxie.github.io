@@ -19,6 +19,14 @@ All publications below are full-length (regular or invited) papers, NOT includin
 My own supervised students in HKUST are highlighted with <u>underline</u>. 
 
 
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
+<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
+
+* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span>    
+<span style="color:DimGray; font-size:85%"><u>Ziyan Guo</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
+
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span>    
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Zhicheng Guo</u>, <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
@@ -29,14 +37,6 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">IMPart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning</span>     
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
-
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
-<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
-
-* [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span>    
-<span style="color:DimGray; font-size:85%"><u>Ziyan Guo</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026.</span> 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision</span>    
