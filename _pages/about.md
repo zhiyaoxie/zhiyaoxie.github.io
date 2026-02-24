@@ -111,6 +111,7 @@ Student Recruitment
 
 News
 ====== 
+* <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*. Acceptance rate=23%.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'26 paper (ATLAS-extension) accepted, first-authored by my student *Wenkai*.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'26 paper (MFSPart) accepted, first-authored by my student *Yugao*.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) presented in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
