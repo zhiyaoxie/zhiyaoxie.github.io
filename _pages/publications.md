@@ -200,6 +200,10 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(8 nominees out of 167 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_Unleash.png){: .btn--orange}       
 
+* [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
+<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Mengming Li</u>, Min Li, Zhiyuan Yan, <u>Shang Liu</u>, Hongce Zhang\*, and <span style="color:black">**Zhiyao Xie\***</span></span>     
+<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691792){: .btn--paper} 
+
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691788){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [pdf2](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2312.08617v5){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
