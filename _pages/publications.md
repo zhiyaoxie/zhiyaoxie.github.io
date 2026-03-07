@@ -57,11 +57,11 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Yugao Zhu</u>, <u>Ziyan Guo</u>, <u>Jing Wang</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access.   
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11370209){: .btn--paper}  
 
 * [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, Yanzhen Zhu, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access.    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11358933){: .btn--paper}     
 
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
