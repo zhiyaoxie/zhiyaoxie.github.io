@@ -66,6 +66,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
 <span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span> 
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(16 nominees out of 1029 submissions)</span>
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
@@ -149,7 +150,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> SMART-GPO: Gate-Level Sensitivity Measurement with Accurate Estimation for Glitch Power Optimization </span>   
 <span style="color:DimGray; font-size:85%"> Yikang Ouyang, <u>Yuchao Wu</u>, Dongsheng Zuo, Subhendu Roy, Tinghuan Chen, <span style="color:black">**Zhiyao Xie**</span>, and Yuzhe Ma</span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_SMART.pdf){: .btn--paper}    
-<span style="font-size:90%; color:red">Best Paper Nomination</span>
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(13 nominees out of 537 submissions)</span>
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs </span>   
 <span style="color:DimGray; font-size:85%"> Zhiyuan Yan, <u>Wenji Fang</u>, <u>Mengming Li</u>, Min Li, <u>Shang Liu</u>, <span style="color:black">**Zhiyao Xie\***</span>, and Hongce Zhang* </span>    
