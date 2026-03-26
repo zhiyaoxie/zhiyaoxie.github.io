@@ -66,7 +66,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
 <span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span>        
-<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(16 nominees out of 1029 submissions)</span>
+<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(5 awardees out of 1029 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPLOS26.png){: .btn--orange}   
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
