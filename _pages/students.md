@@ -52,6 +52,9 @@ author_profile: true
 * **Zhicheng Guo**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
     * Master in Xidian University    
 
+* **Jingxiang Wang**  <span style="color:DimGray; font-size:85%">(26'Fall)</span>
+    * Bachelor in Nanjing University   
+
 * **Dimitrios Tsaras**  <span style="color:DimGray; font-size:85%">(Part-Time Student)</span>
     * Master in HKUST     
 
