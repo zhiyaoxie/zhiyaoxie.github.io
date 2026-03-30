@@ -95,8 +95,8 @@ Meet Some of My Students
 
 Student Recruitment
 ======
-* <span style="color:red">**I am looking for motivated Ph.D. students and also Post-Docs in HKUST!**</span> 
-    * We almost always have openings (including Fall'26 till this April) as long as you are excellent! 
+* <span style="color:red">**I am looking for motivated Ph.D. students and also Post-Docs in HKUST!**</span>   
+    * We almost always have openings (including Fall'26 till this April, Spring'27, Fall'27) as long as you are excellent!   
     * We welcome students with both CS and EE background.     
     * We target PhD applicants with strong background in *one* of following direction: 1) algorithm and programming; 2) deep learning; 3) EDA; 4) computer architecture. We expect applicants to meet *one* of following criteria: 1) high GPA rank from good universities; 2) rich research experience with publications.   
     * We have position for Post-Doc applicants. We need you to have publications on top AI/EDA/Arch conference/journals. Graduation from top 100 school (any mainstream rank) is a big plus.   
@@ -110,7 +110,7 @@ Student Recruitment
 
 * Why Joining Us?
     * Our research is highly cross-disciplinary. You are expected to master deep knowledge on programming, data structure and algorithm, machine learning, EDA, VLSI design, etc. I believe these directions are in a very high demand in job market nowadays.  
-    * HKUST is undoubtedly a top Asian university in science and engineering. Its world ranking was #34 in QS 2022, and #24 in QS 2022 Engineering & Technology. 
+    * HKUST is undoubtedly a top Asian university in science and engineering. Its world ranking was #34 in QS 2022, and #24 in QS 2022 Engineering & Technology.   
 
 
 News
