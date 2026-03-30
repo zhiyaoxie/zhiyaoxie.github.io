@@ -115,7 +115,7 @@ Student Recruitment
 
 News
 ====== 
-* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award, at ASPLOS'26 in Pittsburgh.</span>  
+* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award in Pittsburgh.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the CityU HK EE Young Alumni Award.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC Track Co-Chair of ISEDA'26.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*.</span>    
@@ -201,7 +201,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2023/04]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as TPC member of ICCAD'23.</span>       
 * <span style="color:DimGray; font-size:85%">[2023/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the EDAA Outstanding Disseration Award 2023 (4 awardees worldwide per year), at DATE'23 in Antwerp, Belgium.</span>   
 * <span style="color:DimGray; font-size:85%">[2023/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 FPGA'23 paper (FADO) presented in Monterey, US. Acceptance rate=28%.</span>    
-* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPDAC'23 Best Paper Award, at ASPDAC'23 in Tokyo, Japan.</span>  
+* <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPDAC'23 Best Paper Award in Tokyo, Japan.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ASPDAC'23 papers presented in Tokyo. 1 won the Best Paper Award (2 out of 328), the other 1 received Best Paper Nomination (11 out of 328). Acceptance rate=31%.</span>  
 * <span style="color:DimGray; font-size:85%">[2023/01]</span> <span style="font-size:95%"> *Qijun* and *Wenji* started to work with me as RA and co-supervised master student. Later on they joined my group as PhD student.</span>   
 
