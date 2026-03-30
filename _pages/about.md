@@ -115,10 +115,15 @@ Student Recruitment
 
 News
 ====== 
+* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award, at ASPLOS'26 in Pittsburgh.</span>  
+* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the CityU HK EE Young Alumni Award.</span>  
+* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC Track Co-Chair of ISEDA'26.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*.</span>    
 * <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'26 paper (ATLAS-extension) accepted, first-authored by my student *Wenkai*.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'26 paper (MFSPart) accepted, first-authored by my student *Yugao*.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) presented in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
+* <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the ACM SIGDA Student Research Forum Chair and 4 Session Chairs of ASPDAC'26 in HK.</span>  
+
 
 ----
 
@@ -130,7 +135,7 @@ News
 * <span style="color:DimGray; font-size:85%">[2025/10]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ICCAD'25 papers (GenEDA, HLSDebugger) presented in Munich, both first-authored by my students: *Wenji* and *Jing*. Acceptance rate=25%. </span>   
 * <span style="color:DimGray; font-size:85%">[2025/08]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a talk "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at ASPDAC TPC workshop in Kyoto.</span>   
 * <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:Navy">(Talk)</span> Delivered a keynote "AI-Assisted EDA: from Supervised Learning to Circuit Foundation Model" at the Summer School hosted by ICT, CAS in Beijing.</span>  
-* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the Student Research Forum Chair, TPC Member, and Organizing Committee Member of ASPDAC'26.</span>  
+* <span style="color:DimGray; font-size:85%">[2025/07]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC Member and Organizing Committee Member of ASPDAC'26.</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> A Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,437,732. It scored 5.0/5.0. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ISCA'25 paper (Prophet) presented in Tokyo, first-authored by my student *Mengming*. Acceptance rate=23%. </span>  
 * <span style="color:DimGray; font-size:85%">[2025/06]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> <span style="color:Navy">(Talk)</span> Organized a 3-hour tutorial about "Foundation AI model and its applications in EDA" at DAC'25. Speakers include Prof Ang Li, Dr Wei Wen, and myself.</span>  
