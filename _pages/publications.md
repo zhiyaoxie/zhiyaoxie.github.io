@@ -65,7 +65,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
-<span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span>        
+<span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3779212.3790202){: .btn--paper}        
 <span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(5 awardees out of 1029 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPLOS26.png){: .btn--orange}   
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
@@ -74,7 +74,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC26_ReadyPower.pdf){: .btn--paper}     
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026. *(Acceptance rate=29.9%)*</span> [IEEE](https://ieeexplore.ieee.org/document/11420445){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC26_ReadyPower.pdf){: .btn--paper}     
 <span style="font-size:90%; color:red">Rank Second in the Track</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2025:</span>   
@@ -89,11 +89,11 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2504.09485){: .btn--paper}     
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2504.09485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240762){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_GenEDA.pdf){: .btn--paper}      
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/pdf/2507.21485){: .btn--paper}   
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/pdf/2507.21485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240664){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_HLSDebugger.pdf){: .btn--paper}  
 
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>   
