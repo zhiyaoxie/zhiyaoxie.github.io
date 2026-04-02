@@ -19,7 +19,7 @@ He has served as the TPC Member/TPC Track Chair/Student Forum Chair of all major
 
 Selected Award & Honors
 ======
-* **CityU HK EE Young Alumni Awards 2026 (2 awardees)**   
+* **CityU HK EE Young Alumni Awards 2026 (1-2 awardees per year)**   
 * **ACM ASPLOS 2026 Best Paper Award, 2026 (5 out of 1029)**   
 * [Student] 1st LAD Fellowship, 2026 (7 awardess worldwide)   
 * [Student] ACM SIGDA Student Research Competition (SRC) 2nd Place Award, 2025   
