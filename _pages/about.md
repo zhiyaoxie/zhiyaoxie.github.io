@@ -71,10 +71,12 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
 
 * Other EDA & Chip Design Directions   
     * Layout-Stage Routability Modeling:   
-     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(200+ citations, a pioneering routability predictor)</span>    
+     &ensp;&ensp;&ensp;  RouteNet [ICCAD'18](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(300+ citations, a pioneering routability predictor)</span>    
     * Reliability and Security of AI-assisted EDA Methods:    
      &ensp;&ensp;&ensp;  DarkSide [TCAD'22](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--test1}, Security [ASPDAC'23](https://zhiyaoxie.com/files/ASPDAC23_Model_Extraction.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>    
     * Designing Cutting-Edge CPU Prefetchers:    
+    * Circuit/Graph Partitioning: 
+     &ensp;&ensp;&ensp;  MFSPart [TCAD'26](https://zhiyaoxie.github.io/files/TCAD26_MFSPart.pdf){: .btn--paper}, IMPart [DAC'26](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}, ComPart [DAC'26](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test3}    
     &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--test1}, PF-LLM [ASPLOS'26](https://zhiyaoxie.github.io/files/ASPLOS26_PF-LLM.pdf){: .btn--test1}   
 
 &ensp;&ensp;&ensp; Please check my full publications list [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
