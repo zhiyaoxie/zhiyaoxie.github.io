@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-News
-====== 
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award in Pittsburgh.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the CityU HK EE Young Alumni Award.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC Track Co-Chair of ISEDA'26.</span>  
