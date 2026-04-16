@@ -118,6 +118,7 @@ Student Recruitment
 Recent News 
 ====== 
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award in Pittsburgh.</span>  
+* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASPLOS'26 paper (PF-LLM) presented in Pittsburgh. Acceptance rate=14.5%.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the CityU HK EE Young Alumni Award.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC Track Co-Chair of ISEDA'26.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*.</span>    
