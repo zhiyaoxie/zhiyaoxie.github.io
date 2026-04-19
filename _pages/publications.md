@@ -18,7 +18,7 @@ All publications below are full-length (regular or invited) papers, NOT includin
 
 My own supervised students in HKUST are highlighted with <u>underline</u>. 
 
-* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
+* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
 <span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. 
 
