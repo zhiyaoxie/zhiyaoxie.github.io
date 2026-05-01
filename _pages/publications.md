@@ -22,7 +22,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
 <span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. 
 
-* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs</span>   
+* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, <span style="color:black">**Zhiyao Xie**</span>, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo</span>   
 <span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. 
 
