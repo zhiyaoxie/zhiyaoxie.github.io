@@ -7,7 +7,8 @@ author_profile: true
 
 * **Qijun Zhang**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Tongji University
-    * Awarded HKUST RedBird PhD Scholarship     
+    * Awarded HKUST RedBird PhD Award     
+    * Awarded HKUST RedBird Academic Excellence Award    
     * Website: [Qijun Zhang](https://zqj2333.github.io/){: .btn--orange}    
 
 * **Yao Lu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
@@ -23,9 +24,13 @@ author_profile: true
 
 * **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span>      
     * Bachelor in Tsinghua University
+    * Website: [Yugao Zhu](https://zyg18.github.io/){: .btn--orange} 
 
 * **Wenji Fang**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in NUAA, Master in HKUST (GZ)     
+    * Awarded HKUST RedBird Academic Excellence Award    
+    * ACM SIGDA Student Research Competition (SRC) 2nd Place Award, 2025
+    * Inaugural LLM-Aided Design (LAD) Fellowship, 2026 (7 awardees worldwide)   
     * Website: [Wenji Fang](https://fangwenji.github.io/){: .btn--orange}    
 
 * **ZheAn (Jay) Mok**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
@@ -33,11 +38,13 @@ author_profile: true
     * Awarded Hong Kong PhD Fellowship Scheme (HKPFS)    
 
 * **Mengming Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
-    * Master in Zhejiang University
+    * Master in Zhejiang University 
+    * Awarded HKUST RedBird Academic Excellence Award    
     * Website: [Mengming Li](https://limengming.github.io/){: .btn--orange}    
 
 * **Wenkai Li**  <span style="color:DimGray; font-size:85%">(24'Fall)</span>
     * Bachelor in HIT (Shenzhen)   
+    * Awarded HKUST RedBird Academic Excellence Award    
     * Website: [Wenkai Li](https://kevin333kevin.github.io/wenkaili.github.io/){: .btn--orange}    
 
 * **Yuchao Wu**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
@@ -47,7 +54,7 @@ author_profile: true
     * Bachelor in Southeast University, Master in Tsinghua University        
 
 * **Ziyan Guo**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
-    * Bachelor in HIT (GZ)  
+    * Bachelor in HIT (Shenzhen)  
 
 * **Zhicheng Guo**  <span style="color:DimGray; font-size:85%">(25'Fall)</span>
     * Master in Xidian University    
