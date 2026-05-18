@@ -8,7 +8,7 @@ author_profile: true
 * **Qijun Zhang**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
     * Bachelor in Tongji University
     * HKUST RedBird PhD Award     
-    * HKUST RedBird Academic Excellence Award    
+    * HKUST RedBird Academic Excellence Award *2     
     * Website: [Qijun Zhang](https://zqj2333.github.io/){: .btn--orange}    
 
 * **Yao Lu**  <span style="color:DimGray; font-size:85%">(23'Fall)</span>
