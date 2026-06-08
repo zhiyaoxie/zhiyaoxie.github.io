@@ -78,7 +78,7 @@ My lab explores ground-breaking data-driven EDA/AI methods to deliver better VLS
     * Circuit/Graph Partitioning:         
      &ensp;&ensp;&ensp;  MFSPart [TCAD'26](https://zhiyaoxie.github.io/files/TCAD26_MFSPart.pdf){: .btn--test1}, IMPart [DAC'26](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}, ComPart [DAC'26](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}      
     * Designing Cutting-Edge CPU Prefetchers:      
-    &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--test1}, PF-LLM [ASPLOS'26](https://zhiyaoxie.github.io/files/ASPLOS26_PF-LLM.pdf){: .btn--test1}   
+    &ensp;&ensp;&ensp; Alecto [HPCA'25](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--test1}, Prophet [ISCA'25](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--test1}, PF-LLM [ASPLOS'26](https://zhiyaoxie.github.io/files/ASPLOS26_PF-LLM.pdf){: .btn--test1} <span style="color:DimGray; font-size:85%">(Best Paper Award)</span>, ICP [ISCA'26](https://zhiyaoxie.github.io/files/empty.pdf){: .btn--test1}      
 
 &ensp;&ensp;&ensp; Please check my full publications list [here](https://zhiyaoxie.com/publications/){: .btn--paper} 
 
@@ -119,11 +119,12 @@ Student Recruitment
 
 Recent News 
 ====== 
+* <span style="color:DimGray; font-size:85%">[2026/05]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ISCA'26 papers (ICP, DySHARP) to be presented in Raleigh, US, both first-authored by my students: *Mengming* and *Qijun*.</span>     
+* <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, US, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*. Acceptance rate=22%.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award in Pittsburgh.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASPLOS'26 paper (PF-LLM) presented in Pittsburgh. Acceptance rate=14.5%.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the CityU HK EE Young Alumni Award.</span>  
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:RoyalBlue">(Service)</span> Served as the TPC Track Co-Chair of ISEDA'26.</span>  
-* <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*. Acceptance rate=22%.</span>    
 * <span style="color:DimGray; font-size:85%">[2026/02]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'26 paper (ATLAS-extension) accepted, first-authored by my student *Wenkai*.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 IEEE TCAD'26 paper (MFSPart) accepted, first-authored by my student *Yugao*.</span>   
 * <span style="color:DimGray; font-size:85%">[2026/01]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ASP-DAC'26 paper (ReadyPower) presented in Hong Kong, first-authored by my student *Qijun*. Acceptance rate=29.9%. This paper scored the 2nd highest in the track.</span>   
