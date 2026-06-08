@@ -103,7 +103,7 @@ Student Recruitment
     * We almost always have openings (Spring'27, Fall'27) as long as you are excellent!   
     * We welcome students with both CS and EE background.     
     * We target PhD applicants with strong background in *one* of following direction: 1) algorithm and programming; 2) deep learning; 3) EDA; 4) computer architecture. 
-    * We generally expect PhD applicants to meet *one* of following criteria: 1) top GPA rank [top 5%] from good Bachelor university [world top 300 or 985-level university]; 2) good GPA rank [top 25%] from top Bachelor university [world top 50 or mainland top 7]; 3) rich research experience with publications [1st author on CCF-A/B].   
+    * We generally expect PhD applicants to meet *one* of following criteria: 1) top GPA rank [top 5%] from good Bachelor university [world top 300 or mainland 985 university]; 2) good GPA rank [top 25%] from top Bachelor university [world top 50 or mainland top 7]; 3) rich research experience with publications [1st author on CCF-A/B].   
     * We have position for Post-Doc applicants. We need you to have publications on top AI/EDA/Arch conference/journals. Graduation from top 100 school (any mainstream rank) is a big plus.   
     * We support RA or Master *only if* you intend to continue with a PhD in our team.      
 
