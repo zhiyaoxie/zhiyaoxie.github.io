@@ -7,7 +7,7 @@ author_profile: true
 
 All publications below are full-length (regular or invited) papers, NOT including short papers, brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc.   
 
-My own supervised students in HKUST are highlighted with <u>underline</u>. 
+My own supervised students in HKUST are highlighted with <u>underline</u>. Corresponding author denoted with *.
 
 * [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
   <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
