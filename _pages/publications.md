@@ -11,7 +11,8 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 
 * [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
   <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES) [a 60-page survey on circuit foundation models, covering 130+ works]</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}   
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}     
+  <span style="font-size:95%">[A 60-page survey on circuit foundation models, covering 130+ works]</span>
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
