@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Preprints"
+title: "Peer-Reviewed Publications"
 permalink: /publications/
-Peer-Reviewed Publications
-======
+author_profile: true
+---
 
 All publications below are full-length (regular or invited) papers, NOT including short papers, brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc.   
 
