@@ -1,22 +1,17 @@
---- 
+---
 layout: archive
 title: "Preprints"
 permalink: /publications/
-author_profile: true
----
-
-* [Preprint](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
-<span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">Preprint (a 60-page survey on circuit foundation models, covering 130+ works), March 2025.</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}    
-
-----
-
 Peer-Reviewed Publications
 ======
 
 All publications below are full-length (regular or invited) papers, NOT including short papers, brief papers, extended abstract, late breaking results, findings, student forum papers/posters, tutorials, contests, etc.   
 
 My own supervised students in HKUST are highlighted with <u>underline</u>. 
+
+* [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
+  <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES) [a 60-page survey on circuit foundation models, covering 130+ works]</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}   
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
@@ -37,7 +32,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span>    
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Zhicheng Guo</u>, <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
- 
+
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Yuchao Wu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
@@ -343,7 +338,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>.
 * [ICCAD'18](https://iccad.com/){: .btn} <span style="color:DarkBlue">RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
- 
+
 Book Chapter
 ======
 * [Book Chapter'23](https://link.springer.com/book/10.1007/978-3-031-13074-8){: .btn} <span style="color:DarkBlue">Chapter 2: Deep Learning for Routability Prediction</span>   
@@ -406,5 +401,4 @@ Blog Article
 *StarryHeavensAbove*, 2022.</span> [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * <span style="font-size:95%">Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese),"     
 *AI Tech Review / AI 科技评论*, 2021.</span> [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
-
 
