@@ -9,6 +9,11 @@ All publications below are full-length (regular or invited) papers, NOT includin
 
 My own supervised students in HKUST are highlighted with <u>underline</u>. Corresponding author denoted with *.
 
+
+* [MICRO'26](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs</span>  
+<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou, <span style="color:black">**Zhiyao Xie**</span></span>  
+<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span>    
+
 * [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
   <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
   <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}     
