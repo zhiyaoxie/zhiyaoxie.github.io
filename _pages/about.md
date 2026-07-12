@@ -120,6 +120,7 @@ Student Recruitment
 Recent News 
 ====== 
 * <span style="color:DimGray; font-size:85%">[2026/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 4 ICCAD'26 papers (Dr. RTL, E-Layout, CorrectRTL, AssertLLM2) to be presented in San Jose, US, all first-authored by my students: *Wenji*\*2, *Jing*, and *Yuchao*.</span>     
+* <span style="color:DimGray; font-size:85%">[2026/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 MICRO'26 paper (HALO) to be presented in Athens, Greece, first-authored by my student: *Qijun*.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/06]</span> <span style="font-size:95%"> <span style="color:Crimson">(Grant)</span> A Research Grants Council (RGC) General Research Fund (GRF) led by me is granted, securing HKD 1,104,563. It scored 5.0/5.0. Thanks RGC!</span>  
 * <span style="color:DimGray; font-size:85%">[2026/06]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ACM TODAES'26 paper (Survey of Circuit Foundation Model) accepted, first-authored by my student: *Wenji*.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/05]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ISCA'26 papers (ICP, DySHARP) to be presented in Raleigh, US, both first-authored by my students: *Mengming* and *Qijun*.</span>     
