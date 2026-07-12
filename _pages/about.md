@@ -119,6 +119,8 @@ Student Recruitment
 
 Recent News 
 ====== 
+* <span style="color:DimGray; font-size:85%">[2026/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 4 ICCAD'26 papers (Dr. RTL, E-Layout, CorrectRTL, AssertLLM2) to be presented in San Jose, US, all first-authored by my students: *Wenji*\*2, *Jing*, and *Yuchao*.</span>     
+* <span style="color:DimGray; font-size:85%">[2026/07]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 1 ACM TODAES'26 paper (Survey of Circuit Foundation Model) accepted, first-authored by my students: *Wenji*.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/05]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 2 ISCA'26 papers (ICP, DySHARP) to be presented in Raleigh, US, both first-authored by my students: *Mengming* and *Qijun*.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:Green">(Paper)</span> 9 DAC'26 papers (COOL, ComPart, IMPart, LEAP, RTL-Sequencer, G-Power, RTL-BenchMT, FSGen, ShortCircuit) to be presented in Long Beach, US, all 9 first-authored by my students: *Qijun*, *Yao*, *Jing*, *Wenkai*, *Yugao*, *Jay*, *Ziyan*, and *Dimi*. Acceptance rate=22%.</span>     
 * <span style="color:DimGray; font-size:85%">[2026/03]</span> <span style="font-size:95%"> <span style="color:OrangeRed">(Award)</span> Received the ASPLOS'26 Best Paper Award in Pittsburgh.</span>  
