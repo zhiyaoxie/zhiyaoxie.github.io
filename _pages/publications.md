@@ -27,7 +27,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> 
 
 * [MICRO'26](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs</span>  
-<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou, <span style="color:black">**Zhiyao Xie\***</span></span>  
+<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou\*, <span style="color:black">**Zhiyao Xie\***</span></span>  
 <span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span>    
 
 * [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
