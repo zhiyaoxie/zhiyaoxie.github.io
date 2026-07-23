@@ -37,11 +37,11 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. 
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> 
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, <span style="color:black">**Zhiyao Xie**</span>, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo</span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. 
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
