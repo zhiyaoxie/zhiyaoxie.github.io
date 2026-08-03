@@ -30,18 +30,22 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou\*, <span style="color:black">**Zhiyao Xie\***</span></span>  
 <span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span>    
 
-* [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
+* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
   <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
   <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper} [ACM](https://dl.acm.org/doi/10.1145/3827602){: .btn--paper}       
   <span style="font-size:95%">[A 60-page survey on circuit foundation models, covering 130+ works]</span>   
 
+* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">OSCAR: An Open-Source Flexible and Hierarchical AI Accelerator Generator with Accurate Power Model</span>   
+  <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, <u>Yao Lu</u>, Di Pang, Xuejiao Liu, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>  
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span>  
+
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> 
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [arxiv](https://arxiv.org/abs/2605.15645){: .btn--paper}   
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, <span style="color:black">**Zhiyao Xie**</span>, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo</span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> 
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [arxiv](https://arxiv.org/abs/2605.05607){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -94,7 +98,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
-<span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2026. *(Acceptance rate=25%)*</span> 
+<span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2026. *(Acceptance rate=25%)*</span> [arxiv](https://arxiv.org/abs/2512.11342){: .btn--paper}  
 
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
