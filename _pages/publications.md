@@ -12,7 +12,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications</span>     
 <span style="color:DimGray; font-size:85%"><u>Yuchao Wu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Wenkai Li</u>, <u>Ziyan Guo</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> 
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [arxiv](https://arxiv.org/abs/2605.27472){: .btn--paper} 
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">CorrectRTL: Boost RTL Generation Quality Through Automated Self-Correction with Instruction Decomposition</span>     
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, <u>Wenji Fang</u>, <u>Yuchao Wu</u>, <u>Yugao Zhu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -20,7 +20,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, <u>Ziyan Guo</u>, Junxian He, Fengbin Tu, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> 
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [arxiv](https://arxiv.org/abs/2604.14989){: .btn--paper}   
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">E-Layout: Layout-Stage Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, Rongjian Liang, Yi-Chen Lu, Cunxi Yu, Chen Chen, <u>Shang Liu</u>, Chenhui Deng, <u>Wenkai Li</u>, Haoxing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -32,7 +32,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [TODAES'26](https://arxiv.org/abs/2504.03711){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
   <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [pdf](https://zhiyaoxie.github.io/files/preprint25_CFM.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2504.03711){: .btn--paper}     
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper} [ACM](https://dl.acm.org/doi/10.1145/3827602){: .btn--paper}       
   <span style="font-size:95%">[A 60-page survey on circuit foundation models, covering 130+ works]</span>   
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
@@ -49,7 +49,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span>    
 <span style="color:DimGray; font-size:85%"><u>Ziyan Guo</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2607.15830){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span>    
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Zhicheng Guo</u>, <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -57,15 +57,15 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Yuchao Wu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2606.18131){: .btn--paper} 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">IMPart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning</span>     
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2606.18117){: .btn--paper} 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision</span>    
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2605.15537){: .btn--paper} 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, Chen Zhang, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -117,7 +117,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/pdf/2507.21485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240664){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_HLSDebugger.pdf){: .btn--paper}  
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2507.21485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240664){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_HLSDebugger.pdf){: .btn--paper}  
 
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>   
