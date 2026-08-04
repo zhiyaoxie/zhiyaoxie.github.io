@@ -16,6 +16,7 @@ Zhiyao has received multiple prestigious awards, including the ACM SIGDA Outstan
 
 He has served as the TPC Member/TPC Track Chair/Student Forum Chair of all major EDA conferences: DAC, ICCAD, DATE, ASPDAC, MLCAD, ICLAD, ISEDA, and GLSVLSI. He also served as the Associate Editor of ACM TODAES, as well as the reviewer of 10+ IEEE/ACM journals. In addition, he served as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.  
 
+Check my Chinese bio [here](https://zhiyaoxie.github.io/files/bio-Chinese.pdf){: .btn--paper}. 
 
 Selected Award & Honors
 ======
