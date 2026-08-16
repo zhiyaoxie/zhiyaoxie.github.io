@@ -9,6 +9,26 @@ All publications below are full-length (regular or invited) papers, NOT includin
 
 My own supervised students in HKUST are highlighted with <u>underline</u>. Corresponding author denoted with *.
 
+<span style="color:DimGray; font-size:95%">    IEEE/ACM Journals under Early Access:</span>   
+
+* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
+  <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper} [ACM](https://dl.acm.org/doi/10.1145/3827602){: .btn--paper}       
+  <span style="font-size:95%">[A 60-page survey on circuit foundation models, covering 130+ works]</span>   
+
+* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">OSCAR: An Open-Source Flexible and Hierarchical AI Accelerator Generator with Accurate Power Model</span>   
+  <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, <u>Yao Lu</u>, Di Pang, Xuejiao Liu, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>  
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span>  
+
+* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
+<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Yugao Zhu</u>, <u>Ziyan Guo</u>, <u>Jing Wang</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11370209){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_ATLAS.pdf){: .btn--paper}     
+
+* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</span>    
+<span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, Yanzhen Zhu, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11358933){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_MFSPart.pdf){: .btn--paper}  
+
+<span style="color:DimGray; font-size:95%">    In 2026:</span>   
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications</span>     
 <span style="color:DimGray; font-size:85%"><u>Yuchao Wu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Wenkai Li</u>, <u>Ziyan Guo</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -29,15 +49,6 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [MICRO'26](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs</span>  
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou\*, <span style="color:black">**Zhiyao Xie\***</span></span>  
 <span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span>    
-
-* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
-  <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper} [ACM](https://dl.acm.org/doi/10.1145/3827602){: .btn--paper}       
-  <span style="font-size:95%">[A 60-page survey on circuit foundation models, covering 130+ works]</span>   
-
-* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">OSCAR: An Open-Source Flexible and Hierarchical AI Accelerator Generator with Accurate Power Model</span>   
-  <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, <u>Yao Lu</u>, Di Pang, Xuejiao Liu, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>  
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span>  
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
@@ -86,15 +97,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu\*, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li*</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
 <span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3779212.3790202){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPLOS26_PF-LLM.pdf){: .btn--paper}         
-<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(5 awardees out of 1029 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPLOS26.png){: .btn--orange}   
-
-* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
-<span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Yugao Zhu</u>, <u>Ziyan Guo</u>, <u>Jing Wang</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11370209){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_ATLAS.pdf){: .btn--paper}     
-
-* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</span>    
-<span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, Yanzhen Zhu, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11358933){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_MFSPart.pdf){: .btn--paper}    
+<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(5 awardees out of 1029 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPLOS26.png){: .btn--orange}     
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
