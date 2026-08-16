@@ -11,20 +11,20 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 <span style="color:DimGray; font-size:95%">    IEEE/ACM Journals under Early Access:</span>   
 
-* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
+* [TODAES-Early](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">A Survey of Circuit Foundation Model: Foundation AI Models for VLSI Circuit Design and EDA</span>   
   <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Yuchao Wu</u>, Yuzhe Ma, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span> [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper} [ACM](https://dl.acm.org/doi/10.1145/3827602){: .btn--paper}       
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), Early Access.</span> [arxiv](https://arxiv.org/abs/2504.03711){: .btn--paper} [ACM](https://dl.acm.org/doi/10.1145/3827602){: .btn--paper}       
   <span style="font-size:95%">[A 60-page survey on circuit foundation models, covering 130+ works]</span>   
 
-* [TODAES'26](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">OSCAR: An Open-Source Flexible and Hierarchical AI Accelerator Generator with Accurate Power Model</span>   
+* [TODAES-Early](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">OSCAR: An Open-Source Flexible and Hierarchical AI Accelerator Generator with Accurate Power Model</span>   
   <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, <u>Yao Lu</u>, Di Pang, Xuejiao Liu, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>  
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES)</span>  
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), Early Access.</span>  
 
-* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
+* [TCAD-Early](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Yugao Zhu</u>, <u>Ziyan Guo</u>, <u>Jing Wang</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11370209){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_ATLAS.pdf){: .btn--paper}     
 
-* [TCAD'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</span>    
+* [TCAD-Early](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, Yanzhen Zhu, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11358933){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_MFSPart.pdf){: .btn--paper}  
 
