@@ -49,7 +49,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2608.01946){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span>    
 <span style="color:DimGray; font-size:85%"><u>Ziyan Guo</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -73,15 +73,15 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, Chen Zhang, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2608.06870){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</span>    
 <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2608.09252){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC26_FSGen.pdf){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ShortCircuit: AlphaZero-Driven Generative Circuit Design</span>     
 <span style="color:DimGray; font-size:85%"><u>Dimitrios Tsaras</u>, Antoine Frederic Grosnit, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, Haitham Bou Ammar, and Mingxuan Yuan</span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_ShortCircuit.pdf){: .btn--paper}  
 
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu\*, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li*</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
