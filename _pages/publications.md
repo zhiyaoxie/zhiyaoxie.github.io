@@ -57,7 +57,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span>    
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Zhicheng Guo</u>, <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_COOL.pdf){: .btn--paper} 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Yuchao Wu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
