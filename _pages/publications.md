@@ -80,7 +80,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision</span>    
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2605.15537){: .btn--paper} 
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_RTL-BenchMT.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.15537){: .btn--paper} 
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, Chen Zhang, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -88,7 +88,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</span>    
 <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2608.09252){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC26_FSGen.pdf){: .btn--paper}  
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_FSGen.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2608.09252){: .btn--paper}   
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ShortCircuit: AlphaZero-Driven Generative Circuit Design</span>     
 <span style="color:DimGray; font-size:85%"><u>Dimitrios Tsaras</u>, Antoine Frederic Grosnit, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, Haitham Bou Ammar, and Mingxuan Yuan</span>    
