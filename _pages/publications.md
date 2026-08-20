@@ -278,17 +278,13 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang*, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Timer){: .btn--code}
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Timer){: .btn--code}   
 <span style="font-size:85%">San Francisco, United States, June 23–27, 2024.</span>  
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Accel-NASBench: Sustainable Benchmarking for Accelerator-Aware NAS</span>   
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, Linfeng Du, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC24_NASBench.pdf){: .btn--paper} [code](https://github.com/afzalxo/Accel-NASBench){: .btn--code}    
 <span style="font-size:85%">San Francisco, United States, June 23–27, 2024.</span>  
-
-* [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
-<span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
-<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>  [pdf](https://zhiyaoxie.github.io/files/TRETS24_FADO.pdf){: .btn--paper} [code](https://github.com/RipperJ/FADO){: .btn--code}    
 
 * [ASPDAC'24](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -312,6 +308,10 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10310247){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}   
+
+* [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
+<span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
+<span style="font-size:95%">ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2024.</span>  [pdf](https://zhiyaoxie.github.io/files/TRETS24_FADO.pdf){: .btn--paper} [code](https://github.com/RipperJ/FADO){: .btn--code}    
 
 <span style="color:DimGray; font-size:95%">    In 2023:</span>   
 
