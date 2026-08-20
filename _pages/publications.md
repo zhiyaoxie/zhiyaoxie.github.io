@@ -130,10 +130,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [NeurIPS'25](https://neurips.cc/){: .btn} <span style="color:DarkBlue">ArchPower: Dataset for Architecture-Level Power Modeling of Modern CPU Design</span>     
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">Advances in Neural Information Processing Systems (NeurIPS), D&B Track, 2025. *(Acceptance rate=24.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/NeurIPS25_ArchPower.pdf){: .btn--paper}      
+<span style="font-size:85%">San Diego, United States, December 2–7, 2025.</span>  
 
 * [EMNLP'25](https://2025.emnlp.org/){: .btn} <span style="color:DarkBlue">SynC-LLM: Generation of Large-Scale Synthetic Circuit Code with Hierarchical Language Models</span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">Conference on Empirical Methods in Natural Language Processing (EMNLP), Main, 2025. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/EMNLP25_SynC-LLM.pdf){: .btn--paper}       
+<span style="font-size:85%">Suzhou, China, November 4–9, 2025.</span>  
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -148,6 +150,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>   
 <span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://www.arxiv.org/abs/2506.15985){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--paper}  
+<span style="font-size:85%">Tokyo, Japan, June 21–25, 2025.</span>  
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
@@ -269,15 +272,18 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(8 nominees out of 167 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_Unleash.png){: .btn--orange}       
+<span style="font-size:85%">Newport Beach, United States, August 5–7, 2024.</span>  
 
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Mengming Li</u>, Min Li, Zhiyuan Yan, <u>Shang Liu</u>, Hongce Zhang\*, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691792){: .btn--paper} 
+<span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691792){: .btn--paper}   
+<span style="font-size:85%">San Jose, United States, June 28–29, 2024.</span>  
 
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691788){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [pdf2](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2312.08617v5){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_RTLCoder.pdf){: .btn--orange}    
+<span style="font-size:85%">San Jose, United States, June 28–29, 2024.</span>  
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang*, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
@@ -297,10 +303,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--code}   
 <span style="font-size:90%; color:red">Trending CS Papers (Top 5 in Hardware Architecture, 08/2024) </span> [record](https://zhiyaoxie.github.io/files-record/record_RTLLM.pdf){: .btn--orange}    
+<span style="font-size:85%">Incheon, South Korea, January 22–25, 2024.</span>  
 
 * [ASPDAC'24](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
 <span style="color:DimGray; font-size:85%"><u>Tao Zhang</u>, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--code}  
+<span style="font-size:85%">Incheon, South Korea, January 22–25, 2024.</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2023:</span>   
 
@@ -325,30 +333,35 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator</span>   
 <span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}    
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}   
 <span style="font-size:85%">San Francisco, United States, July 9–13, 2023.</span>  
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} <span style="color:DarkBlue">Efficient Runtime Power Modeling with On-Chip Power Meters <span style="font-size:90%">(Invited)</span></span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">International Symposium on Physical Design (ISPD), 2023.</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3569052.3578927){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}
+<span style="font-size:95%">International Symposium on Physical Design (ISPD), 2023.</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3569052.3578927){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISPD23_OPM.pdf){: .btn--paper}  
+<span style="font-size:85%">Virtual, March 26–29, 2023.</span>  
 
 * [ISQED'23](https://www.isqed.org/){: .btn} <span style="color:DarkBlue">Security and Reliability Challenges in Machine Learning for EDA: Latest Advances <span style="font-size:90%">(Invited)</span></span>	     
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, <u>Tao Zhang</u>, and <u>Yifeng Peng</u></span>      
-<span style="font-size:95%">International Symposium on Quality Electronic Design (ISQED), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10129359){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}
+<span style="font-size:95%">International Symposium on Quality Electronic Design (ISQED), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/10129359){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISQED23_survey.pdf){: .btn--paper}  
+<span style="font-size:85%">San Francisco, United States, April 5–7, 2023.</span>  
 
 * [FPGA'23](https://www.isfpga.org/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization for High-Level Synthesis Designs on Multi-Die FPGAs</span>     
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>     
-<span style="font-size:95%">ACM International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper} [code](https://github.com/RipperJ/FADO){: .btn--code}      
+<span style="font-size:95%">ACM International Symposium on Field-Programmable Gate Arrays (FPGA), 2023. *(Acceptance rate=28%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3543622.3573188){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/FPGA23_FADO.pdf){: .btn--paper} [code](https://github.com/RipperJ/FADO){: .btn--code}   
+<span style="font-size:85%">Monterey, United States, February 12–14, 2023.</span>  
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Rethink before Releasing your Model: ML Model Extraction Attack in EDA</span>   
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, and Yiran Chen</span>	  
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567896){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_Model_Extraction.pdf){: .btn--paper}   
 <span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(2 awardees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPDAC23.jpg){: .btn--orange}   
+<span style="font-size:85%">Tokyo, Japan, January 16–19, 2023.</span>  
 
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_Fully.pdf){: .btn--orange}  
+<span style="font-size:85%">Tokyo, Japan, January 16–19, 2023.</span>  
 
 <span style="color:DimGray; font-size:95%">    In 2022:</span>   
 
@@ -374,43 +387,51 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 ----
 <span style="color:DimGray; font-size:95%">    Before joining HKUST in 2022 summer:</span>   
 
-* [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
-<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2021. *(Acceptance rate=22%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
-<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(1 awardee out of 430 submissions)</span> [record](https://zhiyaoxie.github.io/images/MICRO21.png){: .btn--orange}    
-
 * [ICCAD'21](https://iccad.com/){: .btn} <span style="color:DarkBlue">Automatic Routability Predictor Development Using Neural Architecture Search</span>  
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, Tunhou Zhang, <span style="color:black">**Zhiyao Xie**</span>, Jiang Hu, Weiyi Qi, Chung-Wei Lin, Rongjian Liang, Joydeep Mitra, Elias Fallon, and Yiran Chen</span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2021. *(Acceptance rate=23.5%)*</span> [ACM](https://dl.acm.org/doi/10.1109/ICCAD51958.2021.9643483){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD21_NAS.pdf){: .btn--paper}  
 <span style="font-size:85%">Virtual, November 1–4, 2021.</span>  
 
+* [MICRO'21](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">APOLLO: An Automated Power Modeling Framework for Runtime Power Introspection in High-Volume Commercial Microprocessors</span>  
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
+<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2021. *(Acceptance rate=22%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
+<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(1 awardee out of 430 submissions)</span> [record](https://zhiyaoxie.github.io/images/MICRO21.png){: .btn--orange}    
+<span style="font-size:85%">Virtual, October 18–22, 2021.</span>  
+
 * [ASPDAC'21](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2021. *(Acceptance rate=34%)*</span> [IEEE](https://ieeexplore.ieee.org/abstract/document/9371657){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC21_Net2.pdf){: .btn--paper}    
+<span style="font-size:85%">Virtual, January 18–21, 2021.</span>  
 
 * [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Fast IR Drop Estimation with Machine Learning <span style="font-size:90%">(Invited)</span></span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Hai Li, Xiaoqing Xu, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9256803){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_IR.pdf){: .btn--paper}    
+<span style="font-size:85%">Virtual, November 2–5, 2020.</span>  
 
 * [ICCAD'20](https://iccad.com/){: .btn} <span style="color:DarkBlue">Routing-Free Crosstalk Prediction</span>   
 <span style="color:DimGray; font-size:85%">Rongjian Liang, <span style="color:black">**Zhiyao Xie**</span>, Jinwook Jung, Vishnavi Chauha, Yiran Chen, Jiang Hu, Hua Xiang, and Gi-Joon Nam</span>  
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2020. *(Acceptance rate=27%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9256755){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD20_Crosstalk.pdf){: .btn--paper}     
+<span style="font-size:85%">Virtual, November 2–5, 2020.</span>  
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">FIST: A Feature-Importance Sampling and Tree-Based Method for Automatic Design Flow Parameter Tuning</span>	  
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Guan-Qi Fang, Yu-Hung Huang, Haoxing Ren, Yanqing Zhang, Brucek Khailany, Shao-Yun Fang, Jiang Hu, Yiran Chen, and Erick Carvajal Barboza</span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2020. *(Acceptance rate=31%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9045201){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_FIST.pdf){: .btn--paper}    
+<span style="font-size:85%">Beijing, China, January 13–16, 2020.</span>  
 
 * [ASPDAC'20](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">PowerNet: Transferable Dynamic IR Drop Estimation via Maximum Convolutional Neural Network</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Haoxing Ren, Brucek Khailany, Ye Sheng, Santosh Santosh, Jiang Hu, and Yiran Chen</span>     
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2020. *(Acceptance rate=31%)*</span> [IEEE](https://ieeexplore.ieee.org/document/9045574){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC20_PowerNet.pdf){: .btn--paper}    
+<span style="font-size:85%">Beijing, China, January 13–16, 2020.</span>  
 
 * [DATE'19](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">Routability-Driven Macro Placement with Embedded CNN-Based Prediction Model</span>  
 <span style="color:DimGray; font-size:85%">Yu-Hung Huang, <span style="color:black">**Zhiyao Xie**</span>, Guan-Qi Fang, Tao-Chun Yu, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>      
 <span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2019. *(Acceptance rate=24%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8715126){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DATE19_Macro.pdf){: .btn--paper}   
+<span style="font-size:85%">Florence, Italy, March 25–29, 2019.</span>  
 
 * [ICCAD'18](https://iccad.com/){: .btn} <span style="color:DarkBlue">RouteNet: Routability Prediction for Mixed-Size Designs Using Convolutional Neural Network</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, and Jiang Hu</span>  
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2018. *(Acceptance rate=24.5%)*</span> [IEEE](https://ieeexplore.ieee.org/document/8587655){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD18_RouteNet.pdf){: .btn--paper}  
+<span style="font-size:85%">San Jose, United States, November 5–8, 2018.</span>  
 
 Book Chapter
 ======
