@@ -55,16 +55,6 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span> [pdf](https://zhiyaoxie.github.io/files/MICRO26_HALO.pdf){: .btn--paper}   
 <span style="font-size:85%">Athens, Greece, October 31–November 4, 2026.</span>  
 
-* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
-<span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISCA26_ICP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.15645){: .btn--paper}    
-<span style="font-size:85%">Raleigh, United States, June 27–July 1, 2026.</span>  
-
-* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs</span>   
-<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, <span style="color:black">**Zhiyao Xie**</span>, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo</span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISCA26_DySHARP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.05607){: .btn--paper}   
-<span style="font-size:85%">Raleigh, United States, June 27–July 1, 2026.</span>  
-
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_LEAP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2608.01946){: .btn--paper}    
@@ -110,16 +100,26 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_ShortCircuit.pdf){: .btn--paper}   
 <span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
-* [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
-<span style="color:DimGray; font-size:85%">Ceyu Xu\*, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li*</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
-<span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3779212.3790202){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPLOS26_PF-LLM.pdf){: .btn--paper}         
-<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(5 awardees out of 1029 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPLOS26.png){: .btn--orange}     
-<span style="font-size:85%">Pittsburgh, United States, March 22–26, 2026.</span>  
+* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
+<span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISCA26_ICP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.15645){: .btn--paper}    
+<span style="font-size:85%">Raleigh, United States, June 27–July 1, 2026.</span>  
+
+* [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs</span>   
+<span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, <span style="color:black">**Zhiyao Xie**</span>, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo</span>   
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISCA26_DySHARP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.05607){: .btn--paper}   
+<span style="font-size:85%">Raleigh, United States, June 27–July 1, 2026.</span>  
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
 <span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2026. *(Acceptance rate=25%)*</span> [pdf](https://zhiyaoxie.github.io/files/DATE26_DAPO.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2512.11342){: .btn--paper}  
 <span style="font-size:85%">Verona, Italy, April 20–22, 2026.</span>  
+
+* [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
+<span style="color:DimGray; font-size:85%">Ceyu Xu\*, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li*</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
+<span style="font-size:95%">ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026. *(Acceptance rate=14.5%)*</span> [ACM](https://dl.acm.org/doi/10.1145/3779212.3790202){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPLOS26_PF-LLM.pdf){: .btn--paper}         
+<span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(5 awardees out of 1029 submissions)</span> [record](https://zhiyaoxie.github.io/images/ASPLOS26.png){: .btn--orange}     
+<span style="font-size:85%">Pittsburgh, United States, March 22–26, 2026.</span>  
 
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -149,11 +149,6 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2507.21485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240664){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_HLSDebugger.pdf){: .btn--paper}  
 <span style="font-size:85%">Munich, Germany, October 26–30, 2025.</span>  
 
-* [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
-<span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://www.arxiv.org/abs/2506.15985){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--paper}  
-<span style="font-size:85%">Tokyo, Japan, June 21–25, 2025.</span>  
-
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--paper}   
@@ -179,18 +174,25 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_ELF.pdf){: .btn--paper}    
 <span style="font-size:85%">San Francisco, United States, June 22–25, 2025.</span>  
 
+* [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
+<span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>   
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://www.arxiv.org/abs/2506.15985){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ISCA25_Prophet.pdf){: .btn--paper}  
+<span style="font-size:85%">Tokyo, Japan, June 21–25, 2025.</span>  
+
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
 <span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Qijun Zhang</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
 <span style="font-size:85%">Las Vegas, United States, March 1–5, 2025.</span>  
 
+* [ISEDA'25](https://www.eda2.com/iseda/index.html){: .btn} <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>   
+<span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [pdf](https://zhiyaoxie.github.io/files/ISEDA25_SpecLLM.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
+<span style="font-size:85%">Hong Kong, China, May 9–12, 2025.</span>  
+
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
 <span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">International Conference on Learning Representations (ICLR), 2025. *(Acceptance rate=32%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICLR25_CircuitFusion.pdf){: .btn--paper}     
-
-* [TODAES'25](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">LithoExp: Explainable Two-stage CNN-based Lithographic Hotspot Detection with Layout Defect Localization</span>    
-<span style="color:DimGray; font-size:85%">Cong Jiang, Haoyang Sun, Dan Feng, <span style="color:black">**Zhiyao Xie**</span>, Benjamin Tan, Kang Liu</span>         
-<span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025.</span> [ACM](https://dl.acm.org/doi/10.1145/3721129){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TODAES25_LithoExp.pdf){: .btn--paper}     
+<span style="font-size:85%">Singapore, April 24–28, 2025.</span>  
 
 * [ASPDAC'25](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue"> A Self-Supervised, Pre-Trained, and Cross-Stage-Aligned Circuit Encoder Provides a Foundation for Various Design Tasks </span>   
 <span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie***</span></span>    
@@ -228,11 +230,6 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025. *(Acceptance rate=28.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC25_PRICING.pdf){: .btn--paper}   
 <span style="font-size:85%">Tokyo, Japan, January 20–23, 2025.</span>  
 
-* [ISEDA'25](https://www.eda2.com/iseda/index.html){: .btn} <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>   
-<span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [pdf](https://zhiyaoxie.github.io/files/ISEDA25_SpecLLM.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
-<span style="font-size:85%">Hong Kong, China, May 9–12, 2025.</span>  
-
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10816030){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_PANDA.pdf){: .btn--paper}   
@@ -245,6 +242,9 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</span> [IEEE](https://ieeexplore.ieee.org/document/10577671){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD25_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--code}     
 
+* [TODAES'25](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">LithoExp: Explainable Two-stage CNN-based Lithographic Hotspot Detection with Layout Defect Localization</span>    
+<span style="color:DimGray; font-size:85%">Cong Jiang, Haoyang Sun, Dan Feng, <span style="color:black">**Zhiyao Xie**</span>, Benjamin Tan, Kang Liu</span>         
+<span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), 2025.</span> [ACM](https://dl.acm.org/doi/10.1145/3721129){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TODAES25_LithoExp.pdf){: .btn--paper}     
 
 <span style="color:DimGray; font-size:95%">    In 2024:</span>   
 
@@ -258,18 +258,6 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%">Jingyu Pan, Chen-Chia Chang, <span style="color:black">**Zhiyao Xie**</span>, Yiran Chen, Hai Li</span>    
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024. *(Acceptance rate=24%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD24_EDALearn.pdf){: .btn--paper}     
 <span style="font-size:85%">Newark, United States, October 27–31, 2024.</span>  
-
-* [SCIS'24](https://link.springer.com/journal/11432){: .btn} <span style="color:DarkBlue">Large Circuit Models: Opportunities and Challenges</span>    
-<span style="color:DimGray; font-size:85%"> One of the 40+ authors in alphabetical order</span>    
-<span style="font-size:95%">Science China Information Sciences (SCIS), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/SCIS24_LCM.pdf){: .btn--paper}    
-
-* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Data-pattern-based Predictive On-Chip Power Meter in DNN Accelerator</span>    
-<span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, Jingbo Jiang, Yipu Zhang, Zhe Lin, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10554667){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/TCAD24_OPM.pdf){: .btn--paper}     
-
-* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
-<span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10310247){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}   
 
 * [ISLPED'24](https://www.islped.org/2024/index.php){: .btn} <span style="color:DarkBlue">Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</span>   
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -313,11 +301,19 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/ASPDAC24_APPLE.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/APPLE){: .btn--code}  
 <span style="font-size:85%">Incheon, South Korea, January 22–25, 2024.</span>  
 
-<span style="color:DimGray; font-size:95%">    In 2023:</span>   
+* [SCIS'24](https://link.springer.com/journal/11432){: .btn} <span style="color:DarkBlue">Large Circuit Models: Opportunities and Challenges</span>    
+<span style="color:DimGray; font-size:85%"> One of the 40+ authors in alphabetical order</span>    
+<span style="font-size:95%">Science China Information Sciences (SCIS), 2024.</span> [pdf](https://zhiyaoxie.github.io/files/SCIS24_LCM.pdf){: .btn--paper}    
 
-* [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">The Dark Side: Security and Reliability Concerns in Machine Learning for EDA</span>    
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>    
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
+* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Data-pattern-based Predictive On-Chip Power Meter in DNN Accelerator</span>    
+<span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, Jingbo Jiang, Yipu Zhang, Zhe Lin, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10554667){: .btn--paper}  [pdf](https://zhiyaoxie.github.io/files/TCAD24_OPM.pdf){: .btn--paper}     
+
+* [TCAD'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Towards Fully Automated Machine Learning for Routability Estimator Development</span>    
+<span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10310247){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD24_Automated.pdf){: .btn--paper}   
+
+<span style="color:DimGray; font-size:95%">    In 2023:</span>   
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -366,11 +362,11 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_Fully.pdf){: .btn--orange}  
 <span style="font-size:85%">Tokyo, Japan, January 16–19, 2023.</span>  
 
-<span style="color:DimGray; font-size:95%">    In 2022:</span>   
+* [TCAD'23](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">The Dark Side: Security and Reliability Concerns in Machine Learning for EDA</span>    
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, Jingyu Pan, Chen-Chia Chang, Jiang Hu, and Yiran Chen</span>    
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2023.</span> [IEEE](https://ieeexplore.ieee.org/document/9858101){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD22_Dark.pdf){: .btn--paper} 
 
-* [TCAD'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network</span>	  
-<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, and Yiran Chen</span>  
-<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.</span> [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
+<span style="color:DimGray; font-size:95%">    In 2022:</span>   
 
 * [ICCAD'22](https://iccad.com/){: .btn} <span style="color:DarkBlue">DEEP: Developing Extremely Efficient Runtime On-Chip Power Meters</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Shiyu Li, Mingyuan Ma, Chen-Chia Chang, Jingyu Pan, Yiran Chen, and Jiang Hu</span>  
@@ -386,6 +382,10 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%">Jingyu Pan, Chen-Chia Chang, <span style="color:black">**Zhiyao Xie**</span>, Ang Li, Minxue Tang, Tunhou Zhang, Jiang Hu, and Yiran Chen</span>  
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2022. *(Acceptance rate=23%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3489517.3530578){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC22_FL.pdf){: .btn--paper}  
 <span style="font-size:85%">San Francisco, United States, July 10–14, 2022.</span>  
+
+* [TCAD'22](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">Pre-Placement Net Length and Timing Estimation by Customized Graph Neural Network</span>    
+<span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Chen-Chia Chang, Jingyu Pan, and Yiran Chen</span>  
+<span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2022.</span> [IEEE](https://ieeexplore.ieee.org/document/9707500){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD21_Time.pdf){: .btn--paper} 
 
 ----
 <span style="color:DimGray; font-size:95%">    Before joining HKUST in 2022 summer:</span>   
