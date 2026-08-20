@@ -234,7 +234,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ISLPED'24](https://www.islped.org/2024/index.php){: .btn} <span style="color:DarkBlue">Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</span>   
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISLPED24_AgileDev.pdf){: .btn--paper}    
-<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(8 nominees out of 167 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_Unleash.png){: .btn--orange}       
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(8 nominees out of 167 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_Unleash.png){: .btn--orange}       
 
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Mengming Li</u>, Min Li, Zhiyuan Yan, <u>Shang Liu</u>, Hongce Zhang\*, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -243,7 +243,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [LAD'24](https://www.islad.org/){: .btn} <span style="color:DarkBlue">RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</span>    
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Qijun Zhang</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE International Workshop on LLM-Aided Design (LAD), 2024.</span> [IEEE](https://ieeexplore.ieee.org/document/10691788){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/LAD24_RTLCoder.pdf){: .btn--paper} [pdf2](https://zhiyaoxie.github.io/files/LAD24_RTLCoder2.pdf){: .btn--paper} [arxiv](https://arxiv.org/pdf/2312.08617v5){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Coder){: .btn--code}      
-<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_RTLCoder.pdf){: .btn--orange}    
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(6 nominees out of 50 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_RTLCoder.pdf){: .btn--orange}    
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang*, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
@@ -260,7 +260,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ASPDAC'24](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024. *(Acceptance rate=29%)*</span> [pdf](https://zhiyaoxie.github.io/files/Arxiv23_RTLLM.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTLLM){: .btn--code}   
-<span style="font-size:90%; color:red">Trending CS Papers (Top 5 in Hardware Architecture, 08/2024) </span> [record](https://zhiyaoxie.github.io/files/record_RTLLM.pdf){: .btn--orange}    
+<span style="font-size:90%; color:red">Trending CS Papers (Top 5 in Hardware Architecture, 08/2024) </span> [record](https://zhiyaoxie.github.io/files-record/record_RTLLM.pdf){: .btn--orange}    
 
 * [ASPDAC'24](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">APPLE: An Explainer of ML Predictions on Circuit Layout at the Circuit-Element Level</span>   
 <span style="color:DimGray; font-size:85%"><u>Tao Zhang</u>, Haoyu Yang, Kang Liu, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -308,7 +308,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ASPDAC'23](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Fully Automated Machine Learning Model Development for Analog Placement Quality Prediction</span>     
 <span style="color:DimGray; font-size:85%">Chen-Chia Chang, Jingyu Pan, <span style="color:black">**Zhiyao Xie**</span>, Yaguang Li, Yishuang Lin, Jiang Hu, and Yiran Chen</span>   
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2023. *(Acceptance rate=31%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3566097.3567881){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ASPDAC23_NAS_Analog.pdf){: .btn--paper}   
-<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/files/record_Fully.pdf){: .btn--orange}  
+<span style="font-size:90%; color:red">Best Paper Nomination</span> <span style="font-size:80%; color:crimson">(11 nominees out of 328 submissions)</span> [record](https://zhiyaoxie.github.io/files-record/record_Fully.pdf){: .btn--orange}  
 
 <span style="color:DimGray; font-size:95%">    In 2022:</span>   
 
@@ -382,7 +382,7 @@ Ph.D. Dissertation
 ======
 * [Dissertation'22](https://library.duke.edu/find/theses-dissertations){: .btn} <span style="color:DarkBlue">Intelligent Circuit Design and Implementation with Machine Learning</span>    
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span></span>   
-<span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/Dissertation22.pdf){: .btn--paper}  
+<span style="font-size:95%">PhD Dissertation of Duke University, 2022.</span> [Proquest](https://www.proquest.com/docview/2671665310?pq-origsite=gscholar&fromopenview=true){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-other/Dissertation22.pdf){: .btn--paper}  
 <span style="font-size:100%; color:red">**ACM Outstanding Dissertation Award in EDA**</span> <span style="font-size:80%; color:crimson">(1 awardee worldwide per year)</span> [record](https://zhiyaoxie.github.io/images/SIGDA_photo.jpg){: .btn--orange}    
 <span style="font-size:100%; color:red">**EDAA Outstanding Dissertation Award**</span> <span style="font-size:80%; color:crimson">(4 awardees worldwide per year)</span> [record](https://zhiyaoxie.github.io/images/EDAA_photo.jpg){: .btn--orange}    
 
