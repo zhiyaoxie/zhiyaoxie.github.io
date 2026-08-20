@@ -48,23 +48,23 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [MICRO'26](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs</span>  
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou\*, <span style="color:black">**Zhiyao Xie\***</span></span>  
-<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span>    
+<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span> [pdf](https://zhiyaoxie.github.io/files/MICRO26_HALO.pdf){: .btn--paper}   
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, Chenlu Miao, <u>Buqing Xu</u>, <u>Qijun Zhang</u>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, <u>Wenkai Li</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [arxiv](https://arxiv.org/abs/2605.15645){: .btn--paper}   
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISCA26_ICP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.15645){: .btn--paper}   
 
 * [ISCA'26](https://iscaconf.org/isca2026/){: .btn} <span style="color:DarkBlue">Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, <span style="color:black">**Zhiyao Xie**</span>, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, Minyi Guo</span>   
-<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [arxiv](https://arxiv.org/abs/2605.05607){: .btn--paper}  
+<span style="font-size:95%">International Symposium on Computer Architecture (ISCA), 2026. *(Acceptance rate=18.9%)*</span> [pdf](https://zhiyaoxie.github.io/files/ISCA26_DySHARP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.05607){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Ziyan Guo</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2608.01946){: .btn--paper}  
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_LEAP.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2608.01946){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm</span>    
 <span style="color:DimGray; font-size:85%"><u>Ziyan Guo</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Yuchao Wu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2607.15830){: .btn--paper}  
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_RTL-Sequencer.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2607.15830){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</span>    
 <span style="color:DimGray; font-size:85%"><u>Yao Lu</u>, <u>Zhicheng Guo</u>, <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Wenji Fang</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -84,7 +84,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, Chen Zhang, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [arxiv](https://arxiv.org/abs/2608.06870){: .btn--paper}  
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_G-Power.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2608.06870){: .btn--paper}  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</span>    
 <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
