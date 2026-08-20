@@ -80,32 +80,32 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning</span>    
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Yuchao Wu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_ComPart.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2606.18131){: .btn--paper}     
-<span style="font-size:90%">Long Beach, United States, July 26–29, 2026.</span>  
+<span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">IMPart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning</span>     
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Zhicheng Guo</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_IMPart.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2606.18117){: .btn--paper}   
-<span style="font-size:90%">Long Beach, United States, July 26–29, 2026.</span>  
+<span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">RTL-BenchMT: Dynamic Maintenance of RTL Generation Benchmark Through Agent-Assisted Analysis and Revision</span>    
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_RTL-BenchMT.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2605.15537){: .btn--paper}  
-<span style="font-size:90%">Long Beach, United States, July 26–29, 2026.</span>  
+<span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Mengming Li</u>, Chen Zhang, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_G-Power.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2608.06870){: .btn--paper}  
-<span style="font-size:90%">Long Beach, United States, July 26–29, 2026.</span>  
+<span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</span>    
 <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_FSGen.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2608.09252){: .btn--paper}   
-<span style="font-size:90%">Long Beach, United States, July 26–29, 2026.</span>  
+<span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">ShortCircuit: AlphaZero-Driven Generative Circuit Design</span>     
 <span style="color:DimGray; font-size:85%"><u>Dimitrios Tsaras</u>, Antoine Frederic Grosnit, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, Haitham Bou Ammar, and Mingxuan Yuan</span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2026. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC26_ShortCircuit.pdf){: .btn--paper}   
-<span style="font-size:90%">Long Beach, United States, July 26–29, 2026.</span>  
+<span style="font-size:85%">Long Beach, United States, July 26–29, 2026.</span>  
 
 * [ASPLOS'26](https://www.asplos-conference.org/asplos2026/){: .btn} <span style="color:DarkBlue">PF-LLM: Large Language Model Hinted Hardware Prefetching</span>  
 <span style="color:DimGray; font-size:85%">Ceyu Xu\*, Xiangfeng Sun, Weihang Li, Chen Bai, Bangyan Wang, <u>Mengming Li*</u>, <span style="color:black">**Zhiyao Xie**</span>, Yuan Xie</span>      
@@ -134,12 +134,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">GenEDA: Towards Generative Netlist Functional Reasoning via Cross-Modal Circuit Encoder-Decoder Alignment</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2504.09485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240762){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_GenEDA.pdf){: .btn--paper}      
-<span style="font-size:90%">Munich, Germany, October 26–30, 2025.</span>  
+<span style="font-size:85%">Munich, Germany, October 26–30, 2025.</span>  
 
 * [ICCAD'25](https://iccad.com/){: .btn} <span style="color:DarkBlue">HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions</span>     
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2025. *(Acceptance rate=24.7%)*</span> [arxiv](https://arxiv.org/abs/2507.21485){: .btn--paper} [IEEE](https://ieeexplore.ieee.org/document/11240664){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/ICCAD25_HLSDebugger.pdf){: .btn--paper}  
-<span style="font-size:90%">Munich, Germany, October 26–30, 2025.</span>  
+<span style="font-size:85%">Munich, Germany, October 26–30, 2025.</span>  
 
 * [ISCA'25](https://iscaconf.org/isca2025/){: .btn} <span style="color:DarkBlue">Profile-Guided Temporal Prefetching</span>   
 <span style="color:DimGray; font-size:85%"><u>Mengming Li</u>, <u>Qijun Zhang</u>, Yichuan Gao, <u>Wenji Fang</u>, <u>Yao Lu</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>   
@@ -148,31 +148,32 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_AutoPower.pdf){: .btn--paper}   
-<span style="font-size:90%">San Francisco, United States, June 22–25, 2025.</span>  
+<span style="font-size:85%">San Francisco, United States, June 22–25, 2025.</span>  
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_ATLAS.pdf){: .btn--paper}    
-<span style="font-size:90%">San Francisco, United States, June 22–25, 2025.</span>  
+<span style="font-size:85%">San Francisco, United States, June 22–25, 2025.</span>  
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">NetTAG: A Multimodal RTL-and-Layout-Aligned Netlist Foundation Model via Text-Attributed Graph</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Wenkai Li</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, Hongce Zhang, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [arxiv](https://arxiv.org/abs/2504.09260){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/DAC25_NetTAG.pdf){: .btn--paper}    
-<span style="font-size:90%">San Francisco, United States, June 22–25, 2025.</span>  
+<span style="font-size:85%">San Francisco, United States, June 22–25, 2025.</span>  
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">SynCircuit: Automated Generation of New Synthetic RTL Circuits Can Enable Big Data in Circuits</span>   
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Jing Wang</u>, <u>Wenji Fang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC25_SynCircuit.pdf){: .btn--paper}   
-<span style="font-size:90%">San Francisco, United States, June 22–25, 2025.</span>  
+<span style="font-size:85%">San Francisco, United States, June 22–25, 2025.</span>  
 
 * [DAC'25](https://www.dac.com/){: .btn} <span style="color:DarkBlue">ELF: Efficient Logic Synthesis by Pruning Redundancy in Refactoring</span>   
 <span style="color:DimGray; font-size:85%"><u>Dimitrios Tsaras</u>, Xing Li, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2025. *(Acceptance rate=23%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC25_ELF.pdf){: .btn--paper}    
-<span style="font-size:90%">San Francisco, United States, June 22–25, 2025.</span>  
+<span style="font-size:85%">San Francisco, United States, June 22–25, 2025.</span>  
 
 * [HPCA'25](https://hpca-conf.org/2025/){: .btn} <span style="color:DarkBlue">Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</span>   
 <span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Qijun Zhang</u>, Yongqing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. *(Acceptance rate=21%)*</span> [pdf](https://zhiyaoxie.github.io/files/HPCA25_Alecto.pdf){: .btn--paper}           
+<span style="font-size:85%">Las Vegas, United States, March 1–5, 2025.</span>  
 
 * [ICLR'25](https://iclr.cc/){: .btn} <span style="color:DarkBlue">CircuitFusion: Multimodal Circuit Representation Learning for Agile Chip Design</span>     
 <span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -234,10 +235,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">OpenLLM-RTL: Open Dataset and Benchmark for LLM-Aided Design RTL Generation <span style="font-size:90%">(Invited)</span></span>     
 <span style="color:DimGray; font-size:85%"><u>Shang Liu</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024. *(Acceptance rate=24%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD24_OpenLLM.pdf){: .btn--paper}     
+<span style="font-size:85%">Newark, United States, October 27–31, 2024.</span>  
 
 * [ICCAD'24](https://iccad.com/){: .btn} <span style="color:DarkBlue">EDALearn: A Comprehensive RTL-to-Signoff EDA Benchmark for Democratized and Reproducible ML for EDA Research <span style="font-size:90%">(Invited)</span></span>     
 <span style="color:DimGray; font-size:85%">Jingyu Pan, Chen-Chia Chang, <span style="color:black">**Zhiyao Xie**</span>, Yiran Chen, Hai Li</span>    
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2024. *(Acceptance rate=24%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD24_EDALearn.pdf){: .btn--paper}     
+<span style="font-size:85%">Newark, United States, October 27–31, 2024.</span>  
 
 * [SCIS'24](https://link.springer.com/journal/11432){: .btn} <span style="color:DarkBlue">Large Circuit Models: Opportunities and Challenges</span>    
 <span style="color:DimGray; font-size:85%"> One of the 40+ authors in alphabetical order</span>    
@@ -268,10 +271,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Annotating Slack Directly on Your Verilog: Fine-Grained RTL Timing Evaluation for Early Optimization</span>   
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Shang Liu</u>, Hongce Zhang*, and <span style="color:black">**Zhiyao Xie\***</span></span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span>  [pdf](https://zhiyaoxie.github.io/files/DAC24_RTLTimer.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/RTL-Timer){: .btn--code}
+<span style="font-size:85%">San Francisco, United States, June 23–27, 2024.</span>  
 
 * [DAC'24](https://www.dac.com/){: .btn} <span style="color:DarkBlue">Accel-NASBench: Sustainable Benchmarking for Accelerator-Aware NAS</span>   
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, Linfeng Du, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2024. *(Acceptance rate=22%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC24_NASBench.pdf){: .btn--paper} [code](https://github.com/afzalxo/Accel-NASBench){: .btn--code}    
+<span style="font-size:85%">San Francisco, United States, June 23–27, 2024.</span>  
 
 * [TRETS'24](https://dl.acm.org/journal/trets/){: .btn} <span style="color:DarkBlue">FADO: Floorplan-Aware Directive Optimization Based on Synthesis and Analytical Models for High-Level Synthesis Designs on Multi-Die FPGAs</span>   
 <span style="color:DimGray; font-size:85%">Linfeng Du, Tingyuan Liang, Xiaofeng Zhou, Jinming Ge, Shangkun Li, Sharad Sinha, Jieru Zhao, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
@@ -295,18 +300,22 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</span>   
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_PANDA.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/PANDA){: .btn--code}   
+<span style="font-size:85%">San Francisco, United States, October 29–November 2, 2023.</span>  
 
 * [ICCAD'23](https://iccad.com/){: .btn} <span style="color:DarkBlue">MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design</span>  
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Qijun Zhang</u>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang\*, and <span style="color:black">**Zhiyao Xie\***</span></span>   
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD23_MasterRTL.pdf){: .btn--paper} [code](https://github.com/hkust-zhiyao/MasterRTL){: .btn--code}   
+<span style="font-size:85%">San Francisco, United States, October 29–November 2, 2023.</span>  
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PertNAS: Architectural Perturbations for Memory-Efficient Neural Architecture Search</span>     
 <span style="color:DimGray; font-size:85%">Afzal Ahmad, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>   
-<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper} [code](https://github.com/afzalxo/PertNAS){: .btn--code}      
+<span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PertNAS.pdf){: .btn--paper} [code](https://github.com/afzalxo/PertNAS){: .btn--code}    
+<span style="font-size:85%">San Francisco, United States, July 9–13, 2023.</span>  
 
 * [DAC'23](https://www.dac.com/){: .btn} <span style="color:DarkBlue">PROPHET: Predictive On-Chip Power Meter for Hardware DNN Accelerator</span>   
 <span style="color:DimGray; font-size:85%">Jian Peng, Tingyuan Liang, <span style="color:black">**Zhiyao Xie**</span>, and Wei Zhang</span>	   
 <span style="font-size:95%">ACM/IEEE Design Automation Conference (DAC), 2023. *(Acceptance rate=23%)*</span> [pdf](https://zhiyaoxie.github.io/files/DAC23_PROPHET.pdf){: .btn--paper}    
+<span style="font-size:85%">San Francisco, United States, July 9–13, 2023.</span>  
 
 * [ISPD'23](https://ispd.cc/ispd2023/){: .btn} <span style="color:DarkBlue">Efficient Runtime Power Modeling with On-Chip Power Meters <span style="font-size:90%">(Invited)</span></span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie\***</span></span>     
