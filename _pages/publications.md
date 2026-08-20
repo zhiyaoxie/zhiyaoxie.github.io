@@ -404,30 +404,30 @@ Patent
 Media Coverage
 ======
 * <span style="font-size:95%">"Three Professors Awarded HK$12.6 Million in RGC’s Collaborative Research Fund 2024/25"  
-*HKUST SENG Recognition*, 2025.</span> [News](https://seng.hkust.edu.hk/news/20250107/three-professors-awarded-hk126-million-rgcs-collaborative-research-fund-202425){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_CRF.pdf){: .btn--paper} [png](https://zhiyaoxie.github.io/files/media-YCRG-photo.png){: .btn--paper}    
+*HKUST SENG Recognition*, 2025.</span> [News](https://seng.hkust.edu.hk/news/20250107/three-professors-awarded-hk126-million-rgcs-collaborative-research-fund-202425){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_CRF.pdf){: .btn--paper} [png](https://zhiyaoxie.github.io/files-media/media-YCRG-photo.png){: .btn--paper}    
 * <span style="font-size:95%">"SRC Computer Aided Test and Design Researchers Receive Big Awards,"  
-*SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [png](https://zhiyaoxie.github.io/files/media_SRC_CONNECTIONS.png){: .btn--paper}   
+*SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [png](https://zhiyaoxie.github.io/files-media/media_SRC_CONNECTIONS.png){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
-*ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationACCESS.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files/media-EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files/media-SIGDA_photo.jpg){: .btn--paper}     
+*ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_dissertationACCESS.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-SIGDA_photo.jpg){: .btn--paper}     
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
-*HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_dissertationHKUST.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files/media-EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files/media-SIGDA_photo.jpg){: .btn--paper}    
+*HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_dissertationHKUST.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-SIGDA_photo.jpg){: .btn--paper}    
 * <span style="font-size:95%">"AI Models Microprocessor Performance in Real-Time,"    
-*Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Duke.pdf){: .btn--paper}    
+*Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_News_Duke.pdf){: .btn--paper}    
 * <span style="font-size:95%">"Apollo: Made to measure,"    
-*Arm Research Articles*.</span> [News](https://community.arm.com/arm-research/b/articles/posts/apollo-made-to-measure){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_News_Arm.pdf){: .btn--paper}    
+*Arm Research Articles*.</span> [News](https://community.arm.com/arm-research/b/articles/posts/apollo-made-to-measure){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_News_Arm.pdf){: .btn--paper}    
 * <span style="font-size:95%">"Fast, Accurate, and Low-cost: An Automated Power Analysis Framework (Chinese),"     
-*AI Tech Review / AI 科技评论*, 2021.</span> [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review.pdf){: .btn--paper}      
+*AI Tech Review / AI 科技评论*, 2021.</span> [News](https://www.leiphone.com/category/academic/fGnxkVOdi9vOEngx.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_AI_tech_review.pdf){: .btn--paper}      
 * <span style="font-size:95%">"A New Power Modeling Method APOLLO (Chinese),"   
-*AI Era / 新智元*, 2021.</span> [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_xinzhiyuan.pdf){: .btn--paper}    
+*AI Era / 新智元*, 2021.</span> [News](https://www.163.com/dy/article/GMTQ7NUO0511ABV6.html){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_xinzhiyuan.pdf){: .btn--paper}    
 * <span style="font-size:95%">"CPU Power Introspection at Lower Cost (Chinese),"   
-*Synced / 机器之心*, 2021.</span> [News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_jiqizhixin.pdf){: .btn--paper}    
+*Synced / 机器之心*, 2021.</span> [News](https://mp.weixin.qq.com/s/akzS_px1XlgqjFCbcrt0fg){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_jiqizhixin.pdf){: .btn--paper}    
 * <span style="font-size:95%">"APOLLO: A Fast IC Measurement Solution (Chinese),"    
-*China Science Daily / 中国科学报*, 2021.</span> [News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_ScienceNet.pdf){: .btn--paper}     
+*China Science Daily / 中国科学报*, 2021.</span> [News](https://news.sciencenet.cn/htmlnews/2021/12/471181.shtm){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_ScienceNet.pdf){: .btn--paper}     
 
 Blog Article
 ======
 * <span style="font-size:95%">Zhiyao Xie, "Will AI change EDA? (Chinese),"   
-*StarryHeavensAbove*, 2022.</span> [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_StarryHeavensAbove.pdf){: .btn--paper}    
+*StarryHeavensAbove*, 2022.</span> [News](https://mp.weixin.qq.com/s/MYrB8RylWL6JpfCsX8ga3g){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_StarryHeavensAbove.pdf){: .btn--paper}    
 * <span style="font-size:95%">Zhiyao Xie, "Review of Top EDA Conference: DAC'21 (Chinese),"     
-*AI Tech Review / AI 科技评论*, 2021.</span> [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/media_AI_tech_review2.pdf){: .btn--paper}     
+*AI Tech Review / AI 科技评论*, 2021.</span> [News](https://zhuanlan.zhihu.com/p/447597399){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_AI_tech_review2.pdf){: .btn--paper}     
 
