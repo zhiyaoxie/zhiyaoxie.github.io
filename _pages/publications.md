@@ -101,7 +101,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [DATE'26](https://www.date-conference.com/){: .btn} <span style="color:DarkBlue">DAPO: Design Structure Aware Pass Ordering in High-Level Synthesis with Graph Contrastive and Reinforcement Learning</span>  
 <span style="color:DimGray; font-size:85%">Jinming Ge, Linfeng Du, Likith Anaparty, Shangkun Li, Tingyuan Liang, Afzal Ahmad, Vivek Chaturvedi, Sharad Sinha, <span style="color:black">**Zhiyao Xie**</span>, Jiang Xu, and Wei Zhang </span>      
-<span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2026. *(Acceptance rate=25%)*</span> [arxiv](https://arxiv.org/abs/2512.11342){: .btn--paper}  
+<span style="font-size:95%">Design, Automation and Test in Europe Conference (DATE), 2026. *(Acceptance rate=25%)*</span> [pdf](https://zhiyaoxie.github.io/files/DATE26_DAPO.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2512.11342){: .btn--paper}  
 
 * [ASPDAC'26](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Shang Liu</u>, <u>Yao Lu</u>, <u>Mengming Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
@@ -193,7 +193,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ISEDA'25](https://www.eda2.com/iseda/index.html){: .btn} <span style="color:DarkBlue">SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model</span>   
 <span style="color:DimGray; font-size:85%"> <u>Mengming Li</u>, <u>Wenji Fang</u>, <u>Qijun Zhang</u>, <span style="color:black">**Zhiyao Xie\***</span></span>    
-<span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
+<span style="font-size:95%">International Symposium of EDA (ISEDA), 2025.</span> [pdf](https://zhiyaoxie.github.io/files/ISEDA25_SpecLLM.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2401.13266){: .btn--paper}   
 
 * [TCAD'25](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</span>    
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, <u>Mengming Li</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie\***</span></span>    
