@@ -399,7 +399,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Xiaoqing Xu, Matt Walker, Joshua Knebel, Kumaraguru Palaniswamy, Nicolas Hebert, Jiang Hu, Huanrui Yang, Yiran Chen, and Shidhartha Das</span>  
 <span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2021. *(Acceptance rate=22%)*</span> [ACM](https://dl.acm.org/doi/abs/10.1145/3466752.3480064){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/MICRO21_APOLLO.pdf){: .btn--paper}   
 <span style="font-size:100%; color:red">**Best Paper Award**</span> <span style="font-size:80%; color:crimson">(1 awardee out of 430 submissions)</span> [record](https://zhiyaoxie.github.io/images/MICRO21.png){: .btn--orange}    
-<span style="font-size:85%">Virtual, October 18–22, 2021.</span>  
+<span style="font-size:85%">Virtual (broadcast from Athens, Greece), October 18–22, 2021.</span>  
 
 * [ASPDAC'21](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Net$^2$: A Graph Attention Network Method Customized for Pre-Placement Net Length Estimation</span>   
 <span style="color:DimGray; font-size:85%"><span style="color:black">**Zhiyao Xie**</span>, Rongjian Liang, Xiaoqing Xu, Jiang Hu, Yixiao Duan, and Yiran Chen</span>   
