@@ -471,14 +471,16 @@ Patent
 
 Media Coverage
 ======
+* <span style="font-size:95%">"[First for Hong Kong] Prof. XIE Zhiyao Received ACM SIGDA Outstanding New Faculty Award 2026"  
+*HKUST SENG Recognition*, 2026.</span> [News](https://seng.hkust.edu.hk/news/20260803/prof-xie-zhiyao-received-acm-sigda-outstanding-new-faculty-award-2026){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media-ACM-ONFA.pdf){: .btn--paper} [png](https://zhiyaoxie.github.io/images/SIGDA-ONFA.jpg){: .btn--paper}    
 * <span style="font-size:95%">"Three Professors Awarded HK$12.6 Million in RGC’s Collaborative Research Fund 2024/25"  
 *HKUST SENG Recognition*, 2025.</span> [News](https://seng.hkust.edu.hk/news/20250107/three-professors-awarded-hk126-million-rgcs-collaborative-research-fund-202425){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_CRF.pdf){: .btn--paper} [png](https://zhiyaoxie.github.io/files-media/media-YCRG-photo.png){: .btn--paper}    
 * <span style="font-size:95%">"SRC Computer Aided Test and Design Researchers Receive Big Awards,"  
 *SRC CONNECTIONS Newsletter September*, 2023.</span> [News](https://mailchi.mp/606120f0678a/src-connections-newsletter-8294257){: .btn--paper} [png](https://zhiyaoxie.github.io/files-media/media_SRC_CONNECTIONS.png){: .btn--paper}   
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
-*ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_dissertationACCESS.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-SIGDA_photo.jpg){: .btn--paper}     
+*ACCESS Feature News*, 2023.</span> [News](https://inno-access.hk/news/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_dissertationACCESS.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/images/EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/images/SIGDA_photo.jpg){: .btn--paper}     
 * <span style="font-size:95%">"Prof. XIE Zhiyao Won Two Outstanding PhD Dissertation Awards in Electronic Design Automation,"  
-*HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_dissertationHKUST.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/files-media/media-SIGDA_photo.jpg){: .btn--paper}    
+*HKUST News*, 2023.</span> [News](https://seng.hkust.edu.hk/news/20230503/prof-xie-zhiyao-won-two-outstanding-phd-dissertation-awards-electronic-design-automation){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_dissertationHKUST.pdf){: .btn--paper} [jpg](https://zhiyaoxie.github.io/images/EDAA_photo.jpg){: .btn--paper} [jpg](https://zhiyaoxie.github.io/images/SIGDA_photo.jpg){: .btn--paper}    
 * <span style="font-size:95%">"AI Models Microprocessor Performance in Real-Time,"    
 *Duke University News*, 2021.</span> [News](https://pratt.duke.edu/about/news/apollo-microprocessor){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files-media/media_News_Duke.pdf){: .btn--paper}    
 * <span style="font-size:95%">"Apollo: Made to measure,"    
