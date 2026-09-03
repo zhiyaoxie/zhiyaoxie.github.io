@@ -28,6 +28,29 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"><u>Yugao Zhu</u>, <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, Yanzhen Zhu, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access. [IEEE](https://ieeexplore.ieee.org/document/11358933){: .btn--paper} [pdf](https://zhiyaoxie.github.io/files/TCAD26_MFSPart.pdf){: .btn--paper}  
 
+
+<span style="color:DimGray; font-size:95%">    In 2027:</span>  
+
+* [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">UnifyPower: A Unified Framework of Architecture-Level Power Model for Processors</span>   
+<span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Yao Lu</u>, Yanqin Li, <u>Mengming Li</u>, <u>Wenkai Li</u>, <u>Shang Liu</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
+<span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
+
+* [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">RAP: Resource‑Aware Scheduling for GPU Accelerated Hypergraph Partitioning</span>   
+<span style="color:DimGray; font-size:85%"> <u>Shang Liu</u>, <u>Qijun Zhang</u>, <u>Yugao Zhu</u>, <u>Mengming Li</u>, <u>Wenkai Li</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
+<span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
+
+* [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">PP2Tree: Learning-Guided Frontier Partitioning for Scalable Parallel Logic Synthesis</span>   
+<span style="color:DimGray; font-size:85%"> <u>Dimitrios Tsaras</u>, Yiwen Wang, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
+<span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
+
+* [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">DeepResub: Towards Learned Logic Optimization Operators</span>   
+<span style="color:DimGray; font-size:85%"> <u>Dimitrios Tsaras</u>, Xing Li, Yiwen Wang, Lei Chen, Cong Liu, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
+<span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
+
 <span style="color:DimGray; font-size:95%">    In 2026:</span>   
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications</span>     
