@@ -18,7 +18,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [TODAES-Early](https://dl.acm.org/journal/todaes){: .btn} <span style="color:DarkBlue">OSCAR: An Open-Source Flexible and Hierarchical AI Accelerator Generator with Accurate Power Model</span>   
   <span style="color:DimGray; font-size:85%"><u>Jay Zhe-An Mok</u>, <u>Qijun Zhang</u>, <u>Yao Lu</u>, Di Pang, Xuejiao Liu, Dongbo Wang, and <span style="color:black">**Zhiyao Xie\***</span></span>  
-  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), Early Access.</span>  
+  <span style="font-size:95%">ACM Transactions on Design Automation of Electronic Systems (TODAES), Early Access.</span> [ACM](https://dl.acm.org/doi/10.1145/3841479){: .btn--paper}    
 
 * [TCAD-Early](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43){: .btn} <span style="color:DarkBlue">A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</span>    
 <span style="color:DimGray; font-size:85%"><u>Wenkai Li</u>, <u>Yao Lu</u>, <u>Wenji Fang</u>, <u>Yugao Zhu</u>, <u>Ziyan Guo</u>, <u>Jing Wang</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
