@@ -55,12 +55,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 
 * [NeurIPS'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">GEM: Interpretable Language Models via Geometric Embedding Alignment</span>     
-<span style="color:DimGray; font-size:85%"> <u>Dimitris Tsaras</u>, Yankun Hong, Lei Chen, <span style="color:black">**Zhiyao Xie\***</span>, and Mingxuan Yuan</span>     
+<span style="color:DimGray; font-size:85%"> <u>Dimitris Tsaras</u>, Yankun Hong, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>     
 <span style="font-size:95%">Advances in Neural Information Processing Systems (NeurIPS), 2026.</span>     
 <span style="font-size:85%">Sydney, Australia, December 6–12, 2026.</span>  
 
 * [NeurIPS'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">DiversePlace: Diversity-Seeking Curriculum Reinforcement Learning for Macro Placement</span>   
-<span style="color:DimGray; font-size:85%"> Wenrui Zhou, Jiashun Liu, <u>Wenji Fang</u>, <span style="color:black">**Zhiyao Xie\***</span>, and Ling Pan</span>     
+<span style="color:DimGray; font-size:85%"> Wenrui Zhou, Jiashun Liu, <u>Wenji Fang</u>, <span style="color:black">**Zhiyao Xie**</span>, and Ling Pan</span>     
 <span style="font-size:95%">Advances in Neural Information Processing Systems (NeurIPS), 2026.</span>     
 <span style="font-size:85%">Sydney, Australia, December 6–12, 2026.</span>  
 
