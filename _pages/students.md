@@ -62,6 +62,12 @@ author_profile: true
 * **Jingxiang Wang**  <span style="color:DimGray; font-size:85%">(26'Fall)</span>
     * Bachelor in Nanjing University   
 
+* **Hang Zhou**  <span style="color:DimGray; font-size:85%">(26'Fall)</span>
+    * Bachelor and Master in SusTech   
+
+* **Jinghua Wang**  <span style="color:DimGray; font-size:85%">(26'Fall)</span>
+    * Bachelor in University of Chinese Academy of Sciences   
+
 * **Dimitrios Tsaras**  <span style="color:DimGray; font-size:85%">(Part-Time Student)</span>
     * Master in HKUST     
 
