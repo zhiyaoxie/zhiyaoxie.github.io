@@ -21,6 +21,7 @@ author_profile: true
 
 * **Jing Wang** <span style="color:DimGray; font-size:85%">(24'Spring)</span>
     * Bachelor in Peking University, Master in HKU 
+    * Website: [Jing Wang](https://jing-wang-1999.github.io/){: .btn--orange}    
 
 * **Yugao Zhu** <span style="color:DimGray; font-size:85%">(24'Spring)</span>      
     * Bachelor in Tsinghua University
