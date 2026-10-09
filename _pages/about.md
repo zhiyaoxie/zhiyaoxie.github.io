@@ -20,7 +20,8 @@ My bio in Chinese can be accessed [here](https://zhiyaoxie.github.io/files-other
 
 Selected Award & Honors
 ======
-* **ACM SIGDA Outstanding New Faculty Award, 2026 (1 awardee worldwide per year)**  
+* **ACM SIGDA Outstanding New Faculty Award, 2026 (1 awardee worldwide per year)**   
+* Stanford University's list of the World's Top 2% Scientists, 2026     
 * **ACM ASPLOS 2026 Best Paper Award, 2026 (5 out of 1029)**   
 * **CityU HK EE Young Alumni Awards 2026 (1-2 awardees per year)**   
 * [My student] 1st LLM-Aided Design (LAD) Fellowship, 2026 (7 awardees worldwide)   
