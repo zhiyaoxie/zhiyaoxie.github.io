@@ -80,13 +80,13 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications</span>     
 <span style="color:DimGray; font-size:85%"><u>Yuchao Wu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Wenkai Li</u>, <u>Ziyan Guo</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [arxiv](https://arxiv.org/abs/2605.27472){: .btn--paper}  
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026. *(Acceptance rate=23.8%)*</span> [arxiv](https://arxiv.org/abs/2605.27472){: .btn--paper}  
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">CorrectRTL: Boost RTL Generation Quality Through Automated Self-Correction with Instruction Decomposition</span>     
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, <u>Wenji Fang</u>, <u>Yuchao Wu</u>, <u>Yugao Zhu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span>  
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026. *(Acceptance rate=23.8%)*</span>  
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, <u>Ziyan Guo</u>, Junxian He, Fengbin Tu, and <span style="color:black">**Zhiyao Xie\***</span></span>     
@@ -95,12 +95,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">E-Layout: Layout-Stage Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, Rongjian Liang, Yi-Chen Lu, Cunxi Yu, Chen Chen, <u>Shang Liu</u>, Chenhui Deng, <u>Wenkai Li</u>, Haoxing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>     
-<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD26_E-Layout.pdf){: .btn--paper}    
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
+<span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026. *(Acceptance rate=23.8%)*</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD26_E-Layout.pdf){: .btn--paper}    
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
 
 * [MICRO'26](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs</span>  
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou\*, <span style="color:black">**Zhiyao Xie\***</span></span>  
-<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.</span> [pdf](https://zhiyaoxie.github.io/files/MICRO26_HALO.pdf){: .btn--paper}   
+<span style="font-size:95%">IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026. *(Acceptance rate=25.6%)*</span> [pdf](https://zhiyaoxie.github.io/files/MICRO26_HALO.pdf){: .btn--paper}   
 <span style="font-size:85%">Athens, Greece, October 31–November 4, 2026.</span>  
 
 * [DAC'26](https://dac.com/2026){: .btn} <span style="color:DarkBlue">LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power</span>     
