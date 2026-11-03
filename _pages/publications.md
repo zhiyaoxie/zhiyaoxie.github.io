@@ -57,12 +57,12 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
 
 * [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Agentic AI Meets Formal Verification in the Era of Agentic Hardware Development <span style="font-size:90%">(Invited)</span></span>   
-<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Yuchao Wu</u>, <u>Jing Wang</u>, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Yuchao Wu</u>, <u>Jing Wang</u>, <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027. <span style="font-size:85%">*(Acceptance rate=29.5%)*</span></span>   
 <span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
 
 * [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Toward Autonomous RTL and Synthesis Optimization: Benchmarking and Self-Improving Agents <span style="font-size:90%">(Invited)</span></span>   
-<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jinghua Wang</u>, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jinghua Wang</u>, <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027. <span style="font-size:85%">*(Acceptance rate=29.5%)*</span></span>   
 <span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
 
