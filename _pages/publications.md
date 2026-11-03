@@ -31,6 +31,11 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 
 <span style="color:DimGray; font-size:95%">    In 2027:</span>  
 
+* [HPCA'27](https://hpca-conf.org/2027/){: .btn} <span style="color:DarkBlue">GPS: Guiding Phase-Level Prefetcher Selection with Data-Driven Method</span>   
+<span style="color:DimGray; font-size:85%"> <u>Buqing Xu</u>, <u>Mengming Li</u>, <u>Qijun Zhang</u>, <u>Ziyan Guo</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>    
+<span style="font-size:95%">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027. *(Acceptance rate=17.9%)*</span>             
+<span style="font-size:85%">Salt Lake City, United States, Wed 20–24, 2027.</span>  
+
 * [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">UnifyPower: A Unified Framework of Architecture-Level Power Model for Processors</span>   
 <span style="color:DimGray; font-size:85%"> <u>Qijun Zhang</u>, <u>Yao Lu</u>, Yanqin Li, <u>Mengming Li</u>, <u>Wenkai Li</u>, <u>Shang Liu</u>, Andrea Mondelli, and <span style="color:black">**Zhiyao Xie\***</span></span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
@@ -51,8 +56,17 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
 <span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
 
-<span style="color:DimGray; font-size:95%">    In 2026:</span>   
+* [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Agentic AI Meets Formal Verification in the Era of Agentic Hardware Development <span style="font-size:90%">(Invited)</span></span>   
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Yuchao Wu</u>, <u>Jing Wang</u>, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
+<span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
 
+* [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">Toward Autonomous RTL and Synthesis Optimization: Benchmarking and Self-Improving Agents <span style="font-size:90%">(Invited)</span></span>   
+<span style="color:DimGray; font-size:85%"> <u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Jinghua Wang</u>, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
+<span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027.</span>   
+<span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
+
+<span style="color:DimGray; font-size:95%">    In 2026:</span>   
 
 * [NeurIPS'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">GEM: Interpretable Language Models via Geometric Embedding Alignment</span>     
 <span style="color:DimGray; font-size:85%"> <u>Dimitris Tsaras</u>, Yankun Hong, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>     
@@ -67,22 +81,22 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">AssertLLM2: A Comprehensive LLM Benchmark for Assertion Generation from Design Specifications</span>     
 <span style="color:DimGray; font-size:85%"><u>Yuchao Wu</u>, <u>Wenji Fang</u>, <u>Jing Wang</u>, <u>Wenkai Li</u>, <u>Ziyan Guo</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [arxiv](https://arxiv.org/abs/2605.27472){: .btn--paper}  
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">CorrectRTL: Boost RTL Generation Quality Through Automated Self-Correction with Instruction Decomposition</span>     
 <span style="color:DimGray; font-size:85%"><u>Jing Wang</u>, <u>Shang Liu</u>, <u>Hangan Zhou</u>, <u>Wenji Fang</u>, <u>Yuchao Wu</u>, <u>Yugao Zhu</u>, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span>  
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, <u>Yao Lu</u>, <u>Shang Liu</u>, <u>Jing Wang</u>, <u>Ziyan Guo</u>, Junxian He, Fengbin Tu, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD26_DrRTL.pdf){: .btn--paper} [arxiv](https://arxiv.org/abs/2604.14989){: .btn--paper}   
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
 
 * [ICCAD'26](https://iccad.com/){: .btn} <span style="color:DarkBlue">E-Layout: Layout-Stage Restructuring via RL-Optimized Equality-Saturated Graph Retrieval-Augmented Generation</span>     
 <span style="color:DimGray; font-size:85%"><u>Wenji Fang</u>, Rongjian Liang, Yi-Chen Lu, Cunxi Yu, Chen Chen, <u>Shang Liu</u>, Chenhui Deng, <u>Wenkai Li</u>, Haoxing Ren, and <span style="color:black">**Zhiyao Xie\***</span></span>     
 <span style="font-size:95%">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2026.</span> [pdf](https://zhiyaoxie.github.io/files/ICCAD26_E-Layout.pdf){: .btn--paper}    
-<span style="font-size:85%">San Jose, United States, November 8–12, 2026.</span>  
+<span style="font-size:85%">San Jose, United States, November 8–12, 2026. *(Acceptance rate=23.8%)*</span>  
 
 * [MICRO'26](https://www.microarch.org/){: .btn} <span style="color:DarkBlue">Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs</span>  
 <span style="color:DimGray; font-size:85%"><u>Qijun Zhang</u>, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, <u>Mengming Li</u>, Guangyu Sun, Cheng Zhang, Zhe Zhou\*, <span style="color:black">**Zhiyao Xie\***</span></span>  
