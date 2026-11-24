@@ -44,9 +44,9 @@ Selected Award & Honors
 
 Selected Award & Honors of Students
 ======
-* [Shang Liu] 1st LLM-Aided Design (LAD) Fellowship, 2027 (the only non-US awardee)  
+* [Shang Liu] IEEE LLM-Aided Design (LAD) Fellowship, 2027 (the only non-US awardee)  
 * [Wenji Fang] Most Popular Poster Award, ICCD, 2026  
-* [Wenji Fang] 1st LLM-Aided Design (LAD) Fellowship, 2026 (the only non-US awardee)   
+* [Wenji Fang] IEEE LLM-Aided Design (LAD) Fellowship, 2026 (the only non-US awardee)   
 * [Ziyan Guo, Yuchao Wu] 3rd Place, EDAthon Programming Contest, 2026
 * [Wenji Fang] ACM SIGDA Student Research Competition (SRC) 2nd Place Award, 2025   
 
