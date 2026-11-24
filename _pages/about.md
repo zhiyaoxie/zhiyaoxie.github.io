@@ -12,16 +12,17 @@ Assistant Professor
 
 Zhiyao Xie is an Assistant Professor in the ECE Department at Hong Kong University of Science and Technology (HKUST) since 2022. His research focuses on AI-assisted electronic design automation (EDA) and chip design methodologies. He completed his Ph.D. at Duke University in 2022 under the supervision of Prof. Yiran Chen and Prof. Hai (Helen) Li, following his B.Eng from CityU HK in 2017 with a full scholarship & first-class honours. During his Ph.D. studies, Zhiyao also worked as a research intern at leading IC and EDA companies, including NVIDIA, Arm, Cadence, and Synopsys. He was fortunate to be mentored by Dr. Haoxing (Mark) Ren, Dr. Brucek Khailany, Dr. Xiaoqing Xu, Dr. Shidhartha Das, and Prof. Jiang Hu.    
 
-Zhiyao has received multiple prestigious awards, including the ACM SIGDA Outstanding New Faculty Award 2026 (1 awardee worldwide per year), RGC HK Early Career Award 2023 (7 out of 525 HK faculty), ACM Outstanding Dissertation Award in EDA 2023 (1 awardee worldwide per year), EDAA Outstanding Dissertation Award 2023 (4 awardees worldwide per year), MICRO 2021 Best Paper Award (1st-author, 1 out of 430), ASP-DAC 2023 Best Paper Award (2 out of 328), ASPLOS 2026 Best Paper Award (5 out of 1029), WAIC Yufan Award (Bright Star) 2023, ACM SIGDA SRF 2022 Best Research Poster Award, and 4 more best paper nominations. He also received Faculty Teaching Excellence Appreciation Award 2023/24 for his computer architecture course. He has published 90+ refereed papers (70+ first-authored by his students or himself), with 40+ in the top EDA venues (DAC, ICCAD, IEEE TCAD) and some others in top computer architecture venues (MICRO, ISCA, HPCA, ASPLOS).   
+Zhiyao has received multiple prestigious awards, including the ACM SIGDA Outstanding New Faculty Award 2026 (1 awardee worldwide per year), RGC HK Early Career Award 2023 (7 out of 525 HK faculty), ACM Outstanding Dissertation Award in EDA 2023 (1 awardee worldwide per year), EDAA Outstanding Dissertation Award 2023 (4 awardees worldwide per year), MICRO 2021 Best Paper Award (1st-author, 1 out of 430), ASP-DAC 2023 Best Paper Award (2 out of 328), ASPLOS 2026 Best Paper Award (5 out of 1029), WAIC Yufan Award (Bright Star) 2023, ACM SIGDA SRF 2022 Best Research Poster Award, and 5 more best paper nominations. He also received Faculty Teaching Excellence Appreciation Award 2023/24 for his computer architecture course. He has published 90+ refereed papers (70+ first-authored by his students or himself), with 40+ in the top EDA venues (DAC, ICCAD, IEEE TCAD) and some others in top computer architecture venues (MICRO, ISCA, HPCA, ASPLOS).   
 
 He has served as the TPC Member/TPC Track Chair/Student Forum Chair of all major EDA conferences: DAC, ICCAD, DATE, ASPDAC, MLCAD, ICLAD, ISEDA, and GLSVLSI. He also served as the Associate Editor of ACM TODAES, as well as the reviewer of 10+ IEEE/ACM journals. In addition, he served as the Chair of IEEE Council on Electronic Design Automation (CEDA) Hong Kong Chapter.  
 
 My bio in Chinese can be accessed [here](https://zhiyaoxie.github.io/files-other/bio-Chinese.pdf){: .btn--paper}  
 
-Selected Award & Honors
+Award & Honors
 ======
 * **ACM SIGDA Outstanding New Faculty Award, 2026 (1 awardee worldwide per year)**   
 * Stanford University's list of the World's Top 2% Scientists, 2026     
+* ASP-DAC 2026 Best Paper Nomination, 2026      
 * **ACM ASPLOS 2026 Best Paper Award, 2026 (5 out of 1029)**   
 * **CityU HK EE Young Alumni Awards 2026 (1-2 awardees per year)**   
 * ASP-DAC 2025 Best Paper Nomination, 2025 (13 out of 537)   
@@ -42,13 +43,13 @@ Selected Award & Honors
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
-Selected Award & Honors of Students
+Award & Honors of My Students
 ======
-* [Shang Liu] IEEE LLM-Aided Design (LAD) Fellowship, 2027 (the only non-US awardee)  
-* [Wenji Fang] Most Popular Poster Award, ICCD, 2026  
-* [Wenji Fang] IEEE LLM-Aided Design (LAD) Fellowship, 2026 (the only non-US awardee)   
-* [Ziyan Guo, Yuchao Wu] 3rd Place, EDAthon Programming Contest, 2026
-* [Wenji Fang] ACM SIGDA Student Research Competition (SRC) 2nd Place Award, 2025   
+* <span style="color:DimGray; font-size:90%">[Shang Liu]</span> IEEE LLM-Aided Design (LAD) Fellowship, 2027 (the only non-US awardee)  
+* <span style="color:DimGray; font-size:90%">[Wenji Fang]</span> Most Popular Poster Award, ICCD, 2026  
+* <span style="color:DimGray; font-size:90%">[Wenji Fang]</span> IEEE LLM-Aided Design (LAD) Fellowship, 2026 (the only non-US awardee)   
+* <span style="color:DimGray; font-size:90%">[Ziyan Guo, Yuchao Wu]</span> 3rd Place Award, EDAthon Programming Contest, 2026
+* <span style="color:DimGray; font-size:90%">[Wenji Fang]</span> 2nd Place Award, ACM SIGDA Student Research Competition (SRC), 2025   
 
 
 Selected Research Works   

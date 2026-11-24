@@ -50,6 +50,7 @@ My own supervised students in HKUST are highlighted with <u>underline</u>. Corre
 <span style="color:DimGray; font-size:85%"> <u>Dimitrios Tsaras</u>, Yiwen Wang, Lei Chen, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
 <span style="font-size:95%">Asia and South Pacific Design Automation Conference (ASP-DAC), 2027. <span style="font-size:85%">*(Acceptance rate=29.5%)*</span></span>   
 <span style="font-size:85%">Tokyo, Japan, January 25–28, 2027.</span>   
+<span style="font-size:90%; color:red">Best Paper Nomination</span>     
 
 * [ASPDAC'27](https://www.aspdac.com/){: .btn} <span style="color:DarkBlue">DeepResub: Towards Learned Logic Optimization Operators</span>   
 <span style="color:DimGray; font-size:85%"> <u>Dimitrios Tsaras</u>, Xing Li, Yiwen Wang, Lei Chen, Cong Liu, <span style="color:black">**Zhiyao Xie**</span>, and Mingxuan Yuan</span>    
