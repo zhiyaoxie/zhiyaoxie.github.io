@@ -43,7 +43,7 @@ Award & Honors
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
-Award & Honors of My Students
+Other Award & Honors of My Students
 ======
 * <span style="color:DimGray; font-size:90%">[Shang Liu]</span> IEEE LLM-Aided Design (LAD) Fellowship, 2027 (the only non-US awardee)  
 * <span style="color:DimGray; font-size:90%">[Wenji Fang]</span> Most Popular Poster Award, ICCD, 2026  
