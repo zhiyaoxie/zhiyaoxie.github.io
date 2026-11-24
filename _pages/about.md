@@ -24,8 +24,6 @@ Selected Award & Honors
 * Stanford University's list of the World's Top 2% Scientists, 2026     
 * **ACM ASPLOS 2026 Best Paper Award, 2026 (5 out of 1029)**   
 * **CityU HK EE Young Alumni Awards 2026 (1-2 awardees per year)**   
-* [My student] 1st LLM-Aided Design (LAD) Fellowship, 2026 (7 awardees worldwide)   
-* [My student] ACM SIGDA Student Research Competition (SRC) 2nd Place Award, 2025   
 * ASP-DAC 2025 Best Paper Nomination, 2025 (13 out of 537)   
 * **Faculty Teaching Excellence Appreciation Award, ECE Department, 2023/24**   
 * ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024 (8 out of 167)   
@@ -44,6 +42,13 @@ Selected Award & Honors
 * Outstanding Student Prize, CityU HK, 2016  
 * Full Scholarship for Mainland Undergraduates, CityU HK, 2013-2017   
 
+Selected Award & Honors of Students
+======
+* [Shang Liu] 1st LLM-Aided Design (LAD) Fellowship, 2027 (the only non-US awardee)  
+* [Wenji Fang] Most Popular Poster Award, ICCD, 2026  
+* [Wenji Fang] 1st LLM-Aided Design (LAD) Fellowship, 2026 (the only non-US awardee)   
+* [Ziyan Guo, Yuchao Wu] 3rd Place, EDAthon Programming Contest, 2026
+* [Wenji Fang] ACM SIGDA Student Research Competition (SRC) 2nd Place Award, 2025   
 
 
 Selected Research Works   
